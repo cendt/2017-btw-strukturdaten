@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 640.08 216.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    line, polyline, path, rect, circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpNDIuODM5NXw2NDAuMDh8MjA2LjA2fDA='>
+    <rect x='42.84' y='0.00' width='597.24' height='206.06' />
+  </clipPath>
+</defs>
+<rect x='42.84' y='171.16' width='101.53' height='29.91' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #4093B2;' clip-path='url(#cpNDIuODM5NXw2NDAuMDh8MjA2LjA2fDA=)' />
+<rect x='42.84' y='137.93' width='98.97' height='29.91' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #F6CE5E;' clip-path='url(#cpNDIuODM5NXw2NDAuMDh8MjA2LjA2fDA=)' />
+<rect x='42.84' y='104.69' width='82.76' height='29.91' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #60A961;' clip-path='url(#cpNDIuODM5NXw2NDAuMDh8MjA2LjA2fDA=)' />
+<rect x='42.84' y='71.46' width='69.11' height='29.91' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #B53360;' clip-path='url(#cpNDIuODM5NXw2NDAuMDh8MjA2LjA2fDA=)' />
+<rect x='42.84' y='38.22' width='200.50' height='29.91' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #E53E44;' clip-path='url(#cpNDIuODM5NXw2NDAuMDh8MjA2LjA2fDA=)' />
+<rect x='42.84' y='4.99' width='263.64' height='29.91' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #333333;' clip-path='url(#cpNDIuODM5NXw2NDAuMDh8MjA2LjA2fDA=)' />
+<g clip-path='url(#cpNDIuODM5NXw2NDAuMDh8MjA2LjA2fDA=)'><text x='153.14' y='191.81' style='font-size: 18.07px; font-family: SZoSansCond-Regular;' textLength='87.70px' lengthAdjust='spacingAndGlyphs'>11.9% (+6.3%)</text></g>
+<g clip-path='url(#cpNDIuODM5NXw2NDAuMDh8MjA2LjA2fDA=)'><text x='149.47' y='158.57' style='font-size: 18.07px; font-family: SZoSansCond-Regular;' textLength='76.62px' lengthAdjust='spacingAndGlyphs'>11.6% (+6%)</text></g>
+<g clip-path='url(#cpNDIuODM5NXw2NDAuMDh8MjA2LjA2fDA=)'><text x='133.58' y='125.34' style='font-size: 18.07px; font-family: SZoSansCond-Regular;' textLength='79.77px' lengthAdjust='spacingAndGlyphs'>9.7% (-0.3%)</text></g>
+<g clip-path='url(#cpNDIuODM5NXw2NDAuMDh8MjA2LjA2fDA=)'><text x='119.99' y='92.10' style='font-size: 18.07px; font-family: SZoSansCond-Regular;' textLength='80.40px' lengthAdjust='spacingAndGlyphs'>8.1% (+2.1%)</text></g>
+<g clip-path='url(#cpNDIuODM5NXw2NDAuMDh8MjA2LjA2fDA=)'><text x='252.04' y='58.87' style='font-size: 18.07px; font-family: SZoSansCond-Regular;' textLength='87.00px' lengthAdjust='spacingAndGlyphs'>23.5% (-5.3%)</text></g>
+<g clip-path='url(#cpNDIuODM5NXw2NDAuMDh8MjA2LjA2fDA=)'><text x='315.30' y='25.63' style='font-size: 18.07px; font-family: SZoSansCond-Regular;' textLength='88.17px' lengthAdjust='spacingAndGlyphs'>30.9% (-8.3%)</text></g>
+<defs>
+  <clipPath id='cpMHw2NDAuMDh8MjE2fDA='>
+    <rect x='0.00' y='0.00' width='640.08' height='216.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMHw2NDAuMDh8MjE2fDA=)'><text x='14.53' y='191.79' style='font-size: 18.00px; fill: #4D4D4D; font-family: SZoSansCond-Light;' textLength='23.38px' lengthAdjust='spacingAndGlyphs'>AfD</text></g>
+<g clip-path='url(#cpMHw2NDAuMDh8MjE2fDA=)'><text x='13.32' y='158.55' style='font-size: 18.00px; fill: #4D4D4D; font-family: SZoSansCond-Light;' textLength='24.59px' lengthAdjust='spacingAndGlyphs'>FDP</text></g>
+<g clip-path='url(#cpMHw2NDAuMDh8MjE2fDA=)'><text x='0.00' y='125.32' style='font-size: 18.00px; fill: #4D4D4D; font-family: SZoSansCond-Light;' textLength='37.91px' lengthAdjust='spacingAndGlyphs'>Grüne</text></g>
+<g clip-path='url(#cpMHw2NDAuMDh8MjE2fDA=)'><text x='4.16' y='92.08' style='font-size: 18.00px; fill: #4D4D4D; font-family: SZoSansCond-Light;' textLength='33.75px' lengthAdjust='spacingAndGlyphs'>Linke</text></g>
+<g clip-path='url(#cpMHw2NDAuMDh8MjE2fDA=)'><text x='13.01' y='58.85' style='font-size: 18.00px; fill: #4D4D4D; font-family: SZoSansCond-Light;' textLength='24.89px' lengthAdjust='spacingAndGlyphs'>SPD</text></g>
+<g clip-path='url(#cpMHw2NDAuMDh8MjE2fDA=)'><text x='11.41' y='25.61' style='font-size: 18.00px; fill: #4D4D4D; font-family: SZoSansCond-Light;' textLength='26.50px' lengthAdjust='spacingAndGlyphs'>CDU</text></g>
+</svg>

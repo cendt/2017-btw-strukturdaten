@@ -1,0 +1,300 @@
+Nr,Gebiet,Partei,Prozent,indikator,wert
+1,Flensburg – Schleswig,Linke,8.21322096762835,Ohne_Abschluss.Prozent,8.2
+2,Nordfriesland – Dithmarschen Nord,Linke,6.22053231939163,Ohne_Abschluss.Prozent,7.9
+3,Steinburg – Dithmarschen Süd,Linke,6.6720152817574,Ohne_Abschluss.Prozent,7.8
+4,Rendsburg-Eckernförde,Linke,6.37494560626616,Ohne_Abschluss.Prozent,7.4
+5,Kiel,Linke,10.298788730331,Ohne_Abschluss.Prozent,6.6
+6,Plön – Neumünster,Linke,6.51500988399712,Ohne_Abschluss.Prozent,7.9
+7,Pinneberg,Linke,7.03485502114052,Ohne_Abschluss.Prozent,6
+8,Segeberg – Stormarn-Mitte,Linke,6.89653375847283,Ohne_Abschluss.Prozent,6.2
+9,Ostholstein – Stormarn-Nord,Linke,6.04707407866077,Ohne_Abschluss.Prozent,9.8
+10,Herzogtum Lauenburg – Stormarn-Süd,Linke,6.49994009511853,Ohne_Abschluss.Prozent,6.8
+11,Lübeck,Linke,9.41335079542391,Ohne_Abschluss.Prozent,9.5
+12,Schwerin – Ludwigslust-Parchim I – Nordwestmecklenburg I,Linke,16.6840398424832,Ohne_Abschluss.Prozent,8.9
+13,Ludwigslust-Parchim II – Nordwestmecklenburg II – Landkreis Rostock I,Linke,16.8198858781046,Ohne_Abschluss.Prozent,8.7
+14,Rostock – Landkreis Rostock II,Linke,20.6862346432048,Ohne_Abschluss.Prozent,9.2
+15,Vorpommern-Rügen – Vorpommern-Greifswald I,Linke,17.996427952763,Ohne_Abschluss.Prozent,7.7
+16,Mecklenburgische Seenplatte I – Vorpommern-Greifswald II,Linke,17.6006252947218,Ohne_Abschluss.Prozent,8.1
+17,Mecklenburgische Seenplatte II – Landkreis Rostock III,Linke,16.8897436077402,Ohne_Abschluss.Prozent,8.1
+18,Hamburg-Mitte,Linke,14.9552598370999,Ohne_Abschluss.Prozent,5.5
+19,Hamburg-Altona,Linke,15.701425459759,Ohne_Abschluss.Prozent,5.5
+20,Hamburg-Eimsbüttel,Linke,12.4415853965103,Ohne_Abschluss.Prozent,5.5
+21,Hamburg-Nord,Linke,9.36229939741718,Ohne_Abschluss.Prozent,5.5
+22,Hamburg-Wandsbek,Linke,9.82437074949169,Ohne_Abschluss.Prozent,5.5
+23,Hamburg-Bergedorf – Harburg,Linke,11.2530326816041,Ohne_Abschluss.Prozent,5.5
+24,Aurich – Emden,Linke,7.18889369456242,Ohne_Abschluss.Prozent,7.6
+25,Unterems,Linke,5.40716649614468,Ohne_Abschluss.Prozent,7
+26,Friesland – Wilhelmshaven – Wittmund,Linke,7.07853327034197,Ohne_Abschluss.Prozent,4.6
+27,Oldenburg – Ammerland,Linke,9.36004305310646,Ohne_Abschluss.Prozent,5.2
+28,Delmenhorst – Wesermarsch – Oldenburg-Land,Linke,6.85175751400917,Ohne_Abschluss.Prozent,5.2
+29,Cuxhaven – Stade II,Linke,6.47971801358765,Ohne_Abschluss.Prozent,4.2
+30,Stade I – Rotenburg II,Linke,6.28004668983573,Ohne_Abschluss.Prozent,4.6
+31,Mittelems,Linke,4.5669837328815,Ohne_Abschluss.Prozent,6.4
+32,Cloppenburg – Vechta,Linke,4.39640903525126,Ohne_Abschluss.Prozent,5.1
+33,Diepholz – Nienburg I,Linke,6.07782825093534,Ohne_Abschluss.Prozent,3.3
+34,Osterholz – Verden,Linke,7.28045325779037,Ohne_Abschluss.Prozent,4.3
+35,Rotenburg I – Heidekreis,Linke,5.88515190686535,Ohne_Abschluss.Prozent,6.2
+36,Harburg,Linke,6.29374976687513,Ohne_Abschluss.Prozent,2.3
+37,Lüchow-Dannenberg – Lüneburg,Linke,9.06677703406642,Ohne_Abschluss.Prozent,4
+38,Osnabrück-Land,Linke,6.09619686800895,Ohne_Abschluss.Prozent,5.8
+39,Stadt Osnabrück,Linke,8.42549302676715,Ohne_Abschluss.Prozent,6.2
+40,Nienburg II – Schaumburg,Linke,5.69119646265603,Ohne_Abschluss.Prozent,4.1
+41,Stadt Hannover I,Linke,9.29280554580292,Ohne_Abschluss.Prozent,4.8
+42,Stadt Hannover II,Linke,12.0345735701263,Ohne_Abschluss.Prozent,4.8
+43,Hannover-Land I,Linke,6.03747012868921,Ohne_Abschluss.Prozent,4.8
+44,Celle – Uelzen,Linke,5.77532333610804,Ohne_Abschluss.Prozent,4.4
+45,Gifhorn – Peine,Linke,6.0688503072609,Ohne_Abschluss.Prozent,4.3
+46,Hameln-Pyrmont – Holzminden,Linke,6.58276235124414,Ohne_Abschluss.Prozent,6.2
+47,Hannover-Land II,Linke,6.58039677022619,Ohne_Abschluss.Prozent,4.8
+48,Hildesheim,Linke,6.48028759024332,Ohne_Abschluss.Prozent,6.9
+49,Salzgitter – Wolfenbüttel,Linke,7.23460278723268,Ohne_Abschluss.Prozent,5.1
+50,Braunschweig,Linke,9.33004885771215,Ohne_Abschluss.Prozent,5
+51,Helmstedt – Wolfsburg,Linke,6.65392250569811,Ohne_Abschluss.Prozent,4.9
+52,Goslar – Northeim – Osterode,Linke,6.35224247936758,Ohne_Abschluss.Prozent,4.3
+53,Göttingen,Linke,8.7096983764182,Ohne_Abschluss.Prozent,4.1
+54,Bremen I,Linke,14.2120239036539,Ohne_Abschluss.Prozent,5.7
+55,Bremen II – Bremerhaven,Linke,12.5512597204888,Ohne_Abschluss.Prozent,6.2
+56,Prignitz – Ostprignitz-Ruppin – Havelland I,Linke,16.4228768326464,Ohne_Abschluss.Prozent,9.2
+57,Uckermark – Barnim I,Linke,18.6435382969252,Ohne_Abschluss.Prozent,9.1
+58,Oberhavel – Havelland II,Linke,14.2904093381463,Ohne_Abschluss.Prozent,6.4
+59,Märkisch-Oderland – Barnim II,Linke,20.6520831593888,Ohne_Abschluss.Prozent,8.3
+60,Brandenburg an der Havel – Potsdam-Mittelmark I – Havelland III – Teltow-Fläming I,Linke,16.5889739808781,Ohne_Abschluss.Prozent,7.4
+61,Potsdam – Potsdam-Mittelmark II – Teltow-Fläming II,Linke,18.110025017409,Ohne_Abschluss.Prozent,4.7
+62,Dahme-Spreewald – Teltow-Fläming III – Oberspreewald-Lausitz I,Linke,15.7995781731653,Ohne_Abschluss.Prozent,7.5
+63,Frankfurt (Oder) – Oder-Spree,Linke,18.9880206106372,Ohne_Abschluss.Prozent,8.1
+64,Cottbus – Spree-Neiße,Linke,16.5011882147554,Ohne_Abschluss.Prozent,8.1
+65,Elbe-Elster – Oberspreewald-Lausitz II,Linke,15.4972594598164,Ohne_Abschluss.Prozent,7.9
+66,Altmark,Linke,18.5247214738222,Ohne_Abschluss.Prozent,11
+67,Börde – Jerichower Land,Linke,16.6856872742006,Ohne_Abschluss.Prozent,9.1
+68,Harz,Linke,17.7121458348053,Ohne_Abschluss.Prozent,8.9
+69,Magdeburg,Linke,18.69701248375,Ohne_Abschluss.Prozent,10.9
+70,Dessau – Wittenberg,Linke,17.3343415580359,Ohne_Abschluss.Prozent,9.8
+71,Anhalt,Linke,17.7895518080237,Ohne_Abschluss.Prozent,9.9
+72,Halle,Linke,19.2223501154366,Ohne_Abschluss.Prozent,10.8
+73,Burgenland – Saalekreis,Linke,16.283407766314,Ohne_Abschluss.Prozent,11.6
+74,Mansfeld,Linke,17.3316319502345,Ohne_Abschluss.Prozent,13.8
+75,Berlin-Mitte,Linke,21.367956096908,Ohne_Abschluss.Prozent,10
+76,Berlin-Pankow,Linke,23.4098139038351,Ohne_Abschluss.Prozent,10
+77,Berlin-Reinickendorf,Linke,8.52994151786707,Ohne_Abschluss.Prozent,10
+78,Berlin-Spandau – Charlottenburg Nord,Linke,9.76671922117283,Ohne_Abschluss.Prozent,10
+79,Berlin-Steglitz-Zehlendorf,Linke,9.15413754707163,Ohne_Abschluss.Prozent,10
+80,Berlin-Charlottenburg-Wilmersdorf,Linke,11.6837567595143,Ohne_Abschluss.Prozent,10
+81,Berlin-Tempelhof-Schöneberg,Linke,13.2062513609943,Ohne_Abschluss.Prozent,10
+82,Berlin-Neukölln,Linke,18.3474185072083,Ohne_Abschluss.Prozent,10
+83,Berlin-Friedrichshain-Kreuzberg – Prenzlauer Berg Ost,Linke,28.5864757914339,Ohne_Abschluss.Prozent,10
+84,Berlin-Treptow-Köpenick,Linke,25.1691483677424,Ohne_Abschluss.Prozent,10
+85,Berlin-Marzahn-Hellersdorf,Linke,26.0684759428588,Ohne_Abschluss.Prozent,10
+86,Berlin-Lichtenberg,Linke,29.2995234853642,Ohne_Abschluss.Prozent,10
+87,Aachen I,Linke,10.3452469524409,Ohne_Abschluss.Prozent,5.1
+88,Aachen II,Linke,5.88982581686587,Ohne_Abschluss.Prozent,5.1
+89,Heinsberg,Linke,5.61426918681818,Ohne_Abschluss.Prozent,5.3
+90,Düren,Linke,5.86734693877551,Ohne_Abschluss.Prozent,5.4
+91,Rhein-Erft-Kreis I,Linke,5.99961027812449,Ohne_Abschluss.Prozent,3.6
+92,Euskirchen – Rhein-Erft-Kreis II,Linke,6.12140774118014,Ohne_Abschluss.Prozent,4.6
+93,Köln I,Linke,11.0054749659167,Ohne_Abschluss.Prozent,5.1
+94,Köln II,Linke,10.706420808005,Ohne_Abschluss.Prozent,5.1
+95,Köln III,Linke,12.7859927904068,Ohne_Abschluss.Prozent,5.1
+96,Bonn,Linke,9.55989442376693,Ohne_Abschluss.Prozent,2.8
+97,Rhein-Sieg-Kreis I,Linke,7.13437556429857,Ohne_Abschluss.Prozent,4.1
+98,Rhein-Sieg-Kreis II,Linke,6.41945934708162,Ohne_Abschluss.Prozent,4.1
+99,Oberbergischer Kreis,Linke,6.38702727806338,Ohne_Abschluss.Prozent,3.8
+100,Rheinisch-Bergischer Kreis,Linke,6.40774341272182,Ohne_Abschluss.Prozent,3.7
+101,Leverkusen – Köln IV,Linke,9.30778892019757,Ohne_Abschluss.Prozent,4.2
+102,Wuppertal I,Linke,10.8374450554998,Ohne_Abschluss.Prozent,6.2
+103,Solingen – Remscheid – Wuppertal II,Linke,7.81015338405101,Ohne_Abschluss.Prozent,5.8
+104,Mettmann I,Linke,6.41849652875946,Ohne_Abschluss.Prozent,4.9
+105,Mettmann II,Linke,6.79668603296288,Ohne_Abschluss.Prozent,4.9
+106,Düsseldorf I,Linke,8.53644348787156,Ohne_Abschluss.Prozent,5
+107,Düsseldorf II,Linke,9.89926058956407,Ohne_Abschluss.Prozent,5
+108,Neuss I,Linke,6.23153810786469,Ohne_Abschluss.Prozent,2.6
+109,Mönchengladbach,Linke,7.35806658717784,Ohne_Abschluss.Prozent,8.3
+110,Krefeld I – Neuss II,Linke,6.35949124070074,Ohne_Abschluss.Prozent,4.8
+111,Viersen,Linke,6.01281276160357,Ohne_Abschluss.Prozent,3.4
+112,Kleve,Linke,5.58653886300871,Ohne_Abschluss.Prozent,6.4
+113,Wesel I,Linke,6.68657091674786,Ohne_Abschluss.Prozent,5.3
+114,Krefeld II – Wesel II,Linke,7.61940005437574,Ohne_Abschluss.Prozent,6.4
+115,Duisburg I,Linke,8.66737445766212,Ohne_Abschluss.Prozent,6.4
+116,Duisburg II,Linke,8.39941896984925,Ohne_Abschluss.Prozent,6.4
+117,Oberhausen – Wesel III,Linke,8.29212909467122,Ohne_Abschluss.Prozent,5.8
+118,Mülheim – Essen I,Linke,7.44458562755894,Ohne_Abschluss.Prozent,6
+119,Essen II,Linke,8.72041386256467,Ohne_Abschluss.Prozent,6.8
+120,Essen III,Linke,8.25016895327704,Ohne_Abschluss.Prozent,6.8
+121,Recklinghausen I,Linke,7.2995670713844,Ohne_Abschluss.Prozent,6.9
+122,Recklinghausen II,Linke,6.61219223739383,Ohne_Abschluss.Prozent,6.9
+123,Gelsenkirchen,Linke,7.37045381396846,Ohne_Abschluss.Prozent,9.6
+124,Steinfurt I – Borken I,Linke,5.49065572703002,Ohne_Abschluss.Prozent,4.3
+125,Bottrop – Recklinghausen III,Linke,6.83660182823129,Ohne_Abschluss.Prozent,5.9
+126,Borken II,Linke,4.16356261898849,Ohne_Abschluss.Prozent,4.4
+127,Coesfeld – Steinfurt II,Linke,5.38677755958569,Ohne_Abschluss.Prozent,4.3
+128,Steinfurt III,Linke,6.40213492572017,Ohne_Abschluss.Prozent,4.1
+129,Münster,Linke,10.1434868137301,Ohne_Abschluss.Prozent,5.7
+130,Warendorf,Linke,5.54894257396431,Ohne_Abschluss.Prozent,3.7
+131,Gütersloh I,Linke,6.05264210339883,Ohne_Abschluss.Prozent,4.8
+132,Bielefeld – Gütersloh II,Linke,11.09624437306,Ohne_Abschluss.Prozent,6.1
+133,Herford – Minden-Lübbecke II,Linke,6.94002909639528,Ohne_Abschluss.Prozent,4.5
+134,Minden-Lübbecke I,Linke,6.30194831226448,Ohne_Abschluss.Prozent,6.1
+135,Lippe I,Linke,6.58553988254389,Ohne_Abschluss.Prozent,4.9
+136,Höxter – Lippe II,Linke,6.4426762469798,Ohne_Abschluss.Prozent,5.2
+137,Paderborn – Gütersloh III,Linke,6.61226378048059,Ohne_Abschluss.Prozent,5.4
+138,Hagen – Ennepe-Ruhr-Kreis I,Linke,7.22048593608227,Ohne_Abschluss.Prozent,5.6
+139,Ennepe-Ruhr-Kreis II,Linke,8.13053421685334,Ohne_Abschluss.Prozent,6.3
+140,Bochum I,Linke,10.2431068360153,Ohne_Abschluss.Prozent,6
+141,Herne – Bochum II,Linke,8.58183599614406,Ohne_Abschluss.Prozent,7.4
+142,Dortmund I,Linke,10.0088431027026,Ohne_Abschluss.Prozent,7.6
+143,Dortmund II,Linke,9.07482305358948,Ohne_Abschluss.Prozent,7.6
+144,Unna I,Linke,6.89392369351723,Ohne_Abschluss.Prozent,5.7
+145,Hamm – Unna II,Linke,6.96216330883956,Ohne_Abschluss.Prozent,6.8
+146,Soest,Linke,6.76119161524417,Ohne_Abschluss.Prozent,4.6
+147,Hochsauerlandkreis,Linke,5.35487586215923,Ohne_Abschluss.Prozent,5
+148,Siegen-Wittgenstein,Linke,7.84212618970701,Ohne_Abschluss.Prozent,4.8
+149,Olpe – Märkischer Kreis I,Linke,5.42343080746655,Ohne_Abschluss.Prozent,5.5
+150,Märkischer Kreis II,Linke,6.53574375723786,Ohne_Abschluss.Prozent,6.3
+151,Nordsachsen,Linke,14.7268265897937,Ohne_Abschluss.Prozent,8
+152,Leipzig I,Linke,19.4682906394393,Ohne_Abschluss.Prozent,10.8
+153,Leipzig II,Linke,22.4916282120623,Ohne_Abschluss.Prozent,10.8
+154,Leipzig-Land,Linke,14.6607107006625,Ohne_Abschluss.Prozent,7
+155,Meißen,Linke,13.3263538719446,Ohne_Abschluss.Prozent,5.6
+156,Bautzen I,Linke,14.2262628043291,Ohne_Abschluss.Prozent,7.9
+157,Görlitz,Linke,14.0092249842238,Ohne_Abschluss.Prozent,9
+158,Sächsische Schweiz-Osterzgebirge,Linke,12.7685899553673,Ohne_Abschluss.Prozent,9.4
+159,Dresden I,Linke,17.1548810391676,Ohne_Abschluss.Prozent,7.6
+160,Dresden II – Bautzen II,Linke,17.3034958084867,Ohne_Abschluss.Prozent,7.7
+161,Mittelsachsen,Linke,14.4935420822503,Ohne_Abschluss.Prozent,9.1
+162,Chemnitz,Linke,19.2044582145207,Ohne_Abschluss.Prozent,9.7
+163,Chemnitzer Umland – Erzgebirgskreis II,Linke,15.2900093316225,Ohne_Abschluss.Prozent,8.2
+164,Erzgebirgskreis I,Linke,14.0989985484442,Ohne_Abschluss.Prozent,7.5
+165,Zwickau,Linke,16.5740473198627,Ohne_Abschluss.Prozent,8.2
+166,Vogtlandkreis,Linke,16.0263010274726,Ohne_Abschluss.Prozent,6.2
+167,Waldeck,Linke,7.02835216371776,Ohne_Abschluss.Prozent,4.2
+168,Kassel,Linke,11.2923607122343,Ohne_Abschluss.Prozent,5.8
+169,Werra-Meißner – Hersfeld-Rotenburg,Linke,6.67312666427596,Ohne_Abschluss.Prozent,3.7
+170,Schwalm-Eder,Linke,6.48007046290212,Ohne_Abschluss.Prozent,5.1
+171,Marburg,Linke,10.2426412092283,Ohne_Abschluss.Prozent,4.2
+172,Lahn-Dill,Linke,6.68215582970647,Ohne_Abschluss.Prozent,4.8
+173,Gießen,Linke,8.39749012543287,Ohne_Abschluss.Prozent,4.6
+174,Fulda,Linke,5.84078272162193,Ohne_Abschluss.Prozent,3.7
+175,Main-Kinzig – Wetterau II – Schotten,Linke,6.57099586831542,Ohne_Abschluss.Prozent,4.1
+176,Hochtaunus,Linke,6.61231320318929,Ohne_Abschluss.Prozent,3
+177,Wetterau I,Linke,6.74027109750765,Ohne_Abschluss.Prozent,5
+178,Rheingau-Taunus – Limburg,Linke,6.49162981220247,Ohne_Abschluss.Prozent,4.7
+179,Wiesbaden,Linke,9.52064011112236,Ohne_Abschluss.Prozent,5
+180,Hanau,Linke,7.56272672309553,Ohne_Abschluss.Prozent,3.7
+181,Main-Taunus,Linke,5.98199672667758,Ohne_Abschluss.Prozent,4.5
+182,Frankfurt am Main I,Linke,11.9644317681354,Ohne_Abschluss.Prozent,4.4
+183,Frankfurt am Main II,Linke,11.7429366125018,Ohne_Abschluss.Prozent,4.4
+184,Groß-Gerau,Linke,8.19865833206281,Ohne_Abschluss.Prozent,4.1
+185,Offenbach,Linke,8.84167322822441,Ohne_Abschluss.Prozent,5.1
+186,Darmstadt,Linke,10.255495139924,Ohne_Abschluss.Prozent,4.1
+187,Odenwald,Linke,7.37184060054655,Ohne_Abschluss.Prozent,4.9
+188,Bergstraße,Linke,6.61085150571132,Ohne_Abschluss.Prozent,4.5
+189,Eichsfeld – Nordhausen – Kyffhäuserkreis,Linke,14.5021131412374,Ohne_Abschluss.Prozent,7.2
+190,Eisenach – Wartburgkreis – Unstrut-Hainich-Kreis,Linke,15.645822973645,Ohne_Abschluss.Prozent,8.6
+191,Jena – Sömmerda – Weimarer Land I,Linke,18.4640267125789,Ohne_Abschluss.Prozent,5.9
+192,Gotha – Ilm-Kreis,Linke,15.7099180125586,Ohne_Abschluss.Prozent,6.2
+193,Erfurt – Weimar – Weimarer Land II,Linke,19.4028323633322,Ohne_Abschluss.Prozent,8.4
+194,Gera – Greiz – Altenburger Land,Linke,17.4329392066241,Ohne_Abschluss.Prozent,6.7
+195,Saalfeld-Rudolstadt – Saale-Holzland-Kreis – Saale-Orla-Kreis,Linke,16.5500011784393,Ohne_Abschluss.Prozent,7.4
+196,Suhl – Schmalkalden-Meiningen – Hildburghausen – Sonneberg,Linke,16.9290565274066,Ohne_Abschluss.Prozent,7.3
+197,Neuwied,Linke,6.3311778961593,Ohne_Abschluss.Prozent,6.9
+198,Ahrweiler,Linke,5.68045443635491,Ohne_Abschluss.Prozent,4.5
+199,Koblenz,Linke,6.90473326115144,Ohne_Abschluss.Prozent,5.3
+200,Mosel/Rhein-Hunsrück,Linke,6.07091837879479,Ohne_Abschluss.Prozent,8.2
+201,Kreuznach,Linke,6.87130059769317,Ohne_Abschluss.Prozent,6.7
+202,Bitburg,Linke,5.94402239104358,Ohne_Abschluss.Prozent,5.9
+203,Trier,Linke,8.62951274677911,Ohne_Abschluss.Prozent,7.7
+204,Montabaur,Linke,5.91991790255874,Ohne_Abschluss.Prozent,6.6
+205,Mainz,Linke,8.53648216090283,Ohne_Abschluss.Prozent,3.4
+206,Worms,Linke,6.44805353596202,Ohne_Abschluss.Prozent,4.7
+207,Ludwigshafen/Frankenthal,Linke,6.64643665477526,Ohne_Abschluss.Prozent,8.1
+208,Neustadt – Speyer,Linke,6.04319022627549,Ohne_Abschluss.Prozent,5.6
+209,Kaiserslautern,Linke,7.98032458543195,Ohne_Abschluss.Prozent,6.2
+210,Pirmasens,Linke,7.15448257154483,Ohne_Abschluss.Prozent,6.2
+211,Südpfalz,Linke,6.44010305103843,Ohne_Abschluss.Prozent,6.7
+212,Altötting,Linke,5.28794605627874,Ohne_Abschluss.Prozent,4.3
+213,Erding – Ebersberg,Linke,5.13627865787661,Ohne_Abschluss.Prozent,3.5
+214,Freising,Linke,5.12082915845158,Ohne_Abschluss.Prozent,4.6
+215,Fürstenfeldbruck,Linke,5.0726393527249,Ohne_Abschluss.Prozent,3.4
+216,Ingolstadt,Linke,5.37628527674469,Ohne_Abschluss.Prozent,3.3
+217,München-Nord,Linke,8.27883437709426,Ohne_Abschluss.Prozent,6
+218,München-Ost,Linke,7.57819260724441,Ohne_Abschluss.Prozent,6
+219,München-Süd,Linke,8.65111621605702,Ohne_Abschluss.Prozent,6
+220,München-West/Mitte,Linke,8.63937277707106,Ohne_Abschluss.Prozent,6
+221,München-Land,Linke,5.09212576771473,Ohne_Abschluss.Prozent,2.7
+222,Rosenheim,Linke,5.09716590458114,Ohne_Abschluss.Prozent,4.1
+223,Bad Tölz-Wolfratshausen – Miesbach,Linke,4.94169947730566,Ohne_Abschluss.Prozent,3.4
+224,Starnberg – Landsberg am Lech,Linke,5.44936712451563,Ohne_Abschluss.Prozent,4.3
+225,Traunstein,Linke,5.32625589090544,Ohne_Abschluss.Prozent,4.8
+226,Weilheim,Linke,5.40206648697215,Ohne_Abschluss.Prozent,4.5
+227,Deggendorf,Linke,4.96147530630289,Ohne_Abschluss.Prozent,3.8
+228,Landshut,Linke,4.8353104426847,Ohne_Abschluss.Prozent,4.4
+229,Passau,Linke,5.63448238889187,Ohne_Abschluss.Prozent,4.7
+230,Rottal-Inn,Linke,4.45491643995336,Ohne_Abschluss.Prozent,3.8
+231,Straubing,Linke,4.35935635339724,Ohne_Abschluss.Prozent,5.2
+232,Amberg,Linke,5.31976242992099,Ohne_Abschluss.Prozent,3.1
+233,Regensburg,Linke,6.70838750803135,Ohne_Abschluss.Prozent,3.3
+234,Schwandorf,Linke,4.55041480140375,Ohne_Abschluss.Prozent,3.4
+235,Weiden,Linke,4.79592388993266,Ohne_Abschluss.Prozent,4.5
+236,Bamberg,Linke,6.47426221108172,Ohne_Abschluss.Prozent,4.2
+237,Bayreuth,Linke,5.54844216816048,Ohne_Abschluss.Prozent,5.4
+238,Coburg,Linke,5.64499627595577,Ohne_Abschluss.Prozent,4.6
+239,Hof,Linke,5.7126503485941,Ohne_Abschluss.Prozent,6.6
+240,Kulmbach,Linke,4.7987095906983,Ohne_Abschluss.Prozent,5.5
+241,Ansbach,Linke,6.61963659236204,Ohne_Abschluss.Prozent,4.8
+242,Erlangen,Linke,7.54224061885051,Ohne_Abschluss.Prozent,3.4
+243,Fürth,Linke,7.82546125274269,Ohne_Abschluss.Prozent,4.3
+244,Nürnberg-Nord,Linke,11.673457028024,Ohne_Abschluss.Prozent,7.4
+245,Nürnberg-Süd,Linke,8.88698865458321,Ohne_Abschluss.Prozent,6.9
+246,Roth,Linke,6.30577907827359,Ohne_Abschluss.Prozent,7.8
+247,Aschaffenburg,Linke,6.06508669391399,Ohne_Abschluss.Prozent,4.3
+248,Bad Kissingen,Linke,5.93750551785431,Ohne_Abschluss.Prozent,4
+249,Main-Spessart,Linke,5.49439275707077,Ohne_Abschluss.Prozent,3.2
+250,Schweinfurt,Linke,6.72647476442494,Ohne_Abschluss.Prozent,4
+251,Würzburg,Linke,7.10932260228035,Ohne_Abschluss.Prozent,6.2
+252,Augsburg-Stadt,Linke,8.97623917346784,Ohne_Abschluss.Prozent,4.6
+253,Augsburg-Land,Linke,4.92170361608993,Ohne_Abschluss.Prozent,5.5
+254,Donau-Ries,Linke,4.55368940105976,Ohne_Abschluss.Prozent,3.9
+255,Neu-Ulm,Linke,5.13050309246412,Ohne_Abschluss.Prozent,5.5
+256,Oberallgäu,Linke,5.77731391973355,Ohne_Abschluss.Prozent,5.1
+257,Ostallgäu,Linke,5.46227104686078,Ohne_Abschluss.Prozent,4.2
+258,Stuttgart I,Linke,9.27025641666771,Ohne_Abschluss.Prozent,5.6
+259,Stuttgart II,Linke,9.09849567861367,Ohne_Abschluss.Prozent,5.6
+260,Böblingen,Linke,5.35311140300468,Ohne_Abschluss.Prozent,4.8
+261,Esslingen,Linke,6.22190802202709,Ohne_Abschluss.Prozent,3.4
+262,Nürtingen,Linke,5.48109645937494,Ohne_Abschluss.Prozent,3.4
+263,Göppingen,Linke,5.06186643911195,Ohne_Abschluss.Prozent,4.8
+264,Waiblingen,Linke,5.58589421794089,Ohne_Abschluss.Prozent,4.7
+265,Ludwigsburg,Linke,6.0068396700865,Ohne_Abschluss.Prozent,4.6
+266,Neckar-Zaber,Linke,5.26327217457388,Ohne_Abschluss.Prozent,4.5
+267,Heilbronn,Linke,5.73978895909036,Ohne_Abschluss.Prozent,3.8
+268,Schwäbisch Hall – Hohenlohe,Linke,5.64502327996743,Ohne_Abschluss.Prozent,4.6
+269,Backnang – Schwäbisch Gmünd,Linke,5.91187252409389,Ohne_Abschluss.Prozent,4.2
+270,Aalen – Heidenheim,Linke,5.4889721181856,Ohne_Abschluss.Prozent,4.8
+271,Karlsruhe-Stadt,Linke,9.56873483104114,Ohne_Abschluss.Prozent,6.7
+272,Karlsruhe-Land,Linke,5.45163142283035,Ohne_Abschluss.Prozent,4.1
+273,Rastatt,Linke,5.38989274326022,Ohne_Abschluss.Prozent,4.6
+274,Heidelberg,Linke,8.32920959107472,Ohne_Abschluss.Prozent,3.3
+275,Mannheim,Linke,9.10097322748579,Ohne_Abschluss.Prozent,6.1
+276,Odenwald – Tauber,Linke,5.52371382138028,Ohne_Abschluss.Prozent,4.3
+277,Rhein-Neckar,Linke,6.29607117916354,Ohne_Abschluss.Prozent,5
+278,Bruchsal – Schwetzingen,Linke,5.68064233041246,Ohne_Abschluss.Prozent,4.4
+279,Pforzheim,Linke,5.39043306517655,Ohne_Abschluss.Prozent,4.4
+280,Calw,Linke,5.11807387862797,Ohne_Abschluss.Prozent,4.6
+281,Freiburg,Linke,11.2328568722914,Ohne_Abschluss.Prozent,5.1
+282,Lörrach – Müllheim,Linke,6.20293583621244,Ohne_Abschluss.Prozent,4.4
+283,Emmendingen – Lahr,Linke,5.76053063210829,Ohne_Abschluss.Prozent,4.5
+284,Offenburg,Linke,5.47531486965861,Ohne_Abschluss.Prozent,4.3
+285,Rottweil – Tuttlingen,Linke,4.75047984644914,Ohne_Abschluss.Prozent,4.1
+286,Schwarzwald-Baar,Linke,5.34083377786399,Ohne_Abschluss.Prozent,5.2
+287,Konstanz,Linke,7.18759737245401,Ohne_Abschluss.Prozent,4.1
+288,Waldshut,Linke,5.45408797584513,Ohne_Abschluss.Prozent,4
+289,Reutlingen,Linke,6.11407994053798,Ohne_Abschluss.Prozent,4.1
+290,Tübingen,Linke,9.53240702746722,Ohne_Abschluss.Prozent,4.1
+291,Ulm,Linke,5.67270617941106,Ohne_Abschluss.Prozent,5.9
+292,Biberach,Linke,4.60344509948416,Ohne_Abschluss.Prozent,5.7
+293,Bodensee,Linke,6.11546780055027,Ohne_Abschluss.Prozent,6.2
+294,Ravensburg,Linke,6.13944814725282,Ohne_Abschluss.Prozent,8.8
+295,Zollernalb – Sigmaringen,Linke,5.12684605666323,Ohne_Abschluss.Prozent,5.1
+296,Saarbrücken,Linke,14.8998494131237,Ohne_Abschluss.Prozent,5.5
+297,Saarlouis,Linke,12.8945029833693,Ohne_Abschluss.Prozent,3.8
+298,St. Wendel,Linke,11.3084853291039,Ohne_Abschluss.Prozent,5.2
+299,Homburg,Linke,12.3812908035646,Ohne_Abschluss.Prozent,4.4

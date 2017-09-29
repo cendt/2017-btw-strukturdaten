@@ -1,0 +1,49 @@
+---
+title: "R Notebook"
+output:
+  html_document: default
+  html_notebook: default
+---
+
+
+
+```{r}
+# Generelle Config
+source("sz-config.R")
+source("export.R")
+
+# Daten einlesen und aufräumen
+source("read_kerg.R")
+source("clean_kerg.R")
+
+source("strukturdaten/clean_btw13_to_btw17_results.R")
+source("strukturdaten/import_strukturdaten_btw17.R")
+source("strukturdaten/join_kerg_struktur17.R")
+source("strukturdaten/calculate_correlations.R")
+source("strukturdaten/scatter.R")
+```
+korrelationen
+```{r}
+correlations %>% count(strength)
+
+significant_correlations <-
+  correlations %>%
+  filter(strength != "very weak") %>%
+  arrange(desc(abs(corr))) %>% 
+  
+  tbl_df
+
+select(significant_correlations,-strength)
+```
+
+magic forloop
+```{r}
+for (i in 1:nrow(significant_correlations)){
+ plot <- scatter(
+    as.character(significant_correlations[[i,1]]),
+    as.character(significant_correlations[[i,2]])
+  )
+ export_plots(test)
+}
+```
+

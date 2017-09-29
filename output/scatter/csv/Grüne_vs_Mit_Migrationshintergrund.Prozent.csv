@@ -1,0 +1,300 @@
+Nr,Gebiet,Partei,Prozent,indikator,wert
+1,Flensburg – Schleswig,Grüne,13.0812929880983,Mit_Migrationshintergrund.Prozent,10
+2,Nordfriesland – Dithmarschen Nord,Grüne,10.9751946405939,Mit_Migrationshintergrund.Prozent,8
+3,Steinburg – Dithmarschen Süd,Grüne,9.9025787965616,Mit_Migrationshintergrund.Prozent,9.2
+4,Rendsburg-Eckernförde,Grüne,12.3742544858832,Mit_Migrationshintergrund.Prozent,8.5
+5,Kiel,Grüne,17.249438980376,Mit_Migrationshintergrund.Prozent,18
+6,Plön – Neumünster,Grüne,12.5273916974424,Mit_Migrationshintergrund.Prozent,10.8
+7,Pinneberg,Grüne,11.448071598738,Mit_Migrationshintergrund.Prozent,15
+8,Segeberg – Stormarn-Mitte,Grüne,10.9463000880497,Mit_Migrationshintergrund.Prozent,13.3
+9,Ostholstein – Stormarn-Nord,Grüne,9.82640431840202,Mit_Migrationshintergrund.Prozent,8.4
+10,Herzogtum Lauenburg – Stormarn-Süd,Grüne,10.8490344895844,Mit_Migrationshintergrund.Prozent,12.7
+11,Lübeck,Grüne,12.7560571626671,Mit_Migrationshintergrund.Prozent,16.5
+12,Schwerin – Ludwigslust-Parchim I – Nordwestmecklenburg I,Grüne,4.25063701644661,Mit_Migrationshintergrund.Prozent,4.7
+13,Ludwigslust-Parchim II – Nordwestmecklenburg II – Landkreis Rostock I,Grüne,3.80475232240814,Mit_Migrationshintergrund.Prozent,3.6
+14,Rostock – Landkreis Rostock II,Grüne,6.30044483876135,Mit_Migrationshintergrund.Prozent,5.5
+15,Vorpommern-Rügen – Vorpommern-Greifswald I,Grüne,5.07613000340479,Mit_Migrationshintergrund.Prozent,3.3
+16,Mecklenburgische Seenplatte I – Vorpommern-Greifswald II,Grüne,2.6277881491147,Mit_Migrationshintergrund.Prozent,3.3
+17,Mecklenburgische Seenplatte II – Landkreis Rostock III,Grüne,3.22788941372994,Mit_Migrationshintergrund.Prozent,2.6
+18,Hamburg-Mitte,Grüne,14.4160835149707,Mit_Migrationshintergrund.Prozent,28.3
+19,Hamburg-Altona,Grüne,17.8926907276186,Mit_Migrationshintergrund.Prozent,28.3
+20,Hamburg-Eimsbüttel,Grüne,17.0251577597154,Mit_Migrationshintergrund.Prozent,28.3
+21,Hamburg-Nord,Grüne,14.384198688861,Mit_Migrationshintergrund.Prozent,28.3
+22,Hamburg-Wandsbek,Grüne,10.3689032227909,Mit_Migrationshintergrund.Prozent,28.3
+23,Hamburg-Bergedorf – Harburg,Grüne,10.0029840289581,Mit_Migrationshintergrund.Prozent,28.3
+24,Aurich – Emden,Grüne,7.44627296383219,Mit_Migrationshintergrund.Prozent,8.8
+25,Unterems,Grüne,5.8632889976165,Mit_Migrationshintergrund.Prozent,13.4
+26,Friesland – Wilhelmshaven – Wittmund,Grüne,7.2573318312316,Mit_Migrationshintergrund.Prozent,9.9
+27,Oldenburg – Ammerland,Grüne,12.4916985366524,Mit_Migrationshintergrund.Prozent,13.9
+28,Delmenhorst – Wesermarsch – Oldenburg-Land,Grüne,8.01040173441221,Mit_Migrationshintergrund.Prozent,15.1
+29,Cuxhaven – Stade II,Grüne,6.90113419938031,Mit_Migrationshintergrund.Prozent,11
+30,Stade I – Rotenburg II,Grüne,8.21754298036785,Mit_Migrationshintergrund.Prozent,13.1
+31,Mittelems,Grüne,6.03544207530183,Mit_Migrationshintergrund.Prozent,18.8
+32,Cloppenburg – Vechta,Grüne,5.05048640466653,Mit_Migrationshintergrund.Prozent,23.5
+33,Diepholz – Nienburg I,Grüne,8.14134294813034,Mit_Migrationshintergrund.Prozent,13.4
+34,Osterholz – Verden,Grüne,9.25752684630081,Mit_Migrationshintergrund.Prozent,14.3
+35,Rotenburg I – Heidekreis,Grüne,7.98353648381801,Mit_Migrationshintergrund.Prozent,12.8
+36,Harburg,Grüne,10.2015442191249,Mit_Migrationshintergrund.Prozent,11.7
+37,Lüchow-Dannenberg – Lüneburg,Grüne,13.4909874552227,Mit_Migrationshintergrund.Prozent,12.1
+38,Osnabrück-Land,Grüne,8.22014488121871,Mit_Migrationshintergrund.Prozent,19.4
+39,Stadt Osnabrück,Grüne,12.1405771956081,Mit_Migrationshintergrund.Prozent,22.6
+40,Nienburg II – Schaumburg,Grüne,8.12312044271727,Mit_Migrationshintergrund.Prozent,15.3
+41,Stadt Hannover I,Grüne,12.1710354306887,Mit_Migrationshintergrund.Prozent,24.1
+42,Stadt Hannover II,Grüne,14.9091768519144,Mit_Migrationshintergrund.Prozent,24.1
+43,Hannover-Land I,Grüne,7.94812510742583,Mit_Migrationshintergrund.Prozent,24.1
+44,Celle – Uelzen,Grüne,7.75136975238852,Mit_Migrationshintergrund.Prozent,13.4
+45,Gifhorn – Peine,Grüne,7.24002147843207,Mit_Migrationshintergrund.Prozent,17.3
+46,Hameln-Pyrmont – Holzminden,Grüne,7.20807789397764,Mit_Migrationshintergrund.Prozent,15.8
+47,Hannover-Land II,Grüne,8.71183359178654,Mit_Migrationshintergrund.Prozent,24.1
+48,Hildesheim,Grüne,8.79705279420066,Mit_Migrationshintergrund.Prozent,15.3
+49,Salzgitter – Wolfenbüttel,Grüne,6.55770342302999,Mit_Migrationshintergrund.Prozent,18.2
+50,Braunschweig,Grüne,11.7968174250075,Mit_Migrationshintergrund.Prozent,21.4
+51,Helmstedt – Wolfsburg,Grüne,5.92897581060216,Mit_Migrationshintergrund.Prozent,21.8
+52,Goslar – Northeim – Osterode,Grüne,6.62578082155134,Mit_Migrationshintergrund.Prozent,12.4
+53,Göttingen,Grüne,11.6208059438804,Mit_Migrationshintergrund.Prozent,15.8
+54,Bremen I,Grüne,12.6709805123902,Mit_Migrationshintergrund.Prozent,26.5
+55,Bremen II – Bremerhaven,Grüne,8.97096539711711,Mit_Migrationshintergrund.Prozent,26.4
+56,Prignitz – Ostprignitz-Ruppin – Havelland I,Grüne,3.57323829470982,Mit_Migrationshintergrund.Prozent,3.2
+57,Uckermark – Barnim I,Grüne,4.05110942759628,Mit_Migrationshintergrund.Prozent,4.1
+58,Oberhavel – Havelland II,Grüne,6.39779144733599,Mit_Migrationshintergrund.Prozent,5.1
+59,Märkisch-Oderland – Barnim II,Grüne,4.65535132814084,Mit_Migrationshintergrund.Prozent,4.1
+60,Brandenburg an der Havel – Potsdam-Mittelmark I – Havelland III – Teltow-Fläming I,Grüne,4.15180199464079,Mit_Migrationshintergrund.Prozent,4.6
+61,Potsdam – Potsdam-Mittelmark II – Teltow-Fläming II,Grüne,9.84138446857349,Mit_Migrationshintergrund.Prozent,6.3
+62,Dahme-Spreewald – Teltow-Fläming III – Oberspreewald-Lausitz I,Grüne,4.65415607592883,Mit_Migrationshintergrund.Prozent,4.8
+63,Frankfurt (Oder) – Oder-Spree,Grüne,4.27359099045562,Mit_Migrationshintergrund.Prozent,4.8
+64,Cottbus – Spree-Neiße,Grüne,3.14703869196398,Mit_Migrationshintergrund.Prozent,4.9
+65,Elbe-Elster – Oberspreewald-Lausitz II,Grüne,2.59690946311827,Mit_Migrationshintergrund.Prozent,2.7
+66,Altmark,Grüne,3.32046894342096,Mit_Migrationshintergrund.Prozent,2.9
+67,Börde – Jerichower Land,Grüne,2.86051929635007,Mit_Migrationshintergrund.Prozent,2.7
+68,Harz,Grüne,3.5095032855225,Mit_Migrationshintergrund.Prozent,2.8
+69,Magdeburg,Grüne,5.32565357749317,Mit_Migrationshintergrund.Prozent,6.4
+70,Dessau – Wittenberg,Grüne,3.52769056268802,Mit_Migrationshintergrund.Prozent,3.2
+71,Anhalt,Grüne,2.37427672178012,Mit_Migrationshintergrund.Prozent,3.3
+72,Halle,Grüne,6.9574647868582,Mit_Migrationshintergrund.Prozent,6.4
+73,Burgenland – Saalekreis,Grüne,2.60528332262634,Mit_Migrationshintergrund.Prozent,3
+74,Mansfeld,Grüne,2.35631892232848,Mit_Migrationshintergrund.Prozent,2.6
+75,Berlin-Mitte,Grüne,17.2681033328872,Mit_Migrationshintergrund.Prozent,24.1
+76,Berlin-Pankow,Grüne,14.2798899194781,Mit_Migrationshintergrund.Prozent,24.1
+77,Berlin-Reinickendorf,Grüne,9.11846893924233,Mit_Migrationshintergrund.Prozent,24.1
+78,Berlin-Spandau – Charlottenburg Nord,Grüne,8.45948966002847,Mit_Migrationshintergrund.Prozent,24.1
+79,Berlin-Steglitz-Zehlendorf,Grüne,14.1788414084838,Mit_Migrationshintergrund.Prozent,24.1
+80,Berlin-Charlottenburg-Wilmersdorf,Grüne,15.81088664422,Mit_Migrationshintergrund.Prozent,24.1
+81,Berlin-Tempelhof-Schöneberg,Grüne,15.6127684997515,Mit_Migrationshintergrund.Prozent,24.1
+82,Berlin-Neukölln,Grüne,13.0622825083446,Mit_Migrationshintergrund.Prozent,24.1
+83,Berlin-Friedrichshain-Kreuzberg – Prenzlauer Berg Ost,Grüne,20.43354283054,Mit_Migrationshintergrund.Prozent,24.1
+84,Berlin-Treptow-Köpenick,Grüne,7.85646690743352,Mit_Migrationshintergrund.Prozent,24.1
+85,Berlin-Marzahn-Hellersdorf,Grüne,4.10884870439076,Mit_Migrationshintergrund.Prozent,24.1
+86,Berlin-Lichtenberg,Grüne,6.76174268209667,Mit_Migrationshintergrund.Prozent,24.1
+87,Aachen I,Grüne,12.8097636353231,Mit_Migrationshintergrund.Prozent,24.6
+88,Aachen II,Grüne,4.91663801492998,Mit_Migrationshintergrund.Prozent,24.6
+89,Heinsberg,Grüne,5.16853454088622,Mit_Migrationshintergrund.Prozent,20.6
+90,Düren,Grüne,5.46038258645495,Mit_Migrationshintergrund.Prozent,19.1
+91,Rhein-Erft-Kreis I,Grüne,6.5968327197847,Mit_Migrationshintergrund.Prozent,22
+92,Euskirchen – Rhein-Erft-Kreis II,Grüne,6.69015408246016,Mit_Migrationshintergrund.Prozent,18.5
+93,Köln I,Grüne,11.3863421601229,Mit_Migrationshintergrund.Prozent,32.3
+94,Köln II,Grüne,15.5420696374025,Mit_Migrationshintergrund.Prozent,32.3
+95,Köln III,Grüne,14.0259358092066,Mit_Migrationshintergrund.Prozent,32.3
+96,Bonn,Grüne,14.0602766633,Mit_Migrationshintergrund.Prozent,31
+97,Rhein-Sieg-Kreis I,Grüne,7.52726417107618,Mit_Migrationshintergrund.Prozent,22.1
+98,Rhein-Sieg-Kreis II,Grüne,8.77333810731054,Mit_Migrationshintergrund.Prozent,22.1
+99,Oberbergischer Kreis,Grüne,6.44572445866364,Mit_Migrationshintergrund.Prozent,26.9
+100,Rheinisch-Bergischer Kreis,Grüne,9.04438932158407,Mit_Migrationshintergrund.Prozent,19.1
+101,Leverkusen – Köln IV,Grüne,8.74943872139106,Mit_Migrationshintergrund.Prozent,32.2
+102,Wuppertal I,Grüne,8.585141257009,Mit_Migrationshintergrund.Prozent,31.8
+103,Solingen – Remscheid – Wuppertal II,Grüne,7.21742127680528,Mit_Migrationshintergrund.Prozent,29.7
+104,Mettmann I,Grüne,7.41054880155813,Mit_Migrationshintergrund.Prozent,24.4
+105,Mettmann II,Grüne,6.90999091953746,Mit_Migrationshintergrund.Prozent,24.4
+106,Düsseldorf I,Grüne,9.97498691175615,Mit_Migrationshintergrund.Prozent,32.9
+107,Düsseldorf II,Grüne,10.0872700742217,Mit_Migrationshintergrund.Prozent,32.9
+108,Neuss I,Grüne,6.03503114509394,Mit_Migrationshintergrund.Prozent,23
+109,Mönchengladbach,Grüne,6.24369439603779,Mit_Migrationshintergrund.Prozent,25.8
+110,Krefeld I – Neuss II,Grüne,7.05024679106753,Mit_Migrationshintergrund.Prozent,25.2
+111,Viersen,Grüne,6.73774532601618,Mit_Migrationshintergrund.Prozent,16.8
+112,Kleve,Grüne,6.02315496889408,Mit_Migrationshintergrund.Prozent,18.3
+113,Wesel I,Grüne,6.12338539866118,Mit_Migrationshintergrund.Prozent,19
+114,Krefeld II – Wesel II,Grüne,7.01522520617467,Mit_Migrationshintergrund.Prozent,23.2
+115,Duisburg I,Grüne,6.558213022797,Mit_Migrationshintergrund.Prozent,31.2
+116,Duisburg II,Grüne,4.43526224874372,Mit_Migrationshintergrund.Prozent,31.2
+117,Oberhausen – Wesel III,Grüne,5.57197753473249,Mit_Migrationshintergrund.Prozent,22.4
+118,Mülheim – Essen I,Grüne,6.68149089368912,Mit_Migrationshintergrund.Prozent,23.9
+119,Essen II,Grüne,6.17680721512613,Mit_Migrationshintergrund.Prozent,24.5
+120,Essen III,Grüne,9.39052155712589,Mit_Migrationshintergrund.Prozent,24.5
+121,Recklinghausen I,Grüne,5.80384753100485,Mit_Migrationshintergrund.Prozent,20.1
+122,Recklinghausen II,Grüne,5.114862201197,Mit_Migrationshintergrund.Prozent,20.1
+123,Gelsenkirchen,Grüne,4.6490945742212,Mit_Migrationshintergrund.Prozent,29.4
+124,Steinfurt I – Borken I,Grüne,5.95298560916846,Mit_Migrationshintergrund.Prozent,15.6
+125,Bottrop – Recklinghausen III,Grüne,4.81372236394558,Mit_Migrationshintergrund.Prozent,21.5
+126,Borken II,Grüne,5.87062966005107,Mit_Migrationshintergrund.Prozent,14.7
+127,Coesfeld – Steinfurt II,Grüne,7.48719725848061,Mit_Migrationshintergrund.Prozent,11.9
+128,Steinfurt III,Grüne,7.28332023225244,Mit_Migrationshintergrund.Prozent,16.2
+129,Münster,Grüne,14.5895793227507,Mit_Migrationshintergrund.Prozent,20.4
+130,Warendorf,Grüne,6.67020272728955,Mit_Migrationshintergrund.Prozent,21.1
+131,Gütersloh I,Grüne,7.89403020036451,Mit_Migrationshintergrund.Prozent,26.8
+132,Bielefeld – Gütersloh II,Grüne,11.1894172900765,Mit_Migrationshintergrund.Prozent,32.7
+133,Herford – Minden-Lübbecke II,Grüne,6.87596913147859,Mit_Migrationshintergrund.Prozent,25.7
+134,Minden-Lübbecke I,Grüne,6.43090039286955,Mit_Migrationshintergrund.Prozent,23.9
+135,Lippe I,Grüne,6.9540603903181,Mit_Migrationshintergrund.Prozent,26.2
+136,Höxter – Lippe II,Grüne,6.44014623470924,Mit_Migrationshintergrund.Prozent,21.6
+137,Paderborn – Gütersloh III,Grüne,7.32233441099103,Mit_Migrationshintergrund.Prozent,28.1
+138,Hagen – Ennepe-Ruhr-Kreis I,Grüne,5.82787243337702,Mit_Migrationshintergrund.Prozent,28.2
+139,Ennepe-Ruhr-Kreis II,Grüne,8.16718465959069,Mit_Migrationshintergrund.Prozent,19.6
+140,Bochum I,Grüne,8.90107490978206,Mit_Migrationshintergrund.Prozent,23.5
+141,Herne – Bochum II,Grüne,5.86766541822722,Mit_Migrationshintergrund.Prozent,26.1
+142,Dortmund I,Grüne,9.48987561562841,Mit_Migrationshintergrund.Prozent,28.9
+143,Dortmund II,Grüne,7.15509493315358,Mit_Migrationshintergrund.Prozent,28.9
+144,Unna I,Grüne,6.85514871541172,Mit_Migrationshintergrund.Prozent,23.2
+145,Hamm – Unna II,Grüne,5.26625928828601,Mit_Migrationshintergrund.Prozent,26.5
+146,Soest,Grüne,6.19554415401327,Mit_Migrationshintergrund.Prozent,20.4
+147,Hochsauerlandkreis,Grüne,4.71030141217428,Mit_Migrationshintergrund.Prozent,17.4
+148,Siegen-Wittgenstein,Grüne,5.50309385949653,Mit_Migrationshintergrund.Prozent,20.2
+149,Olpe – Märkischer Kreis I,Grüne,4.53836391518164,Mit_Migrationshintergrund.Prozent,23.1
+150,Märkischer Kreis II,Grüne,4.89296636085627,Mit_Migrationshintergrund.Prozent,28
+151,Nordsachsen,Grüne,2.59531898829747,Mit_Migrationshintergrund.Prozent,2.7
+152,Leipzig I,Grüne,7.06528195476969,Mit_Migrationshintergrund.Prozent,8.1
+153,Leipzig II,Grüne,10.4351028205158,Mit_Migrationshintergrund.Prozent,8.1
+154,Leipzig-Land,Grüne,3.23541959445894,Mit_Migrationshintergrund.Prozent,2.8
+155,Meißen,Grüne,3.66487983620353,Mit_Migrationshintergrund.Prozent,3.3
+156,Bautzen I,Grüne,2.37230298489609,Mit_Migrationshintergrund.Prozent,3.2
+157,Görlitz,Grüne,2.91126970392875,Mit_Migrationshintergrund.Prozent,4.5
+158,Sächsische Schweiz-Osterzgebirge,Grüne,3.00768926806201,Mit_Migrationshintergrund.Prozent,2.9
+159,Dresden I,Grüne,7.68771953078402,Mit_Migrationshintergrund.Prozent,7.3
+160,Dresden II – Bautzen II,Grüne,8.95935960591133,Mit_Migrationshintergrund.Prozent,6.6
+161,Mittelsachsen,Grüne,2.76048278224425,Mit_Migrationshintergrund.Prozent,2.6
+162,Chemnitz,Grüne,4.67344812458873,Mit_Migrationshintergrund.Prozent,6.5
+163,Chemnitzer Umland – Erzgebirgskreis II,Grüne,2.80750612387729,Mit_Migrationshintergrund.Prozent,2.5
+164,Erzgebirgskreis I,Grüne,2.23283443724765,Mit_Migrationshintergrund.Prozent,1.8
+165,Zwickau,Grüne,2.9082698885208,Mit_Migrationshintergrund.Prozent,3.1
+166,Vogtlandkreis,Grüne,3.02632232960073,Mit_Migrationshintergrund.Prozent,3.5
+167,Waldeck,Grüne,6.86349747743907,Mit_Migrationshintergrund.Prozent,15.9
+168,Kassel,Grüne,11.4501647570966,Mit_Migrationshintergrund.Prozent,24.7
+169,Werra-Meißner – Hersfeld-Rotenburg,Grüne,5.98414502948963,Mit_Migrationshintergrund.Prozent,14
+170,Schwalm-Eder,Grüne,6.59680959637619,Mit_Migrationshintergrund.Prozent,14.7
+171,Marburg,Grüne,9.29651096715536,Mit_Migrationshintergrund.Prozent,18.9
+172,Lahn-Dill,Grüne,7.04735102588436,Mit_Migrationshintergrund.Prozent,22.2
+173,Gießen,Grüne,9.67494568227325,Mit_Migrationshintergrund.Prozent,22.2
+174,Fulda,Grüne,6.67545043057254,Mit_Migrationshintergrund.Prozent,16
+175,Main-Kinzig – Wetterau II – Schotten,Grüne,7.06797429827528,Mit_Migrationshintergrund.Prozent,22.5
+176,Hochtaunus,Grüne,9.73245095395169,Mit_Migrationshintergrund.Prozent,22.9
+177,Wetterau I,Grüne,9.47529514648011,Mit_Migrationshintergrund.Prozent,19.1
+178,Rheingau-Taunus – Limburg,Grüne,8.89926057999895,Mit_Migrationshintergrund.Prozent,17.8
+179,Wiesbaden,Grüne,11.7821538639619,Mit_Migrationshintergrund.Prozent,33.8
+180,Hanau,Grüne,8.57315598548972,Mit_Migrationshintergrund.Prozent,24.6
+181,Main-Taunus,Grüne,10.5451340803223,Mit_Migrationshintergrund.Prozent,25.7
+182,Frankfurt am Main I,Grüne,13.5778649274025,Mit_Migrationshintergrund.Prozent,44.2
+183,Frankfurt am Main II,Grüne,15.4595227638706,Mit_Migrationshintergrund.Prozent,44.2
+184,Groß-Gerau,Grüne,9.04253697209941,Mit_Migrationshintergrund.Prozent,32.1
+185,Offenbach,Grüne,10.1820909772898,Mit_Migrationshintergrund.Prozent,36.8
+186,Darmstadt,Grüne,14.3345999622111,Mit_Migrationshintergrund.Prozent,26.9
+187,Odenwald,Grüne,8.82656364893489,Mit_Migrationshintergrund.Prozent,25.1
+188,Bergstraße,Grüne,8.81814641744548,Mit_Migrationshintergrund.Prozent,18.2
+189,Eichsfeld – Nordhausen – Kyffhäuserkreis,Grüne,3.06421512354982,Mit_Migrationshintergrund.Prozent,2.8
+190,Eisenach – Wartburgkreis – Unstrut-Hainich-Kreis,Grüne,3.47650422675286,Mit_Migrationshintergrund.Prozent,3
+191,Jena – Sömmerda – Weimarer Land I,Grüne,6.19424010017217,Mit_Migrationshintergrund.Prozent,4.1
+192,Gotha – Ilm-Kreis,Grüne,3.7093147604815,Mit_Migrationshintergrund.Prozent,4
+193,Erfurt – Weimar – Weimarer Land II,Grüne,7.62318613791069,Mit_Migrationshintergrund.Prozent,6.6
+194,Gera – Greiz – Altenburger Land,Grüne,2.70078099017168,Mit_Migrationshintergrund.Prozent,3.1
+195,Saalfeld-Rudolstadt – Saale-Holzland-Kreis – Saale-Orla-Kreis,Grüne,3.01916142261189,Mit_Migrationshintergrund.Prozent,2.4
+196,Suhl – Schmalkalden-Meiningen – Hildburghausen – Sonneberg,Grüne,3.30819549185451,Mit_Migrationshintergrund.Prozent,2.5
+197,Neuwied,Grüne,5.9961358483823,Mit_Migrationshintergrund.Prozent,20.6
+198,Ahrweiler,Grüne,6.70653652292183,Mit_Migrationshintergrund.Prozent,16.1
+199,Koblenz,Grüne,7.92396840036893,Mit_Migrationshintergrund.Prozent,19.7
+200,Mosel/Rhein-Hunsrück,Grüne,5.59972476309432,Mit_Migrationshintergrund.Prozent,15.6
+201,Kreuznach,Grüne,6.24176905599213,Mit_Migrationshintergrund.Prozent,17.7
+202,Bitburg,Grüne,6.16553378648541,Mit_Migrationshintergrund.Prozent,13.7
+203,Trier,Grüne,9.01515202060301,Mit_Migrationshintergrund.Prozent,15.3
+204,Montabaur,Grüne,6.21789204928319,Mit_Migrationshintergrund.Prozent,17.5
+205,Mainz,Grüne,13.1497070375699,Mit_Migrationshintergrund.Prozent,24
+206,Worms,Grüne,8.02144778514043,Mit_Migrationshintergrund.Prozent,20.3
+207,Ludwigshafen/Frankenthal,Grüne,7.28092339136922,Mit_Migrationshintergrund.Prozent,30.6
+208,Neustadt – Speyer,Grüne,8.83134015888038,Mit_Migrationshintergrund.Prozent,18
+209,Kaiserslautern,Grüne,6.68669553179582,Mit_Migrationshintergrund.Prozent,19.6
+210,Pirmasens,Grüne,4.6415600464156,Mit_Migrationshintergrund.Prozent,13.7
+211,Südpfalz,Grüne,8.67835282656792,Mit_Migrationshintergrund.Prozent,17.9
+212,Altötting,Grüne,6.85812769539906,Mit_Migrationshintergrund.Prozent,19.8
+213,Erding – Ebersberg,Grüne,10.9268916658467,Mit_Migrationshintergrund.Prozent,14.7
+214,Freising,Grüne,9.71535386836463,Mit_Migrationshintergrund.Prozent,16.9
+215,Fürstenfeldbruck,Grüne,11.0012536741079,Mit_Migrationshintergrund.Prozent,19.3
+216,Ingolstadt,Grüne,7.22161452636185,Mit_Migrationshintergrund.Prozent,24.6
+217,München-Nord,Grüne,16.8817738543665,Mit_Migrationshintergrund.Prozent,34.3
+218,München-Ost,Grüne,16.1383951367128,Mit_Migrationshintergrund.Prozent,34.3
+219,München-Süd,Grüne,17.4029569417447,Mit_Migrationshintergrund.Prozent,34.3
+220,München-West/Mitte,Grüne,18.4781536384641,Mit_Migrationshintergrund.Prozent,34.3
+221,München-Land,Grüne,12.6460313095202,Mit_Migrationshintergrund.Prozent,22.7
+222,Rosenheim,Grüne,10.0147743939263,Mit_Migrationshintergrund.Prozent,16.9
+223,Bad Tölz-Wolfratshausen – Miesbach,Grüne,10.311264859616,Mit_Migrationshintergrund.Prozent,17
+224,Starnberg – Landsberg am Lech,Grüne,13.1125219137746,Mit_Migrationshintergrund.Prozent,15.5
+225,Traunstein,Grüne,9.20046625889903,Mit_Migrationshintergrund.Prozent,19.4
+226,Weilheim,Grüne,9.54776879305181,Mit_Migrationshintergrund.Prozent,13.6
+227,Deggendorf,Grüne,4.65496189634121,Mit_Migrationshintergrund.Prozent,10.9
+228,Landshut,Grüne,7.22818658904295,Mit_Migrationshintergrund.Prozent,17
+229,Passau,Grüne,6.427920441752,Mit_Migrationshintergrund.Prozent,12.7
+230,Rottal-Inn,Grüne,5.23059981862936,Mit_Migrationshintergrund.Prozent,14
+231,Straubing,Grüne,4.5590334381118,Mit_Migrationshintergrund.Prozent,10.7
+232,Amberg,Grüne,7.13245304780533,Mit_Migrationshintergrund.Prozent,12.6
+233,Regensburg,Grüne,10.2867000905582,Mit_Migrationshintergrund.Prozent,18.8
+234,Schwandorf,Grüne,4.52747361763867,Mit_Migrationshintergrund.Prozent,8.7
+235,Weiden,Grüne,4.96911217807467,Mit_Migrationshintergrund.Prozent,9.9
+236,Bamberg,Grüne,9.88796410419754,Mit_Migrationshintergrund.Prozent,12.5
+237,Bayreuth,Grüne,7.89981189042222,Mit_Migrationshintergrund.Prozent,13.7
+238,Coburg,Grüne,6.6738146489986,Mit_Migrationshintergrund.Prozent,11.7
+239,Hof,Grüne,5.55604137020932,Mit_Migrationshintergrund.Prozent,13.4
+240,Kulmbach,Grüne,5.94947390430958,Mit_Migrationshintergrund.Prozent,9
+241,Ansbach,Grüne,8.80539634857202,Mit_Migrationshintergrund.Prozent,14.4
+242,Erlangen,Grüne,13.477641310986,Mit_Migrationshintergrund.Prozent,20.4
+243,Fürth,Grüne,10.4087806509478,Mit_Migrationshintergrund.Prozent,20.5
+244,Nürnberg-Nord,Grüne,15.0780432747894,Mit_Migrationshintergrund.Prozent,36.4
+245,Nürnberg-Süd,Grüne,9.28858281543465,Mit_Migrationshintergrund.Prozent,34.6
+246,Roth,Grüne,9.69031943428432,Mit_Migrationshintergrund.Prozent,12.3
+247,Aschaffenburg,Grüne,9.36684847047664,Mit_Migrationshintergrund.Prozent,19.7
+248,Bad Kissingen,Grüne,6.68616798997075,Mit_Migrationshintergrund.Prozent,10.9
+249,Main-Spessart,Grüne,7.65521707628287,Mit_Migrationshintergrund.Prozent,15
+250,Schweinfurt,Grüne,7.56163676261779,Mit_Migrationshintergrund.Prozent,16.5
+251,Würzburg,Grüne,13.0388890721377,Mit_Migrationshintergrund.Prozent,16.3
+252,Augsburg-Stadt,Grüne,12.3519469672557,Mit_Migrationshintergrund.Prozent,34.9
+253,Augsburg-Land,Grüne,8.8193370333303,Mit_Migrationshintergrund.Prozent,15.3
+254,Donau-Ries,Grüne,6.8802528162587,Mit_Migrationshintergrund.Prozent,13.7
+255,Neu-Ulm,Grüne,8.24177647956982,Mit_Migrationshintergrund.Prozent,20.4
+256,Oberallgäu,Grüne,11.2871490410115,Mit_Migrationshintergrund.Prozent,17.5
+257,Ostallgäu,Grüne,8.5244453325901,Mit_Migrationshintergrund.Prozent,16.1
+258,Stuttgart I,Grüne,19.5550526960631,Mit_Migrationshintergrund.Prozent,38.6
+259,Stuttgart II,Grüne,15.2659956604718,Mit_Migrationshintergrund.Prozent,38.6
+260,Böblingen,Grüne,12.7083162301946,Mit_Migrationshintergrund.Prozent,30.8
+261,Esslingen,Grüne,14.5594582527162,Mit_Migrationshintergrund.Prozent,26.9
+262,Nürtingen,Grüne,14.2087162158107,Mit_Migrationshintergrund.Prozent,27.1
+263,Göppingen,Grüne,12.3210581294414,Mit_Migrationshintergrund.Prozent,26.9
+264,Waiblingen,Grüne,12.1763561947403,Mit_Migrationshintergrund.Prozent,24.8
+265,Ludwigsburg,Grüne,13.794292611432,Mit_Migrationshintergrund.Prozent,29
+266,Neckar-Zaber,Grüne,13.1467810226903,Mit_Migrationshintergrund.Prozent,27.8
+267,Heilbronn,Grüne,10.3747231042874,Mit_Migrationshintergrund.Prozent,31.8
+268,Schwäbisch Hall – Hohenlohe,Grüne,12.0577838887282,Mit_Migrationshintergrund.Prozent,24.2
+269,Backnang – Schwäbisch Gmünd,Grüne,11.4416425235026,Mit_Migrationshintergrund.Prozent,23.2
+270,Aalen – Heidenheim,Grüne,10.9505974674514,Mit_Migrationshintergrund.Prozent,23.2
+271,Karlsruhe-Stadt,Grüne,18.2749393241645,Mit_Migrationshintergrund.Prozent,30.5
+272,Karlsruhe-Land,Grüne,12.2530140656397,Mit_Migrationshintergrund.Prozent,20.7
+273,Rastatt,Grüne,11.4445840177795,Mit_Migrationshintergrund.Prozent,24.3
+274,Heidelberg,Grüne,17.1459579828152,Mit_Migrationshintergrund.Prozent,25.7
+275,Mannheim,Grüne,13.1739547789043,Mit_Migrationshintergrund.Prozent,36.4
+276,Odenwald – Tauber,Grüne,8.46142394581116,Mit_Migrationshintergrund.Prozent,18.1
+277,Rhein-Neckar,Grüne,11.4366448542534,Mit_Migrationshintergrund.Prozent,21.1
+278,Bruchsal – Schwetzingen,Grüne,10.1510209962408,Mit_Migrationshintergrund.Prozent,20.9
+279,Pforzheim,Grüne,10.759188785587,Mit_Migrationshintergrund.Prozent,31.1
+280,Calw,Grüne,9.88786279683377,Mit_Migrationshintergrund.Prozent,23
+281,Freiburg,Grüne,21.1672367116389,Mit_Migrationshintergrund.Prozent,25.3
+282,Lörrach – Müllheim,Grüne,15.3764279331326,Mit_Migrationshintergrund.Prozent,22.1
+283,Emmendingen – Lahr,Grüne,13.7091977433716,Mit_Migrationshintergrund.Prozent,18.1
+284,Offenburg,Grüne,13.8126078042113,Mit_Migrationshintergrund.Prozent,21.2
+285,Rottweil – Tuttlingen,Grüne,10.1987364043506,Mit_Migrationshintergrund.Prozent,26.4
+286,Schwarzwald-Baar,Grüne,12.2148942017038,Mit_Migrationshintergrund.Prozent,26
+287,Konstanz,Grüne,16.0132776283409,Mit_Migrationshintergrund.Prozent,23.8
+288,Waldshut,Grüne,13.9438162334971,Mit_Migrationshintergrund.Prozent,21
+289,Reutlingen,Grüne,13.901170017813,Mit_Migrationshintergrund.Prozent,26
+290,Tübingen,Grüne,18.0048861477081,Mit_Migrationshintergrund.Prozent,22.4
+291,Ulm,Grüne,13.7401758396743,Mit_Migrationshintergrund.Prozent,25.3
+292,Biberach,Grüne,11.3063436502088,Mit_Migrationshintergrund.Prozent,19
+293,Bodensee,Grüne,14.7218503097091,Mit_Migrationshintergrund.Prozent,22.4
+294,Ravensburg,Grüne,15.0347066339745,Mit_Migrationshintergrund.Prozent,20.1
+295,Zollernalb – Sigmaringen,Grüne,11.4713271277754,Mit_Migrationshintergrund.Prozent,22.3
+296,Saarbrücken,Grüne,8.07805763557976,Mit_Migrationshintergrund.Prozent,20
+297,Saarlouis,Grüne,5.45702678684778,Mit_Migrationshintergrund.Prozent,16.1
+298,St. Wendel,Grüne,4.80210511138346,Mit_Migrationshintergrund.Prozent,13.1
+299,Homburg,Grüne,5.65344927293883,Mit_Migrationshintergrund.Prozent,15.5

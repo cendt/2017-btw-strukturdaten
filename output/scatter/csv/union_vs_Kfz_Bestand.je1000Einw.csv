@@ -1,0 +1,599 @@
+Nr,Gebiet,Partei,Prozent,indikator,wert
+1,Flensburg – Schleswig,union,34.2185262564849,Kfz_Bestand.je1000Einw,696.9
+2,Nordfriesland – Dithmarschen Nord,union,38.3364113706319,Kfz_Bestand.je1000Einw,748.1
+3,Steinburg – Dithmarschen Süd,union,36.1925501432665,Kfz_Bestand.je1000Einw,724.5
+4,Rendsburg-Eckernförde,union,36.2095886553869,Kfz_Bestand.je1000Einw,733.3
+5,Kiel,union,26.6432714269542,Kfz_Bestand.je1000Einw,518.2
+6,Plön – Neumünster,union,33.5427616960633,Kfz_Bestand.je1000Einw,673.6
+7,Pinneberg,union,34.2664134097397,Kfz_Bestand.je1000Einw,651.9
+8,Segeberg – Stormarn-Mitte,union,34.5774915727556,Kfz_Bestand.je1000Einw,712.1
+9,Ostholstein – Stormarn-Nord,union,35.6173464556031,Kfz_Bestand.je1000Einw,719.1
+10,Herzogtum Lauenburg – Stormarn-Süd,union,34.3973829380479,Kfz_Bestand.je1000Einw,701.4
+11,Lübeck,union,29.4765224760217,Kfz_Bestand.je1000Einw,525.8
+12,Schwerin – Ludwigslust-Parchim I – Nordwestmecklenburg I,union,32.8687617429799,Kfz_Bestand.je1000Einw,634.6
+13,Ludwigslust-Parchim II – Nordwestmecklenburg II – Landkreis Rostock I,union,33.6583785869835,Kfz_Bestand.je1000Einw,697.4
+14,Rostock – Landkreis Rostock II,union,30.4566682685791,Kfz_Bestand.je1000Einw,510.2
+15,Vorpommern-Rügen – Vorpommern-Greifswald I,union,32.9213731475232,Kfz_Bestand.je1000Einw,630.8
+16,Mecklenburgische Seenplatte I – Vorpommern-Greifswald II,union,33.4545595483408,Kfz_Bestand.je1000Einw,636.3
+17,Mecklenburgische Seenplatte II – Landkreis Rostock III,union,35.8247296054802,Kfz_Bestand.je1000Einw,676.3
+18,Hamburg-Mitte,union,23.4874383388781,Kfz_Bestand.je1000Einw,492.2
+19,Hamburg-Altona,union,24.917284733519,Kfz_Bestand.je1000Einw,492.2
+20,Hamburg-Eimsbüttel,union,26.9329190865084,Kfz_Bestand.je1000Einw,492.2
+21,Hamburg-Nord,union,31.3771469479096,Kfz_Bestand.je1000Einw,492.2
+22,Hamburg-Wandsbek,union,28.8876814134474,Kfz_Bestand.je1000Einw,492.2
+23,Hamburg-Bergedorf – Harburg,union,27.4426871829469,Kfz_Bestand.je1000Einw,492.2
+24,Aurich – Emden,union,28.0344874040146,Kfz_Bestand.je1000Einw,687.4
+25,Unterems,union,42.3959577715158,Kfz_Bestand.je1000Einw,714.8
+26,Friesland – Wilhelmshaven – Wittmund,union,32.7702874586619,Kfz_Bestand.je1000Einw,702.3
+27,Oldenburg – Ammerland,union,30.582590972588,Kfz_Bestand.je1000Einw,660.2
+28,Delmenhorst – Wesermarsch – Oldenburg-Land,union,33.4833963202976,Kfz_Bestand.je1000Einw,696.9
+29,Cuxhaven – Stade II,union,38.4902925040507,Kfz_Bestand.je1000Einw,740.4
+30,Stade I – Rotenburg II,union,38.900942369707,Kfz_Bestand.je1000Einw,755.9
+31,Mittelems,union,49.3812455613526,Kfz_Bestand.je1000Einw,718.8
+32,Cloppenburg – Vechta,union,53.1027141441924,Kfz_Bestand.je1000Einw,720.2
+33,Diepholz – Nienburg I,union,37.9085100459691,Kfz_Bestand.je1000Einw,770.3
+34,Osterholz – Verden,union,34.9410369589565,Kfz_Bestand.je1000Einw,728.1
+35,Rotenburg I – Heidekreis,union,37.6860670753468,Kfz_Bestand.je1000Einw,766.1
+36,Harburg,union,35.9416379664052,Kfz_Bestand.je1000Einw,754.3
+37,Lüchow-Dannenberg – Lüneburg,union,31.2991479827028,Kfz_Bestand.je1000Einw,673.7
+38,Osnabrück-Land,union,40.4409023117077,Kfz_Bestand.je1000Einw,735.2
+39,Stadt Osnabrück,union,35.7012304146855,Kfz_Bestand.je1000Einw,627.3
+40,Nienburg II – Schaumburg,union,34.2570341787622,Kfz_Bestand.je1000Einw,741.6
+41,Stadt Hannover I,union,27.191914362763,Kfz_Bestand.je1000Einw,570.6
+42,Stadt Hannover II,union,24.4466202984671,Kfz_Bestand.je1000Einw,570.6
+43,Hannover-Land I,union,34.833690957379,Kfz_Bestand.je1000Einw,570.6
+44,Celle – Uelzen,union,36.5584117084322,Kfz_Bestand.je1000Einw,709.8
+45,Gifhorn – Peine,union,33.7115923870891,Kfz_Bestand.je1000Einw,707.1
+46,Hameln-Pyrmont – Holzminden,union,32.0360620266859,Kfz_Bestand.je1000Einw,717
+47,Hannover-Land II,union,31.5421635206673,Kfz_Bestand.je1000Einw,570.6
+48,Hildesheim,union,32.6040583499213,Kfz_Bestand.je1000Einw,652
+49,Salzgitter – Wolfenbüttel,union,29.5350330743048,Kfz_Bestand.je1000Einw,651.3
+50,Braunschweig,union,29.0171138466578,Kfz_Bestand.je1000Einw,605.1
+51,Helmstedt – Wolfsburg,union,34.583486508345,Kfz_Bestand.je1000Einw,977.4
+52,Goslar – Northeim – Osterode,union,32.1250384558794,Kfz_Bestand.je1000Einw,722.8
+53,Göttingen,union,30.2249626440346,Kfz_Bestand.je1000Einw,627.8
+54,Bremen I,union,25.9917273133132,Kfz_Bestand.je1000Einw,488.3
+55,Bremen II – Bremerhaven,union,23.8325127206397,Kfz_Bestand.je1000Einw,486.3
+56,Prignitz – Ostprignitz-Ruppin – Havelland I,union,29.7395446253632,Kfz_Bestand.je1000Einw,713.8
+57,Uckermark – Barnim I,union,28.2546724045018,Kfz_Bestand.je1000Einw,681.9
+58,Oberhavel – Havelland II,union,28.4641466233574,Kfz_Bestand.je1000Einw,672.3
+59,Märkisch-Oderland – Barnim II,union,25.1112250861771,Kfz_Bestand.je1000Einw,697.2
+60,Brandenburg an der Havel – Potsdam-Mittelmark I – Havelland III – Teltow-Fläming I,union,28.18817485611,Kfz_Bestand.je1000Einw,648.7
+61,Potsdam – Potsdam-Mittelmark II – Teltow-Fläming II,union,24.7662032857917,Kfz_Bestand.je1000Einw,586
+62,Dahme-Spreewald – Teltow-Fläming III – Oberspreewald-Lausitz I,union,27.0347736736791,Kfz_Bestand.je1000Einw,722.4
+63,Frankfurt (Oder) – Oder-Spree,union,24.5573858406951,Kfz_Bestand.je1000Einw,655.5
+64,Cottbus – Spree-Neiße,union,24.1226822121559,Kfz_Bestand.je1000Einw,655
+65,Elbe-Elster – Oberspreewald-Lausitz II,union,27.711648946708,Kfz_Bestand.je1000Einw,728.6
+66,Altmark,union,32.7869001674798,Kfz_Bestand.je1000Einw,700.8
+67,Börde – Jerichower Land,union,32.0160718506263,Kfz_Bestand.je1000Einw,726.4
+68,Harz,union,33.6169010103865,Kfz_Bestand.je1000Einw,650.2
+69,Magdeburg,union,27.7491307403791,Kfz_Bestand.je1000Einw,541.3
+70,Dessau – Wittenberg,union,31.8379826738777,Kfz_Bestand.je1000Einw,656.3
+71,Anhalt,union,30.6621861213046,Kfz_Bestand.je1000Einw,653.7
+72,Halle,union,26.5018396662652,Kfz_Bestand.je1000Einw,476.7
+73,Burgenland – Saalekreis,union,29.9321202176487,Kfz_Bestand.je1000Einw,678.7
+74,Mansfeld,union,28.8232180791288,Kfz_Bestand.je1000Einw,703.3
+75,Berlin-Mitte,union,18.6762146968277,Kfz_Bestand.je1000Einw,394.2
+76,Berlin-Pankow,union,19.8450718581184,Kfz_Bestand.je1000Einw,394.2
+77,Berlin-Reinickendorf,union,31.0496393972412,Kfz_Bestand.je1000Einw,394.2
+78,Berlin-Spandau – Charlottenburg Nord,union,28.0908937837714,Kfz_Bestand.je1000Einw,394.2
+79,Berlin-Steglitz-Zehlendorf,union,29.8108182209863,Kfz_Bestand.je1000Einw,394.2
+80,Berlin-Charlottenburg-Wilmersdorf,union,25.5841240689726,Kfz_Bestand.je1000Einw,394.2
+81,Berlin-Tempelhof-Schöneberg,union,24.9702675086685,Kfz_Bestand.je1000Einw,394.2
+82,Berlin-Neukölln,union,22.3272494851218,Kfz_Bestand.je1000Einw,394.2
+83,Berlin-Friedrichshain-Kreuzberg – Prenzlauer Berg Ost,union,13.9117783985102,Kfz_Bestand.je1000Einw,394.2
+84,Berlin-Treptow-Köpenick,union,20.2855726581561,Kfz_Bestand.je1000Einw,394.2
+85,Berlin-Marzahn-Hellersdorf,union,20.9021062779352,Kfz_Bestand.je1000Einw,394.2
+86,Berlin-Lichtenberg,union,18.5561606535058,Kfz_Bestand.je1000Einw,394.2
+87,Aachen I,union,27.7707033709151,Kfz_Bestand.je1000Einw,582.7
+88,Aachen II,union,30.6863013618802,Kfz_Bestand.je1000Einw,582.7
+89,Heinsberg,union,39.4666799156795,Kfz_Bestand.je1000Einw,697.4
+90,Düren,union,34.9289977087441,Kfz_Bestand.je1000Einw,693.2
+91,Rhein-Erft-Kreis I,union,33.5313541781872,Kfz_Bestand.je1000Einw,662.9
+92,Euskirchen – Rhein-Erft-Kreis II,union,35.7176998802357,Kfz_Bestand.je1000Einw,754.6
+93,Köln I,union,26.3894799864388,Kfz_Bestand.je1000Einw,501
+94,Köln II,union,28.4988684683222,Kfz_Bestand.je1000Einw,501
+95,Köln III,union,24.4116289801569,Kfz_Bestand.je1000Einw,501
+96,Bonn,union,29.7611142421892,Kfz_Bestand.je1000Einw,769.3
+97,Rhein-Sieg-Kreis I,union,34.1090785722494,Kfz_Bestand.je1000Einw,683.6
+98,Rhein-Sieg-Kreis II,union,35.4727681175322,Kfz_Bestand.je1000Einw,683.6
+99,Oberbergischer Kreis,union,36.4799752310798,Kfz_Bestand.je1000Einw,734.4
+100,Rheinisch-Bergischer Kreis,union,35.5825773213759,Kfz_Bestand.je1000Einw,710.1
+101,Leverkusen – Köln IV,union,28.0971190951863,Kfz_Bestand.je1000Einw,552.2
+102,Wuppertal I,union,26.4729837976831,Kfz_Bestand.je1000Einw,543.5
+103,Solingen – Remscheid – Wuppertal II,union,31.5865278085531,Kfz_Bestand.je1000Einw,619.8
+104,Mettmann I,union,34.0074765180787,Kfz_Bestand.je1000Einw,677.9
+105,Mettmann II,union,32.6277894296987,Kfz_Bestand.je1000Einw,677.9
+106,Düsseldorf I,union,32.0237333488453,Kfz_Bestand.je1000Einw,562.8
+107,Düsseldorf II,union,28.4862430373353,Kfz_Bestand.je1000Einw,562.8
+108,Neuss I,union,35.8795261159013,Kfz_Bestand.je1000Einw,672.9
+109,Mönchengladbach,union,35.7592711486135,Kfz_Bestand.je1000Einw,579.5
+110,Krefeld I – Neuss II,union,35.6137995446851,Kfz_Bestand.je1000Einw,630.3
+111,Viersen,union,38.0627383499209,Kfz_Bestand.je1000Einw,708.3
+112,Kleve,union,41.5691935127913,Kfz_Bestand.je1000Einw,693.2
+113,Wesel I,union,33.7043904585311,Kfz_Bestand.je1000Einw,686.5
+114,Krefeld II – Wesel II,union,30.8967465184424,Kfz_Bestand.je1000Einw,634.8
+115,Duisburg I,union,25.7028448182175,Kfz_Bestand.je1000Einw,515
+116,Duisburg II,union,22.4285489949749,Kfz_Bestand.je1000Einw,515
+117,Oberhausen – Wesel III,union,26.2952462849004,Kfz_Bestand.je1000Einw,602
+118,Mülheim – Essen I,union,28.135676973034,Kfz_Bestand.je1000Einw,587.8
+119,Essen II,union,23.445497413359,Kfz_Bestand.je1000Einw,545.9
+120,Essen III,union,30.0677781495843,Kfz_Bestand.je1000Einw,545.9
+121,Recklinghausen I,union,28.5700335275544,Kfz_Bestand.je1000Einw,627.9
+122,Recklinghausen II,union,29.4477296348063,Kfz_Bestand.je1000Einw,627.9
+123,Gelsenkirchen,union,22.4035708840818,Kfz_Bestand.je1000Einw,516.4
+124,Steinfurt I – Borken I,union,43.9037572442534,Kfz_Bestand.je1000Einw,688
+125,Bottrop – Recklinghausen III,union,29.8774978741497,Kfz_Bestand.je1000Einw,631.8
+126,Borken II,union,47.0420813356001,Kfz_Bestand.je1000Einw,683.9
+127,Coesfeld – Steinfurt II,union,44.0465647581277,Kfz_Bestand.je1000Einw,716.9
+128,Steinfurt III,union,37.7932054932062,Kfz_Bestand.je1000Einw,690.7
+129,Münster,union,32.7552834495745,Kfz_Bestand.je1000Einw,517
+130,Warendorf,union,40.3086240818064,Kfz_Bestand.je1000Einw,692.7
+131,Gütersloh I,union,38.3806297170216,Kfz_Bestand.je1000Einw,708
+132,Bielefeld – Gütersloh II,union,27.620894568344,Kfz_Bestand.je1000Einw,550.9
+133,Herford – Minden-Lübbecke II,union,31.7294394453724,Kfz_Bestand.je1000Einw,714
+134,Minden-Lübbecke I,union,32.8453644065532,Kfz_Bestand.je1000Einw,729.5
+135,Lippe I,union,31.5312419141112,Kfz_Bestand.je1000Einw,687.6
+136,Höxter – Lippe II,union,37.2588582054623,Kfz_Bestand.je1000Einw,708.5
+137,Paderborn – Gütersloh III,union,40.68166780529,Kfz_Bestand.je1000Einw,668.8
+138,Hagen – Ennepe-Ruhr-Kreis I,union,28.8805995228014,Kfz_Bestand.je1000Einw,611.2
+139,Ennepe-Ruhr-Kreis II,union,27.3295021403859,Kfz_Bestand.je1000Einw,683.6
+140,Bochum I,union,25.4151309283779,Kfz_Bestand.je1000Einw,577.2
+141,Herne – Bochum II,union,23.4501177325811,Kfz_Bestand.je1000Einw,554.6
+142,Dortmund I,union,24.5070131613769,Kfz_Bestand.je1000Einw,532
+143,Dortmund II,union,24.4509043927649,Kfz_Bestand.je1000Einw,532
+144,Unna I,union,27.2066639479613,Kfz_Bestand.je1000Einw,660.8
+145,Hamm – Unna II,union,30.3371183774005,Kfz_Bestand.je1000Einw,619.8
+146,Soest,union,36.2632600707204,Kfz_Bestand.je1000Einw,699
+147,Hochsauerlandkreis,union,41.6525972751188,Kfz_Bestand.je1000Einw,719.7
+148,Siegen-Wittgenstein,union,33.9492060336473,Kfz_Bestand.je1000Einw,715.2
+149,Olpe – Märkischer Kreis I,union,40.5808788535773,Kfz_Bestand.je1000Einw,705.9
+150,Märkischer Kreis II,union,34.0240071563794,Kfz_Bestand.je1000Einw,675.7
+151,Nordsachsen,union,29.445073612684,Kfz_Bestand.je1000Einw,700
+152,Leipzig I,union,23.5248879246203,Kfz_Bestand.je1000Einw,437.7
+153,Leipzig II,union,21.9358105386713,Kfz_Bestand.je1000Einw,437.7
+154,Leipzig-Land,union,30.078673961052,Kfz_Bestand.je1000Einw,700.4
+155,Meißen,union,26.1106951411022,Kfz_Bestand.je1000Einw,666.2
+156,Bautzen I,union,27.0674230166275,Kfz_Bestand.je1000Einw,705.7
+157,Görlitz,union,26.672434992486,Kfz_Bestand.je1000Einw,657.4
+158,Sächsische Schweiz-Osterzgebirge,union,25.6369395806207,Kfz_Bestand.je1000Einw,682.6
+159,Dresden I,union,24.3273245410564,Kfz_Bestand.je1000Einw,465.8
+160,Dresden II – Bautzen II,union,23.1132788868724,Kfz_Bestand.je1000Einw,503.9
+161,Mittelsachsen,union,27.6652763505209,Kfz_Bestand.je1000Einw,704.7
+162,Chemnitz,union,24.8608521605615,Kfz_Bestand.je1000Einw,568.3
+163,Chemnitzer Umland – Erzgebirgskreis II,union,30.5785605972238,Kfz_Bestand.je1000Einw,695.7
+164,Erzgebirgskreis I,union,30.9590026957466,Kfz_Bestand.je1000Einw,704.8
+165,Zwickau,union,30.3097092402078,Kfz_Bestand.je1000Einw,677.8
+166,Vogtlandkreis,union,30.2440513807329,Kfz_Bestand.je1000Einw,710.2
+167,Waldeck,union,30.0085269665317,Kfz_Bestand.je1000Einw,761.2
+168,Kassel,union,25.2323226216028,Kfz_Bestand.je1000Einw,578.2
+169,Werra-Meißner – Hersfeld-Rotenburg,union,29.3973127427268,Kfz_Bestand.je1000Einw,775.1
+170,Schwalm-Eder,union,29.2169390579781,Kfz_Bestand.je1000Einw,790.7
+171,Marburg,union,30.1007216729174,Kfz_Bestand.je1000Einw,673.7
+172,Lahn-Dill,union,33.4598645243627,Kfz_Bestand.je1000Einw,728.7
+173,Gießen,union,30.1367528649938,Kfz_Bestand.je1000Einw,687.2
+174,Fulda,union,38.9532611299535,Kfz_Bestand.je1000Einw,784.2
+175,Main-Kinzig – Wetterau II – Schotten,union,31.720604019938,Kfz_Bestand.je1000Einw,711
+176,Hochtaunus,union,33.4944574680691,Kfz_Bestand.je1000Einw,774.2
+177,Wetterau I,union,32.0295875236846,Kfz_Bestand.je1000Einw,713.9
+178,Rheingau-Taunus – Limburg,union,34.5802669836442,Kfz_Bestand.je1000Einw,749.4
+179,Wiesbaden,union,28.9525848971973,Kfz_Bestand.je1000Einw,591.5
+180,Hanau,union,29.5684703748489,Kfz_Bestand.je1000Einw,701.6
+181,Main-Taunus,union,34.5618783834823,Kfz_Bestand.je1000Einw,861.3
+182,Frankfurt am Main I,union,26.029542324658,Kfz_Bestand.je1000Einw,503.9
+183,Frankfurt am Main II,union,26.784365393061,Kfz_Bestand.je1000Einw,503.9
+184,Groß-Gerau,union,30.454337551456,Kfz_Bestand.je1000Einw,699.4
+185,Offenbach,union,30.5673525819471,Kfz_Bestand.je1000Einw,609.5
+186,Darmstadt,union,27.4379106921672,Kfz_Bestand.je1000Einw,629.9
+187,Odenwald,union,32.7238605309657,Kfz_Bestand.je1000Einw,713.2
+188,Bergstraße,union,33.1568016614746,Kfz_Bestand.je1000Einw,737.2
+189,Eichsfeld – Nordhausen – Kyffhäuserkreis,union,33.7762699690244,Kfz_Bestand.je1000Einw,703.7
+190,Eisenach – Wartburgkreis – Unstrut-Hainich-Kreis,union,30.0497265042268,Kfz_Bestand.je1000Einw,685.2
+191,Jena – Sömmerda – Weimarer Land I,union,27.449522616998,Kfz_Bestand.je1000Einw,604.5
+192,Gotha – Ilm-Kreis,union,27.8167758918534,Kfz_Bestand.je1000Einw,655.7
+193,Erfurt – Weimar – Weimarer Land II,union,25.3787217651413,Kfz_Bestand.je1000Einw,521.6
+194,Gera – Greiz – Altenburger Land,union,27.346124293267,Kfz_Bestand.je1000Einw,652.4
+195,Saalfeld-Rudolstadt – Saale-Holzland-Kreis – Saale-Orla-Kreis,union,28.144665205402,Kfz_Bestand.je1000Einw,727.5
+196,Suhl – Schmalkalden-Meiningen – Hildburghausen – Sonneberg,union,30.3046896855488,Kfz_Bestand.je1000Einw,720.2
+197,Neuwied,union,38.188092605622,Kfz_Bestand.je1000Einw,748.7
+198,Ahrweiler,union,40.6279169000187,Kfz_Bestand.je1000Einw,756.1
+199,Koblenz,union,37.8393551750411,Kfz_Bestand.je1000Einw,687.5
+200,Mosel/Rhein-Hunsrück,union,41.5876981069984,Kfz_Bestand.je1000Einw,819.8
+201,Kreuznach,union,34.1372523480803,Kfz_Bestand.je1000Einw,744.7
+202,Bitburg,union,44.4550179928029,Kfz_Bestand.je1000Einw,844.8
+203,Trier,union,37.2842455014311,Kfz_Bestand.je1000Einw,670.4
+204,Montabaur,union,37.4594303871809,Kfz_Bestand.je1000Einw,777.1
+205,Mainz,union,32.7127275623634,Kfz_Bestand.je1000Einw,618.4
+206,Worms,union,32.6368966319343,Kfz_Bestand.je1000Einw,735.7
+207,Ludwigshafen/Frankenthal,union,30.8867140232854,Kfz_Bestand.je1000Einw,628.2
+208,Neustadt – Speyer,union,35.2020419283604,Kfz_Bestand.je1000Einw,740.4
+209,Kaiserslautern,union,29.1078318753498,Kfz_Bestand.je1000Einw,706.2
+210,Pirmasens,union,35.7656313576563,Kfz_Bestand.je1000Einw,750.8
+211,Südpfalz,union,34.8055469158045,Kfz_Bestand.je1000Einw,767.6
+212,Altötting,union,NA,Kfz_Bestand.je1000Einw,786.4
+213,Erding – Ebersberg,union,NA,Kfz_Bestand.je1000Einw,748.9
+214,Freising,union,NA,Kfz_Bestand.je1000Einw,779.1
+215,Fürstenfeldbruck,union,NA,Kfz_Bestand.je1000Einw,682.8
+216,Ingolstadt,union,NA,Kfz_Bestand.je1000Einw,812.1
+217,München-Nord,union,NA,Kfz_Bestand.je1000Einw,560.2
+218,München-Ost,union,NA,Kfz_Bestand.je1000Einw,560.2
+219,München-Süd,union,NA,Kfz_Bestand.je1000Einw,560.2
+220,München-West/Mitte,union,NA,Kfz_Bestand.je1000Einw,560.2
+221,München-Land,union,NA,Kfz_Bestand.je1000Einw,773.4
+222,Rosenheim,union,NA,Kfz_Bestand.je1000Einw,763.9
+223,Bad Tölz-Wolfratshausen – Miesbach,union,NA,Kfz_Bestand.je1000Einw,779.9
+224,Starnberg – Landsberg am Lech,union,NA,Kfz_Bestand.je1000Einw,763.9
+225,Traunstein,union,NA,Kfz_Bestand.je1000Einw,782
+226,Weilheim,union,NA,Kfz_Bestand.je1000Einw,775.7
+227,Deggendorf,union,NA,Kfz_Bestand.je1000Einw,856.1
+228,Landshut,union,NA,Kfz_Bestand.je1000Einw,783.9
+229,Passau,union,NA,Kfz_Bestand.je1000Einw,798.7
+230,Rottal-Inn,union,NA,Kfz_Bestand.je1000Einw,890.7
+231,Straubing,union,NA,Kfz_Bestand.je1000Einw,828.9
+232,Amberg,union,NA,Kfz_Bestand.je1000Einw,823
+233,Regensburg,union,NA,Kfz_Bestand.je1000Einw,714.7
+234,Schwandorf,union,NA,Kfz_Bestand.je1000Einw,898.4
+235,Weiden,union,NA,Kfz_Bestand.je1000Einw,840.3
+236,Bamberg,union,NA,Kfz_Bestand.je1000Einw,776.6
+237,Bayreuth,union,NA,Kfz_Bestand.je1000Einw,782.5
+238,Coburg,union,NA,Kfz_Bestand.je1000Einw,791.8
+239,Hof,union,NA,Kfz_Bestand.je1000Einw,760.7
+240,Kulmbach,union,NA,Kfz_Bestand.je1000Einw,844.8
+241,Ansbach,union,NA,Kfz_Bestand.je1000Einw,846.7
+242,Erlangen,union,NA,Kfz_Bestand.je1000Einw,685
+243,Fürth,union,NA,Kfz_Bestand.je1000Einw,720.8
+244,Nürnberg-Nord,union,NA,Kfz_Bestand.je1000Einw,546.1
+245,Nürnberg-Süd,union,NA,Kfz_Bestand.je1000Einw,571.4
+246,Roth,union,NA,Kfz_Bestand.je1000Einw,806.4
+247,Aschaffenburg,union,NA,Kfz_Bestand.je1000Einw,763.5
+248,Bad Kissingen,union,NA,Kfz_Bestand.je1000Einw,848.6
+249,Main-Spessart,union,NA,Kfz_Bestand.je1000Einw,797.3
+250,Schweinfurt,union,NA,Kfz_Bestand.je1000Einw,784
+251,Würzburg,union,NA,Kfz_Bestand.je1000Einw,702.2
+252,Augsburg-Stadt,union,NA,Kfz_Bestand.je1000Einw,546.3
+253,Augsburg-Land,union,NA,Kfz_Bestand.je1000Einw,791.4
+254,Donau-Ries,union,NA,Kfz_Bestand.je1000Einw,853.2
+255,Neu-Ulm,union,NA,Kfz_Bestand.je1000Einw,779.2
+256,Oberallgäu,union,NA,Kfz_Bestand.je1000Einw,772.2
+257,Ostallgäu,union,NA,Kfz_Bestand.je1000Einw,800.2
+258,Stuttgart I,union,28.9065723180017,Kfz_Bestand.je1000Einw,539.4
+259,Stuttgart II,union,29.0784670870736,Kfz_Bestand.je1000Einw,539.4
+260,Böblingen,union,35.4081150972827,Kfz_Bestand.je1000Einw,730.7
+261,Esslingen,union,33.2988539961304,Kfz_Bestand.je1000Einw,713.5
+262,Nürtingen,union,33.6752516370664,Kfz_Bestand.je1000Einw,714.4
+263,Göppingen,union,33.3129809177713,Kfz_Bestand.je1000Einw,745.1
+264,Waiblingen,union,32.9981005359202,Kfz_Bestand.je1000Einw,722.9
+265,Ludwigsburg,union,33.3356323821019,Kfz_Bestand.je1000Einw,697.9
+266,Neckar-Zaber,union,32.9540766474867,Kfz_Bestand.je1000Einw,732
+267,Heilbronn,union,32.0566122150566,Kfz_Bestand.je1000Einw,732.7
+268,Schwäbisch Hall – Hohenlohe,union,34.2767277040464,Kfz_Bestand.je1000Einw,842.2
+269,Backnang – Schwäbisch Gmünd,union,35.1696919529356,Kfz_Bestand.je1000Einw,744
+270,Aalen – Heidenheim,union,38.1760894120445,Kfz_Bestand.je1000Einw,744.7
+271,Karlsruhe-Stadt,union,27.8573651129504,Kfz_Bestand.je1000Einw,514.6
+272,Karlsruhe-Land,union,35.4236436704622,Kfz_Bestand.je1000Einw,723.9
+273,Rastatt,union,37.8735465584436,Kfz_Bestand.je1000Einw,751.5
+274,Heidelberg,union,29.8815736200459,Kfz_Bestand.je1000Einw,577.6
+275,Mannheim,union,27.1459701095144,Kfz_Bestand.je1000Einw,549.8
+276,Odenwald – Tauber,union,39.8259456374756,Kfz_Bestand.je1000Einw,803
+277,Rhein-Neckar,union,33.4919690660321,Kfz_Bestand.je1000Einw,721.9
+278,Bruchsal – Schwetzingen,union,34.8062137346589,Kfz_Bestand.je1000Einw,723.1
+279,Pforzheim,union,32.7327905968496,Kfz_Bestand.je1000Einw,676.2
+280,Calw,union,37.1569920844327,Kfz_Bestand.je1000Einw,767.8
+281,Freiburg,union,28.0874341291681,Kfz_Bestand.je1000Einw,536.1
+282,Lörrach – Müllheim,union,34.4400111559499,Kfz_Bestand.je1000Einw,713.9
+283,Emmendingen – Lahr,union,35.9174011523465,Kfz_Bestand.je1000Einw,744.8
+284,Offenburg,union,37.1204478146256,Kfz_Bestand.je1000Einw,758.9
+285,Rottweil – Tuttlingen,union,38.0504905097036,Kfz_Bestand.je1000Einw,772.5
+286,Schwarzwald-Baar,union,37.8352165268416,Kfz_Bestand.je1000Einw,722
+287,Konstanz,union,33.2074247887216,Kfz_Bestand.je1000Einw,662.5
+288,Waldshut,union,39.270173465159,Kfz_Bestand.je1000Einw,752.1
+289,Reutlingen,union,34.5219330283342,Kfz_Bestand.je1000Einw,740.6
+290,Tübingen,union,30.8243953865675,Kfz_Bestand.je1000Einw,666.4
+291,Ulm,union,36.9553349029242,Kfz_Bestand.je1000Einw,716.7
+292,Biberach,union,43.111336281012,Kfz_Bestand.je1000Einw,802.1
+293,Bodensee,union,37.0930010151986,Kfz_Bestand.je1000Einw,775.6
+294,Ravensburg,union,38.8610698622095,Kfz_Bestand.je1000Einw,769.3
+295,Zollernalb – Sigmaringen,union,37.9608788464052,Kfz_Bestand.je1000Einw,795.6
+296,Saarbrücken,union,28.4636700565904,Kfz_Bestand.je1000Einw,660.1
+297,Saarlouis,union,33.6098768566713,Kfz_Bestand.je1000Einw,772
+298,St. Wendel,union,36.5272871458438,Kfz_Bestand.je1000Einw,761.8
+299,Homburg,union,31.0305665294064,Kfz_Bestand.je1000Einw,743.6
+1,Flensburg – Schleswig,union,NA,Kfz_Bestand.je1000Einw,696.9
+2,Nordfriesland – Dithmarschen Nord,union,NA,Kfz_Bestand.je1000Einw,748.1
+3,Steinburg – Dithmarschen Süd,union,NA,Kfz_Bestand.je1000Einw,724.5
+4,Rendsburg-Eckernförde,union,NA,Kfz_Bestand.je1000Einw,733.3
+5,Kiel,union,NA,Kfz_Bestand.je1000Einw,518.2
+6,Plön – Neumünster,union,NA,Kfz_Bestand.je1000Einw,673.6
+7,Pinneberg,union,NA,Kfz_Bestand.je1000Einw,651.9
+8,Segeberg – Stormarn-Mitte,union,NA,Kfz_Bestand.je1000Einw,712.1
+9,Ostholstein – Stormarn-Nord,union,NA,Kfz_Bestand.je1000Einw,719.1
+10,Herzogtum Lauenburg – Stormarn-Süd,union,NA,Kfz_Bestand.je1000Einw,701.4
+11,Lübeck,union,NA,Kfz_Bestand.je1000Einw,525.8
+12,Schwerin – Ludwigslust-Parchim I – Nordwestmecklenburg I,union,NA,Kfz_Bestand.je1000Einw,634.6
+13,Ludwigslust-Parchim II – Nordwestmecklenburg II – Landkreis Rostock I,union,NA,Kfz_Bestand.je1000Einw,697.4
+14,Rostock – Landkreis Rostock II,union,NA,Kfz_Bestand.je1000Einw,510.2
+15,Vorpommern-Rügen – Vorpommern-Greifswald I,union,NA,Kfz_Bestand.je1000Einw,630.8
+16,Mecklenburgische Seenplatte I – Vorpommern-Greifswald II,union,NA,Kfz_Bestand.je1000Einw,636.3
+17,Mecklenburgische Seenplatte II – Landkreis Rostock III,union,NA,Kfz_Bestand.je1000Einw,676.3
+18,Hamburg-Mitte,union,NA,Kfz_Bestand.je1000Einw,492.2
+19,Hamburg-Altona,union,NA,Kfz_Bestand.je1000Einw,492.2
+20,Hamburg-Eimsbüttel,union,NA,Kfz_Bestand.je1000Einw,492.2
+21,Hamburg-Nord,union,NA,Kfz_Bestand.je1000Einw,492.2
+22,Hamburg-Wandsbek,union,NA,Kfz_Bestand.je1000Einw,492.2
+23,Hamburg-Bergedorf – Harburg,union,NA,Kfz_Bestand.je1000Einw,492.2
+24,Aurich – Emden,union,NA,Kfz_Bestand.je1000Einw,687.4
+25,Unterems,union,NA,Kfz_Bestand.je1000Einw,714.8
+26,Friesland – Wilhelmshaven – Wittmund,union,NA,Kfz_Bestand.je1000Einw,702.3
+27,Oldenburg – Ammerland,union,NA,Kfz_Bestand.je1000Einw,660.2
+28,Delmenhorst – Wesermarsch – Oldenburg-Land,union,NA,Kfz_Bestand.je1000Einw,696.9
+29,Cuxhaven – Stade II,union,NA,Kfz_Bestand.je1000Einw,740.4
+30,Stade I – Rotenburg II,union,NA,Kfz_Bestand.je1000Einw,755.9
+31,Mittelems,union,NA,Kfz_Bestand.je1000Einw,718.8
+32,Cloppenburg – Vechta,union,NA,Kfz_Bestand.je1000Einw,720.2
+33,Diepholz – Nienburg I,union,NA,Kfz_Bestand.je1000Einw,770.3
+34,Osterholz – Verden,union,NA,Kfz_Bestand.je1000Einw,728.1
+35,Rotenburg I – Heidekreis,union,NA,Kfz_Bestand.je1000Einw,766.1
+36,Harburg,union,NA,Kfz_Bestand.je1000Einw,754.3
+37,Lüchow-Dannenberg – Lüneburg,union,NA,Kfz_Bestand.je1000Einw,673.7
+38,Osnabrück-Land,union,NA,Kfz_Bestand.je1000Einw,735.2
+39,Stadt Osnabrück,union,NA,Kfz_Bestand.je1000Einw,627.3
+40,Nienburg II – Schaumburg,union,NA,Kfz_Bestand.je1000Einw,741.6
+41,Stadt Hannover I,union,NA,Kfz_Bestand.je1000Einw,570.6
+42,Stadt Hannover II,union,NA,Kfz_Bestand.je1000Einw,570.6
+43,Hannover-Land I,union,NA,Kfz_Bestand.je1000Einw,570.6
+44,Celle – Uelzen,union,NA,Kfz_Bestand.je1000Einw,709.8
+45,Gifhorn – Peine,union,NA,Kfz_Bestand.je1000Einw,707.1
+46,Hameln-Pyrmont – Holzminden,union,NA,Kfz_Bestand.je1000Einw,717
+47,Hannover-Land II,union,NA,Kfz_Bestand.je1000Einw,570.6
+48,Hildesheim,union,NA,Kfz_Bestand.je1000Einw,652
+49,Salzgitter – Wolfenbüttel,union,NA,Kfz_Bestand.je1000Einw,651.3
+50,Braunschweig,union,NA,Kfz_Bestand.je1000Einw,605.1
+51,Helmstedt – Wolfsburg,union,NA,Kfz_Bestand.je1000Einw,977.4
+52,Goslar – Northeim – Osterode,union,NA,Kfz_Bestand.je1000Einw,722.8
+53,Göttingen,union,NA,Kfz_Bestand.je1000Einw,627.8
+54,Bremen I,union,NA,Kfz_Bestand.je1000Einw,488.3
+55,Bremen II – Bremerhaven,union,NA,Kfz_Bestand.je1000Einw,486.3
+56,Prignitz – Ostprignitz-Ruppin – Havelland I,union,NA,Kfz_Bestand.je1000Einw,713.8
+57,Uckermark – Barnim I,union,NA,Kfz_Bestand.je1000Einw,681.9
+58,Oberhavel – Havelland II,union,NA,Kfz_Bestand.je1000Einw,672.3
+59,Märkisch-Oderland – Barnim II,union,NA,Kfz_Bestand.je1000Einw,697.2
+60,Brandenburg an der Havel – Potsdam-Mittelmark I – Havelland III – Teltow-Fläming I,union,NA,Kfz_Bestand.je1000Einw,648.7
+61,Potsdam – Potsdam-Mittelmark II – Teltow-Fläming II,union,NA,Kfz_Bestand.je1000Einw,586
+62,Dahme-Spreewald – Teltow-Fläming III – Oberspreewald-Lausitz I,union,NA,Kfz_Bestand.je1000Einw,722.4
+63,Frankfurt (Oder) – Oder-Spree,union,NA,Kfz_Bestand.je1000Einw,655.5
+64,Cottbus – Spree-Neiße,union,NA,Kfz_Bestand.je1000Einw,655
+65,Elbe-Elster – Oberspreewald-Lausitz II,union,NA,Kfz_Bestand.je1000Einw,728.6
+66,Altmark,union,NA,Kfz_Bestand.je1000Einw,700.8
+67,Börde – Jerichower Land,union,NA,Kfz_Bestand.je1000Einw,726.4
+68,Harz,union,NA,Kfz_Bestand.je1000Einw,650.2
+69,Magdeburg,union,NA,Kfz_Bestand.je1000Einw,541.3
+70,Dessau – Wittenberg,union,NA,Kfz_Bestand.je1000Einw,656.3
+71,Anhalt,union,NA,Kfz_Bestand.je1000Einw,653.7
+72,Halle,union,NA,Kfz_Bestand.je1000Einw,476.7
+73,Burgenland – Saalekreis,union,NA,Kfz_Bestand.je1000Einw,678.7
+74,Mansfeld,union,NA,Kfz_Bestand.je1000Einw,703.3
+75,Berlin-Mitte,union,NA,Kfz_Bestand.je1000Einw,394.2
+76,Berlin-Pankow,union,NA,Kfz_Bestand.je1000Einw,394.2
+77,Berlin-Reinickendorf,union,NA,Kfz_Bestand.je1000Einw,394.2
+78,Berlin-Spandau – Charlottenburg Nord,union,NA,Kfz_Bestand.je1000Einw,394.2
+79,Berlin-Steglitz-Zehlendorf,union,NA,Kfz_Bestand.je1000Einw,394.2
+80,Berlin-Charlottenburg-Wilmersdorf,union,NA,Kfz_Bestand.je1000Einw,394.2
+81,Berlin-Tempelhof-Schöneberg,union,NA,Kfz_Bestand.je1000Einw,394.2
+82,Berlin-Neukölln,union,NA,Kfz_Bestand.je1000Einw,394.2
+83,Berlin-Friedrichshain-Kreuzberg – Prenzlauer Berg Ost,union,NA,Kfz_Bestand.je1000Einw,394.2
+84,Berlin-Treptow-Köpenick,union,NA,Kfz_Bestand.je1000Einw,394.2
+85,Berlin-Marzahn-Hellersdorf,union,NA,Kfz_Bestand.je1000Einw,394.2
+86,Berlin-Lichtenberg,union,NA,Kfz_Bestand.je1000Einw,394.2
+87,Aachen I,union,NA,Kfz_Bestand.je1000Einw,582.7
+88,Aachen II,union,NA,Kfz_Bestand.je1000Einw,582.7
+89,Heinsberg,union,NA,Kfz_Bestand.je1000Einw,697.4
+90,Düren,union,NA,Kfz_Bestand.je1000Einw,693.2
+91,Rhein-Erft-Kreis I,union,NA,Kfz_Bestand.je1000Einw,662.9
+92,Euskirchen – Rhein-Erft-Kreis II,union,NA,Kfz_Bestand.je1000Einw,754.6
+93,Köln I,union,NA,Kfz_Bestand.je1000Einw,501
+94,Köln II,union,NA,Kfz_Bestand.je1000Einw,501
+95,Köln III,union,NA,Kfz_Bestand.je1000Einw,501
+96,Bonn,union,NA,Kfz_Bestand.je1000Einw,769.3
+97,Rhein-Sieg-Kreis I,union,NA,Kfz_Bestand.je1000Einw,683.6
+98,Rhein-Sieg-Kreis II,union,NA,Kfz_Bestand.je1000Einw,683.6
+99,Oberbergischer Kreis,union,NA,Kfz_Bestand.je1000Einw,734.4
+100,Rheinisch-Bergischer Kreis,union,NA,Kfz_Bestand.je1000Einw,710.1
+101,Leverkusen – Köln IV,union,NA,Kfz_Bestand.je1000Einw,552.2
+102,Wuppertal I,union,NA,Kfz_Bestand.je1000Einw,543.5
+103,Solingen – Remscheid – Wuppertal II,union,NA,Kfz_Bestand.je1000Einw,619.8
+104,Mettmann I,union,NA,Kfz_Bestand.je1000Einw,677.9
+105,Mettmann II,union,NA,Kfz_Bestand.je1000Einw,677.9
+106,Düsseldorf I,union,NA,Kfz_Bestand.je1000Einw,562.8
+107,Düsseldorf II,union,NA,Kfz_Bestand.je1000Einw,562.8
+108,Neuss I,union,NA,Kfz_Bestand.je1000Einw,672.9
+109,Mönchengladbach,union,NA,Kfz_Bestand.je1000Einw,579.5
+110,Krefeld I – Neuss II,union,NA,Kfz_Bestand.je1000Einw,630.3
+111,Viersen,union,NA,Kfz_Bestand.je1000Einw,708.3
+112,Kleve,union,NA,Kfz_Bestand.je1000Einw,693.2
+113,Wesel I,union,NA,Kfz_Bestand.je1000Einw,686.5
+114,Krefeld II – Wesel II,union,NA,Kfz_Bestand.je1000Einw,634.8
+115,Duisburg I,union,NA,Kfz_Bestand.je1000Einw,515
+116,Duisburg II,union,NA,Kfz_Bestand.je1000Einw,515
+117,Oberhausen – Wesel III,union,NA,Kfz_Bestand.je1000Einw,602
+118,Mülheim – Essen I,union,NA,Kfz_Bestand.je1000Einw,587.8
+119,Essen II,union,NA,Kfz_Bestand.je1000Einw,545.9
+120,Essen III,union,NA,Kfz_Bestand.je1000Einw,545.9
+121,Recklinghausen I,union,NA,Kfz_Bestand.je1000Einw,627.9
+122,Recklinghausen II,union,NA,Kfz_Bestand.je1000Einw,627.9
+123,Gelsenkirchen,union,NA,Kfz_Bestand.je1000Einw,516.4
+124,Steinfurt I – Borken I,union,NA,Kfz_Bestand.je1000Einw,688
+125,Bottrop – Recklinghausen III,union,NA,Kfz_Bestand.je1000Einw,631.8
+126,Borken II,union,NA,Kfz_Bestand.je1000Einw,683.9
+127,Coesfeld – Steinfurt II,union,NA,Kfz_Bestand.je1000Einw,716.9
+128,Steinfurt III,union,NA,Kfz_Bestand.je1000Einw,690.7
+129,Münster,union,NA,Kfz_Bestand.je1000Einw,517
+130,Warendorf,union,NA,Kfz_Bestand.je1000Einw,692.7
+131,Gütersloh I,union,NA,Kfz_Bestand.je1000Einw,708
+132,Bielefeld – Gütersloh II,union,NA,Kfz_Bestand.je1000Einw,550.9
+133,Herford – Minden-Lübbecke II,union,NA,Kfz_Bestand.je1000Einw,714
+134,Minden-Lübbecke I,union,NA,Kfz_Bestand.je1000Einw,729.5
+135,Lippe I,union,NA,Kfz_Bestand.je1000Einw,687.6
+136,Höxter – Lippe II,union,NA,Kfz_Bestand.je1000Einw,708.5
+137,Paderborn – Gütersloh III,union,NA,Kfz_Bestand.je1000Einw,668.8
+138,Hagen – Ennepe-Ruhr-Kreis I,union,NA,Kfz_Bestand.je1000Einw,611.2
+139,Ennepe-Ruhr-Kreis II,union,NA,Kfz_Bestand.je1000Einw,683.6
+140,Bochum I,union,NA,Kfz_Bestand.je1000Einw,577.2
+141,Herne – Bochum II,union,NA,Kfz_Bestand.je1000Einw,554.6
+142,Dortmund I,union,NA,Kfz_Bestand.je1000Einw,532
+143,Dortmund II,union,NA,Kfz_Bestand.je1000Einw,532
+144,Unna I,union,NA,Kfz_Bestand.je1000Einw,660.8
+145,Hamm – Unna II,union,NA,Kfz_Bestand.je1000Einw,619.8
+146,Soest,union,NA,Kfz_Bestand.je1000Einw,699
+147,Hochsauerlandkreis,union,NA,Kfz_Bestand.je1000Einw,719.7
+148,Siegen-Wittgenstein,union,NA,Kfz_Bestand.je1000Einw,715.2
+149,Olpe – Märkischer Kreis I,union,NA,Kfz_Bestand.je1000Einw,705.9
+150,Märkischer Kreis II,union,NA,Kfz_Bestand.je1000Einw,675.7
+151,Nordsachsen,union,NA,Kfz_Bestand.je1000Einw,700
+152,Leipzig I,union,NA,Kfz_Bestand.je1000Einw,437.7
+153,Leipzig II,union,NA,Kfz_Bestand.je1000Einw,437.7
+154,Leipzig-Land,union,NA,Kfz_Bestand.je1000Einw,700.4
+155,Meißen,union,NA,Kfz_Bestand.je1000Einw,666.2
+156,Bautzen I,union,NA,Kfz_Bestand.je1000Einw,705.7
+157,Görlitz,union,NA,Kfz_Bestand.je1000Einw,657.4
+158,Sächsische Schweiz-Osterzgebirge,union,NA,Kfz_Bestand.je1000Einw,682.6
+159,Dresden I,union,NA,Kfz_Bestand.je1000Einw,465.8
+160,Dresden II – Bautzen II,union,NA,Kfz_Bestand.je1000Einw,503.9
+161,Mittelsachsen,union,NA,Kfz_Bestand.je1000Einw,704.7
+162,Chemnitz,union,NA,Kfz_Bestand.je1000Einw,568.3
+163,Chemnitzer Umland – Erzgebirgskreis II,union,NA,Kfz_Bestand.je1000Einw,695.7
+164,Erzgebirgskreis I,union,NA,Kfz_Bestand.je1000Einw,704.8
+165,Zwickau,union,NA,Kfz_Bestand.je1000Einw,677.8
+166,Vogtlandkreis,union,NA,Kfz_Bestand.je1000Einw,710.2
+167,Waldeck,union,NA,Kfz_Bestand.je1000Einw,761.2
+168,Kassel,union,NA,Kfz_Bestand.je1000Einw,578.2
+169,Werra-Meißner – Hersfeld-Rotenburg,union,NA,Kfz_Bestand.je1000Einw,775.1
+170,Schwalm-Eder,union,NA,Kfz_Bestand.je1000Einw,790.7
+171,Marburg,union,NA,Kfz_Bestand.je1000Einw,673.7
+172,Lahn-Dill,union,NA,Kfz_Bestand.je1000Einw,728.7
+173,Gießen,union,NA,Kfz_Bestand.je1000Einw,687.2
+174,Fulda,union,NA,Kfz_Bestand.je1000Einw,784.2
+175,Main-Kinzig – Wetterau II – Schotten,union,NA,Kfz_Bestand.je1000Einw,711
+176,Hochtaunus,union,NA,Kfz_Bestand.je1000Einw,774.2
+177,Wetterau I,union,NA,Kfz_Bestand.je1000Einw,713.9
+178,Rheingau-Taunus – Limburg,union,NA,Kfz_Bestand.je1000Einw,749.4
+179,Wiesbaden,union,NA,Kfz_Bestand.je1000Einw,591.5
+180,Hanau,union,NA,Kfz_Bestand.je1000Einw,701.6
+181,Main-Taunus,union,NA,Kfz_Bestand.je1000Einw,861.3
+182,Frankfurt am Main I,union,NA,Kfz_Bestand.je1000Einw,503.9
+183,Frankfurt am Main II,union,NA,Kfz_Bestand.je1000Einw,503.9
+184,Groß-Gerau,union,NA,Kfz_Bestand.je1000Einw,699.4
+185,Offenbach,union,NA,Kfz_Bestand.je1000Einw,609.5
+186,Darmstadt,union,NA,Kfz_Bestand.je1000Einw,629.9
+187,Odenwald,union,NA,Kfz_Bestand.je1000Einw,713.2
+188,Bergstraße,union,NA,Kfz_Bestand.je1000Einw,737.2
+189,Eichsfeld – Nordhausen – Kyffhäuserkreis,union,NA,Kfz_Bestand.je1000Einw,703.7
+190,Eisenach – Wartburgkreis – Unstrut-Hainich-Kreis,union,NA,Kfz_Bestand.je1000Einw,685.2
+191,Jena – Sömmerda – Weimarer Land I,union,NA,Kfz_Bestand.je1000Einw,604.5
+192,Gotha – Ilm-Kreis,union,NA,Kfz_Bestand.je1000Einw,655.7
+193,Erfurt – Weimar – Weimarer Land II,union,NA,Kfz_Bestand.je1000Einw,521.6
+194,Gera – Greiz – Altenburger Land,union,NA,Kfz_Bestand.je1000Einw,652.4
+195,Saalfeld-Rudolstadt – Saale-Holzland-Kreis – Saale-Orla-Kreis,union,NA,Kfz_Bestand.je1000Einw,727.5
+196,Suhl – Schmalkalden-Meiningen – Hildburghausen – Sonneberg,union,NA,Kfz_Bestand.je1000Einw,720.2
+197,Neuwied,union,NA,Kfz_Bestand.je1000Einw,748.7
+198,Ahrweiler,union,NA,Kfz_Bestand.je1000Einw,756.1
+199,Koblenz,union,NA,Kfz_Bestand.je1000Einw,687.5
+200,Mosel/Rhein-Hunsrück,union,NA,Kfz_Bestand.je1000Einw,819.8
+201,Kreuznach,union,NA,Kfz_Bestand.je1000Einw,744.7
+202,Bitburg,union,NA,Kfz_Bestand.je1000Einw,844.8
+203,Trier,union,NA,Kfz_Bestand.je1000Einw,670.4
+204,Montabaur,union,NA,Kfz_Bestand.je1000Einw,777.1
+205,Mainz,union,NA,Kfz_Bestand.je1000Einw,618.4
+206,Worms,union,NA,Kfz_Bestand.je1000Einw,735.7
+207,Ludwigshafen/Frankenthal,union,NA,Kfz_Bestand.je1000Einw,628.2
+208,Neustadt – Speyer,union,NA,Kfz_Bestand.je1000Einw,740.4
+209,Kaiserslautern,union,NA,Kfz_Bestand.je1000Einw,706.2
+210,Pirmasens,union,NA,Kfz_Bestand.je1000Einw,750.8
+211,Südpfalz,union,NA,Kfz_Bestand.je1000Einw,767.6
+212,Altötting,union,44.0151220325791,Kfz_Bestand.je1000Einw,786.4
+213,Erding – Ebersberg,union,39.0669585752239,Kfz_Bestand.je1000Einw,748.9
+214,Freising,union,39.6748440479654,Kfz_Bestand.je1000Einw,779.1
+215,Fürstenfeldbruck,union,39.835758156783,Kfz_Bestand.je1000Einw,682.8
+216,Ingolstadt,union,41.6943775978998,Kfz_Bestand.je1000Einw,812.1
+217,München-Nord,union,28.8280220922977,Kfz_Bestand.je1000Einw,560.2
+218,München-Ost,union,31.4576424236886,Kfz_Bestand.je1000Einw,560.2
+219,München-Süd,union,29.848618719444,Kfz_Bestand.je1000Einw,560.2
+220,München-West/Mitte,union,29.7878968820582,Kfz_Bestand.je1000Einw,560.2
+221,München-Land,union,37.2745235839928,Kfz_Bestand.je1000Einw,773.4
+222,Rosenheim,union,40.538456561125,Kfz_Bestand.je1000Einw,763.9
+223,Bad Tölz-Wolfratshausen – Miesbach,union,41.5629243572529,Kfz_Bestand.je1000Einw,779.9
+224,Starnberg – Landsberg am Lech,union,38.3021576203201,Kfz_Bestand.je1000Einw,763.9
+225,Traunstein,union,44.6286222801564,Kfz_Bestand.je1000Einw,782
+226,Weilheim,union,42.8706199460916,Kfz_Bestand.je1000Einw,775.7
+227,Deggendorf,union,40.5734495389668,Kfz_Bestand.je1000Einw,856.1
+228,Landshut,union,39.3971642304924,Kfz_Bestand.je1000Einw,783.9
+229,Passau,union,40.542693247352,Kfz_Bestand.je1000Einw,798.7
+230,Rottal-Inn,union,42.733838580127,Kfz_Bestand.je1000Einw,890.7
+231,Straubing,union,41.8939683480621,Kfz_Bestand.je1000Einw,828.9
+232,Amberg,union,42.6454938378031,Kfz_Bestand.je1000Einw,823
+233,Regensburg,union,37.801713016599,Kfz_Bestand.je1000Einw,714.7
+234,Schwandorf,union,41.4348780397068,Kfz_Bestand.je1000Einw,898.4
+235,Weiden,union,43.0581649773077,Kfz_Bestand.je1000Einw,840.3
+236,Bamberg,union,38.8739630793945,Kfz_Bestand.je1000Einw,776.6
+237,Bayreuth,union,41.9405320813771,Kfz_Bestand.je1000Einw,782.5
+238,Coburg,union,39.6189197816319,Kfz_Bestand.je1000Einw,791.8
+239,Hof,union,38.772249207018,Kfz_Bestand.je1000Einw,760.7
+240,Kulmbach,union,43.3929998282441,Kfz_Bestand.je1000Einw,844.8
+241,Ansbach,union,40.3576599194235,Kfz_Bestand.je1000Einw,846.7
+242,Erlangen,union,35.5649046617358,Kfz_Bestand.je1000Einw,685
+243,Fürth,union,35.2016539730317,Kfz_Bestand.je1000Einw,720.8
+244,Nürnberg-Nord,union,27.6014424929802,Kfz_Bestand.je1000Einw,546.1
+245,Nürnberg-Süd,union,31.2128754447312,Kfz_Bestand.je1000Einw,571.4
+246,Roth,union,37.7896989894064,Kfz_Bestand.je1000Einw,806.4
+247,Aschaffenburg,union,38.3482821632329,Kfz_Bestand.je1000Einw,763.5
+248,Bad Kissingen,union,44.609571343649,Kfz_Bestand.je1000Einw,848.6
+249,Main-Spessart,union,41.8334305811143,Kfz_Bestand.je1000Einw,797.3
+250,Schweinfurt,union,41.0959080934555,Kfz_Bestand.je1000Einw,784
+251,Würzburg,union,37.1535222262537,Kfz_Bestand.je1000Einw,702.2
+252,Augsburg-Stadt,union,31.8446372084153,Kfz_Bestand.je1000Einw,546.3
+253,Augsburg-Land,union,41.3626300306311,Kfz_Bestand.je1000Einw,791.4
+254,Donau-Ries,union,43.3438219388937,Kfz_Bestand.je1000Einw,853.2
+255,Neu-Ulm,union,39.885595423817,Kfz_Bestand.je1000Einw,779.2
+256,Oberallgäu,union,41.5493238888794,Kfz_Bestand.je1000Einw,772.2
+257,Ostallgäu,union,42.0342976141019,Kfz_Bestand.je1000Einw,800.2
+258,Stuttgart I,union,NA,Kfz_Bestand.je1000Einw,539.4
+259,Stuttgart II,union,NA,Kfz_Bestand.je1000Einw,539.4
+260,Böblingen,union,NA,Kfz_Bestand.je1000Einw,730.7
+261,Esslingen,union,NA,Kfz_Bestand.je1000Einw,713.5
+262,Nürtingen,union,NA,Kfz_Bestand.je1000Einw,714.4
+263,Göppingen,union,NA,Kfz_Bestand.je1000Einw,745.1
+264,Waiblingen,union,NA,Kfz_Bestand.je1000Einw,722.9
+265,Ludwigsburg,union,NA,Kfz_Bestand.je1000Einw,697.9
+266,Neckar-Zaber,union,NA,Kfz_Bestand.je1000Einw,732
+267,Heilbronn,union,NA,Kfz_Bestand.je1000Einw,732.7
+268,Schwäbisch Hall – Hohenlohe,union,NA,Kfz_Bestand.je1000Einw,842.2
+269,Backnang – Schwäbisch Gmünd,union,NA,Kfz_Bestand.je1000Einw,744
+270,Aalen – Heidenheim,union,NA,Kfz_Bestand.je1000Einw,744.7
+271,Karlsruhe-Stadt,union,NA,Kfz_Bestand.je1000Einw,514.6
+272,Karlsruhe-Land,union,NA,Kfz_Bestand.je1000Einw,723.9
+273,Rastatt,union,NA,Kfz_Bestand.je1000Einw,751.5
+274,Heidelberg,union,NA,Kfz_Bestand.je1000Einw,577.6
+275,Mannheim,union,NA,Kfz_Bestand.je1000Einw,549.8
+276,Odenwald – Tauber,union,NA,Kfz_Bestand.je1000Einw,803
+277,Rhein-Neckar,union,NA,Kfz_Bestand.je1000Einw,721.9
+278,Bruchsal – Schwetzingen,union,NA,Kfz_Bestand.je1000Einw,723.1
+279,Pforzheim,union,NA,Kfz_Bestand.je1000Einw,676.2
+280,Calw,union,NA,Kfz_Bestand.je1000Einw,767.8
+281,Freiburg,union,NA,Kfz_Bestand.je1000Einw,536.1
+282,Lörrach – Müllheim,union,NA,Kfz_Bestand.je1000Einw,713.9
+283,Emmendingen – Lahr,union,NA,Kfz_Bestand.je1000Einw,744.8
+284,Offenburg,union,NA,Kfz_Bestand.je1000Einw,758.9
+285,Rottweil – Tuttlingen,union,NA,Kfz_Bestand.je1000Einw,772.5
+286,Schwarzwald-Baar,union,NA,Kfz_Bestand.je1000Einw,722
+287,Konstanz,union,NA,Kfz_Bestand.je1000Einw,662.5
+288,Waldshut,union,NA,Kfz_Bestand.je1000Einw,752.1
+289,Reutlingen,union,NA,Kfz_Bestand.je1000Einw,740.6
+290,Tübingen,union,NA,Kfz_Bestand.je1000Einw,666.4
+291,Ulm,union,NA,Kfz_Bestand.je1000Einw,716.7
+292,Biberach,union,NA,Kfz_Bestand.je1000Einw,802.1
+293,Bodensee,union,NA,Kfz_Bestand.je1000Einw,775.6
+294,Ravensburg,union,NA,Kfz_Bestand.je1000Einw,769.3
+295,Zollernalb – Sigmaringen,union,NA,Kfz_Bestand.je1000Einw,795.6
+296,Saarbrücken,union,NA,Kfz_Bestand.je1000Einw,660.1
+297,Saarlouis,union,NA,Kfz_Bestand.je1000Einw,772
+298,St. Wendel,union,NA,Kfz_Bestand.je1000Einw,761.8
+299,Homburg,union,NA,Kfz_Bestand.je1000Einw,743.6

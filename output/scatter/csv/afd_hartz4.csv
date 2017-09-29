@@ -1,0 +1,300 @@
+Nr,Gebiet,Partei,Prozent,indikator,wert
+1,Flensburg – Schleswig,AfD,6.83525434869363,HartzIV__Ausländer,18.8
+2,Nordfriesland – Dithmarschen Nord,AfD,6.53485424588086,HartzIV__Ausländer,16.7
+3,Steinburg – Dithmarschen Süd,AfD,8.53944603629417,HartzIV__Ausländer,21.1
+4,Rendsburg-Eckernförde,AfD,7.40906647554202,HartzIV__Ausländer,23.8
+5,Kiel,AfD,6.91868711419496,HartzIV__Ausländer,28.3
+6,Plön – Neumünster,AfD,8.55157301132446,HartzIV__Ausländer,22.1
+7,Pinneberg,AfD,8.57263966690275,HartzIV__Ausländer,34.6
+8,Segeberg – Stormarn-Mitte,AfD,8.94355960549555,HartzIV__Ausländer,28.3
+9,Ostholstein – Stormarn-Nord,AfD,8.58143990442403,HartzIV__Ausländer,20.2
+10,Herzogtum Lauenburg – Stormarn-Süd,AfD,9.78845763162144,HartzIV__Ausländer,28.7
+11,Lübeck,AfD,8.89719194175879,HartzIV__Ausländer,22.5
+12,Schwerin – Ludwigslust-Parchim I – Nordwestmecklenburg I,AfD,16.5315419658714,HartzIV__Ausländer,16.3
+13,Ludwigslust-Parchim II – Nordwestmecklenburg II – Landkreis Rostock I,AfD,17.7012983433029,HartzIV__Ausländer,9.9
+14,Rostock – Landkreis Rostock II,AfD,15.5077446305127,HartzIV__Ausländer,15.1
+15,Vorpommern-Rügen – Vorpommern-Greifswald I,AfD,19.6408838128916,HartzIV__Ausländer,9.1
+16,Mecklenburgische Seenplatte I – Vorpommern-Greifswald II,AfD,22.9944382359971,HartzIV__Ausländer,8.1
+17,Mecklenburgische Seenplatte II – Landkreis Rostock III,AfD,19.2234536100564,HartzIV__Ausländer,8.7
+18,Hamburg-Mitte,AfD,8.00160605712975,HartzIV__Ausländer,35.6
+19,Hamburg-Altona,AfD,5.53778709090408,HartzIV__Ausländer,35.6
+20,Hamburg-Eimsbüttel,AfD,5.87852340773877,HartzIV__Ausländer,35.6
+21,Hamburg-Nord,AfD,6.15491282560047,HartzIV__Ausländer,35.6
+22,Hamburg-Wandsbek,AfD,9.78055107621118,HartzIV__Ausländer,35.6
+23,Hamburg-Bergedorf – Harburg,AfD,11.4262361015608,HartzIV__Ausländer,35.6
+24,Aurich – Emden,AfD,9.12881017038082,HartzIV__Ausländer,18.3
+25,Unterems,AfD,8.35653003949632,HartzIV__Ausländer,22.6
+26,Friesland – Wilhelmshaven – Wittmund,AfD,9.0794781407857,HartzIV__Ausländer,18.8
+27,Oldenburg – Ammerland,AfD,7.22742574484164,HartzIV__Ausländer,28.1
+28,Delmenhorst – Wesermarsch – Oldenburg-Land,AfD,9.71045741567842,HartzIV__Ausländer,30.7
+29,Cuxhaven – Stade II,AfD,8.99115949856448,HartzIV__Ausländer,23.7
+30,Stade I – Rotenburg II,AfD,8.88887423420096,HartzIV__Ausländer,23.3
+31,Mittelems,AfD,5.42367763257226,HartzIV__Ausländer,29.2
+32,Cloppenburg – Vechta,AfD,8.08890037472542,HartzIV__Ausländer,37.2
+33,Diepholz – Nienburg I,AfD,8.44214486022557,HartzIV__Ausländer,28.1
+34,Osterholz – Verden,AfD,9.66532709664668,HartzIV__Ausländer,27.9
+35,Rotenburg I – Heidekreis,AfD,9.25398701000024,HartzIV__Ausländer,20.6
+36,Harburg,AfD,9.97650101331609,HartzIV__Ausländer,27.6
+37,Lüchow-Dannenberg – Lüneburg,AfD,8.91621116328191,HartzIV__Ausländer,21.1
+38,Osnabrück-Land,AfD,7.28334398636412,HartzIV__Ausländer,24.8
+39,Stadt Osnabrück,AfD,6.28385627061176,HartzIV__Ausländer,35.3
+40,Nienburg II – Schaumburg,AfD,10.2598080276836,HartzIV__Ausländer,22.7
+41,Stadt Hannover I,AfD,9.13369239618427,HartzIV__Ausländer,36.2
+42,Stadt Hannover II,AfD,7.59335539199136,HartzIV__Ausländer,36.2
+43,Hannover-Land I,AfD,10.1820278669528,HartzIV__Ausländer,36.2
+44,Celle – Uelzen,AfD,10.9014896445477,HartzIV__Ausländer,21.3
+45,Gifhorn – Peine,AfD,10.911043493825,HartzIV__Ausländer,23.4
+46,Hameln-Pyrmont – Holzminden,AfD,10.1348719798053,HartzIV__Ausländer,26.2
+47,Hannover-Land II,AfD,10.3668253034597,HartzIV__Ausländer,36.2
+48,Hildesheim,AfD,9.32588609287263,HartzIV__Ausländer,25.9
+49,Salzgitter – Wolfenbüttel,AfD,12.2773103846895,HartzIV__Ausländer,30
+50,Braunschweig,AfD,8.36995387176898,HartzIV__Ausländer,22.7
+51,Helmstedt – Wolfsburg,AfD,10.9271377104625,HartzIV__Ausländer,26.1
+52,Goslar – Northeim – Osterode,AfD,10.1075427027461,HartzIV__Ausländer,20.9
+53,Göttingen,AfD,7.93954534984674,HartzIV__Ausländer,21.1
+54,Bremen I,AfD,8.4534163829318,HartzIV__Ausländer,39.2
+55,Bremen II – Bremerhaven,AfD,12.0719213309012,HartzIV__Ausländer,35.3
+56,Prignitz – Ostprignitz-Ruppin – Havelland I,AfD,18.7360651307344,HartzIV__Ausländer,10
+57,Uckermark – Barnim I,AfD,20.7811682378025,HartzIV__Ausländer,8.1
+58,Oberhavel – Havelland II,AfD,18.6138483701517,HartzIV__Ausländer,10.5
+59,Märkisch-Oderland – Barnim II,AfD,20.6956189840051,HartzIV__Ausländer,9.3
+60,Brandenburg an der Havel – Potsdam-Mittelmark I – Havelland III – Teltow-Fläming I,AfD,17.9414609396058,HartzIV__Ausländer,11.8
+61,Potsdam – Potsdam-Mittelmark II – Teltow-Fläming II,AfD,13.4799989683543,HartzIV__Ausländer,20.4
+62,Dahme-Spreewald – Teltow-Fläming III – Oberspreewald-Lausitz I,AfD,21.0372613703964,HartzIV__Ausländer,13.7
+63,Frankfurt (Oder) – Oder-Spree,AfD,22.0854138433331,HartzIV__Ausländer,14.1
+64,Cottbus – Spree-Neiße,AfD,26.8421174063848,HartzIV__Ausländer,14.5
+65,Elbe-Elster – Oberspreewald-Lausitz II,AfD,25.2294789671796,HartzIV__Ausländer,8.7
+66,Altmark,AfD,16.7652734289667,HartzIV__Ausländer,9.5
+67,Börde – Jerichower Land,AfD,18.8722693047912,HartzIV__Ausländer,12.4
+68,Harz,AfD,16.857909983749,HartzIV__Ausländer,4.8
+69,Magdeburg,AfD,16.2052385721128,HartzIV__Ausländer,19.9
+70,Dessau – Wittenberg,AfD,19.9809314023639,HartzIV__Ausländer,12.6
+71,Anhalt,AfD,22.2281779573661,HartzIV__Ausländer,11.4
+72,Halle,AfD,17.7878761668408,HartzIV__Ausländer,23.3
+73,Burgenland – Saalekreis,AfD,24.5977136045945,HartzIV__Ausländer,8.8
+74,Mansfeld,AfD,23.9126494449963,HartzIV__Ausländer,9.4
+75,Berlin-Mitte,AfD,8.24454557622808,HartzIV__Ausländer,30.9
+76,Berlin-Pankow,AfD,12.4945683953028,HartzIV__Ausländer,30.9
+77,Berlin-Reinickendorf,AfD,13.7006811797232,HartzIV__Ausländer,30.9
+78,Berlin-Spandau – Charlottenburg Nord,AfD,14.1353763259808,HartzIV__Ausländer,30.9
+79,Berlin-Steglitz-Zehlendorf,AfD,8.88499695048596,HartzIV__Ausländer,30.9
+80,Berlin-Charlottenburg-Wilmersdorf,AfD,7.91883481277421,HartzIV__Ausländer,30.9
+81,Berlin-Tempelhof-Schöneberg,AfD,9.5601824709515,HartzIV__Ausländer,30.9
+82,Berlin-Neukölln,AfD,11.1256302819402,HartzIV__Ausländer,30.9
+83,Berlin-Friedrichshain-Kreuzberg – Prenzlauer Berg Ost,AfD,6.32274208566108,HartzIV__Ausländer,30.9
+84,Berlin-Treptow-Köpenick,AfD,16.9045365881921,HartzIV__Ausländer,30.9
+85,Berlin-Marzahn-Hellersdorf,AfD,21.617831789898,HartzIV__Ausländer,30.9
+86,Berlin-Lichtenberg,AfD,16.7358747447243,HartzIV__Ausländer,30.9
+87,Aachen I,AfD,5.91555542837521,HartzIV__Ausländer,30.4
+88,Aachen II,AfD,8.65263022942757,HartzIV__Ausländer,30.4
+89,Heinsberg,AfD,8.73867031960878,HartzIV__Ausländer,21.1
+90,Düren,AfD,9.61261789311025,HartzIV__Ausländer,23.5
+91,Rhein-Erft-Kreis I,AfD,9.52764655385798,HartzIV__Ausländer,32.8
+92,Euskirchen – Rhein-Erft-Kreis II,AfD,9.84108400152525,HartzIV__Ausländer,27.2
+93,Köln I,AfD,8.859490301592,HartzIV__Ausländer,39.2
+94,Köln II,AfD,5.05586620525883,HartzIV__Ausländer,39.2
+95,Köln III,AfD,7.84561572467112,HartzIV__Ausländer,39.2
+96,Bonn,AfD,7.32672272846485,HartzIV__Ausländer,35.9
+97,Rhein-Sieg-Kreis I,AfD,9.97980837104444,HartzIV__Ausländer,31.2
+98,Rhein-Sieg-Kreis II,AfD,8.79239551631141,HartzIV__Ausländer,31.2
+99,Oberbergischer Kreis,AfD,10.5841982029632,HartzIV__Ausländer,29.4
+100,Rheinisch-Bergischer Kreis,AfD,7.98741811075069,HartzIV__Ausländer,31.9
+101,Leverkusen – Köln IV,AfD,9.75095498708246,HartzIV__Ausländer,37.6
+102,Wuppertal I,AfD,11.062271555409,HartzIV__Ausländer,38.8
+103,Solingen – Remscheid – Wuppertal II,AfD,9.98411994977472,HartzIV__Ausländer,36.4
+104,Mettmann I,AfD,9.45748123016995,HartzIV__Ausländer,33.3
+105,Mettmann II,AfD,9.58350409424395,HartzIV__Ausländer,33.3
+106,Düsseldorf I,AfD,6.99726601128497,HartzIV__Ausländer,40.4
+107,Düsseldorf II,AfD,9.09741416805803,HartzIV__Ausländer,40.4
+108,Neuss I,AfD,9.38005832225882,HartzIV__Ausländer,31.9
+109,Mönchengladbach,AfD,9.45687731205479,HartzIV__Ausländer,30.8
+110,Krefeld I – Neuss II,AfD,7.85061519402772,HartzIV__Ausländer,31.3
+111,Viersen,AfD,7.46500325551112,HartzIV__Ausländer,24.4
+112,Kleve,AfD,6.93157891597526,HartzIV__Ausländer,23.4
+113,Wesel I,AfD,9.00405418146391,HartzIV__Ausländer,25.5
+114,Krefeld II – Wesel II,AfD,9.19252031537927,HartzIV__Ausländer,28.6
+115,Duisburg I,AfD,11.3266065322978,HartzIV__Ausländer,38.9
+116,Duisburg II,AfD,15.4277245603015,HartzIV__Ausländer,38.9
+117,Oberhausen – Wesel III,AfD,12.4680891086448,HartzIV__Ausländer,28.7
+118,Mülheim – Essen I,AfD,11.43583227446,HartzIV__Ausländer,37.5
+119,Essen II,AfD,14.9603992125624,HartzIV__Ausländer,34
+120,Essen III,AfD,8.35580575950239,HartzIV__Ausländer,34
+121,Recklinghausen I,AfD,12.0243481657498,HartzIV__Ausländer,25.9
+122,Recklinghausen II,AfD,12.4617424649679,HartzIV__Ausländer,25.9
+123,Gelsenkirchen,AfD,17.0353869869395,HartzIV__Ausländer,37.4
+124,Steinfurt I – Borken I,AfD,6.32805886566387,HartzIV__Ausländer,31.9
+125,Bottrop – Recklinghausen III,AfD,12.4355601615646,HartzIV__Ausländer,27.1
+126,Borken II,AfD,5.98587737897398,HartzIV__Ausländer,31
+127,Coesfeld – Steinfurt II,AfD,6.10039402923774,HartzIV__Ausländer,27
+128,Steinfurt III,AfD,6.83083752237643,HartzIV__Ausländer,32.4
+129,Münster,AfD,4.93998590378809,HartzIV__Ausländer,31.3
+130,Warendorf,AfD,7.41585923189362,HartzIV__Ausländer,32.7
+131,Gütersloh I,AfD,8.616759316921,HartzIV__Ausländer,35.7
+132,Bielefeld – Gütersloh II,AfD,8.92618213138465,HartzIV__Ausländer,41.2
+133,Herford – Minden-Lübbecke II,AfD,10.8345157485736,HartzIV__Ausländer,28.7
+134,Minden-Lübbecke I,AfD,10.5734024641206,HartzIV__Ausländer,27.8
+135,Lippe I,AfD,11.0924672840039,HartzIV__Ausländer,27.3
+136,Höxter – Lippe II,AfD,9.60898660358503,HartzIV__Ausländer,23.8
+137,Paderborn – Gütersloh III,AfD,9.94260262403374,HartzIV__Ausländer,27
+138,Hagen – Ennepe-Ruhr-Kreis I,AfD,11.8439358806331,HartzIV__Ausländer,38.9
+139,Ennepe-Ruhr-Kreis II,AfD,9.66838679411247,HartzIV__Ausländer,28.6
+140,Bochum I,AfD,9.75316886485931,HartzIV__Ausländer,33.7
+141,Herne – Bochum II,AfD,13.427835458841,HartzIV__Ausländer,35.4
+142,Dortmund I,AfD,9.80938918043157,HartzIV__Ausländer,36.6
+143,Dortmund II,AfD,10.8906302662622,HartzIV__Ausländer,36.6
+144,Unna I,AfD,9.82076600637781,HartzIV__Ausländer,27.2
+145,Hamm – Unna II,AfD,11.2355114523609,HartzIV__Ausländer,30.9
+146,Soest,AfD,9.33982759019159,HartzIV__Ausländer,26.4
+147,Hochsauerlandkreis,AfD,7.99403196042247,HartzIV__Ausländer,26
+148,Siegen-Wittgenstein,AfD,10.6607688675729,HartzIV__Ausländer,32.9
+149,Olpe – Märkischer Kreis I,AfD,9.15274179049231,HartzIV__Ausländer,31.5
+150,Märkischer Kreis II,AfD,11.5680930884076,HartzIV__Ausländer,31.7
+151,Nordsachsen,AfD,26.855760321219,HartzIV__Ausländer,9.6
+152,Leipzig I,AfD,20.813820441799,HartzIV__Ausländer,22
+153,Leipzig II,AfD,15.9777442778398,HartzIV__Ausländer,22
+154,Leipzig-Land,AfD,26.8670949608512,HartzIV__Ausländer,6.8
+155,Meißen,AfD,32.8772387837184,HartzIV__Ausländer,7.4
+156,Bautzen I,AfD,32.7639722223971,HartzIV__Ausländer,6.5
+157,Görlitz,AfD,32.8879144899911,HartzIV__Ausländer,9
+158,Sächsische Schweiz-Osterzgebirge,AfD,35.463914854474,HartzIV__Ausländer,8.8
+159,Dresden I,AfD,23.0830406256213,HartzIV__Ausländer,17.9
+160,Dresden II – Bautzen II,AfD,23.2904459424423,HartzIV__Ausländer,16.3
+161,Mittelsachsen,AfD,31.2458441636946,HartzIV__Ausländer,8.4
+162,Chemnitz,AfD,24.3035753454705,HartzIV__Ausländer,18
+163,Chemnitzer Umland – Erzgebirgskreis II,AfD,26.7854018429954,HartzIV__Ausländer,8.4
+164,Erzgebirgskreis I,AfD,29.243361266635,HartzIV__Ausländer,6.3
+165,Zwickau,AfD,26.1764448954085,HartzIV__Ausländer,10.5
+166,Vogtlandkreis,AfD,26.4274200992679,HartzIV__Ausländer,12.3
+167,Waldeck,AfD,11.6606267320401,HartzIV__Ausländer,25.9
+168,Kassel,AfD,10.4513437528341,HartzIV__Ausländer,36.3
+169,Werra-Meißner – Hersfeld-Rotenburg,AfD,13.102858930438,HartzIV__Ausländer,22.4
+170,Schwalm-Eder,AfD,12.9349756036182,HartzIV__Ausländer,25.5
+171,Marburg,AfD,11.4551369473804,HartzIV__Ausländer,30.4
+172,Lahn-Dill,AfD,13.6980922150594,HartzIV__Ausländer,37.4
+173,Gießen,AfD,12.3893105148164,HartzIV__Ausländer,30.8
+174,Fulda,AfD,15.8448173691576,HartzIV__Ausländer,29.8
+175,Main-Kinzig – Wetterau II – Schotten,AfD,15.380600197027,HartzIV__Ausländer,35.9
+176,Hochtaunus,AfD,11.1555988908021,HartzIV__Ausländer,43.4
+177,Wetterau I,AfD,11.5835883981927,HartzIV__Ausländer,36.1
+178,Rheingau-Taunus – Limburg,AfD,11.8656807733319,HartzIV__Ausländer,37
+179,Wiesbaden,AfD,11.2106260761362,HartzIV__Ausländer,35.9
+180,Hanau,AfD,14.0757255139057,HartzIV__Ausländer,36.3
+181,Main-Taunus,AfD,10.3204079063326,HartzIV__Ausländer,43.2
+182,Frankfurt am Main I,AfD,9.31778621311578,HartzIV__Ausländer,43.8
+183,Frankfurt am Main II,AfD,8.04391743522178,HartzIV__Ausländer,43.8
+184,Groß-Gerau,AfD,12.1535295014484,HartzIV__Ausländer,45.5
+185,Offenbach,AfD,11.8114239303628,HartzIV__Ausländer,45.8
+186,Darmstadt,AfD,9.80675162177482,HartzIV__Ausländer,38.1
+187,Odenwald,AfD,12.2145154032727,HartzIV__Ausländer,39
+188,Bergstraße,AfD,12.9354880581516,HartzIV__Ausländer,34
+189,Eichsfeld – Nordhausen – Kyffhäuserkreis,AfD,21.0698458913993,HartzIV__Ausländer,12.3
+190,Eisenach – Wartburgkreis – Unstrut-Hainich-Kreis,AfD,22.2656638488314,HartzIV__Ausländer,13.5
+191,Jena – Sömmerda – Weimarer Land I,AfD,19.8394375749987,HartzIV__Ausländer,15.9
+192,Gotha – Ilm-Kreis,AfD,24.056733115797,HartzIV__Ausländer,12.8
+193,Erfurt – Weimar – Weimarer Land II,AfD,18.1557739646466,HartzIV__Ausländer,20.2
+194,Gera – Greiz – Altenburger Land,AfD,27.107583976513,HartzIV__Ausländer,13.2
+195,Saalfeld-Rudolstadt – Saale-Holzland-Kreis – Saale-Orla-Kreis,AfD,25.7718777251408,HartzIV__Ausländer,10
+196,Suhl – Schmalkalden-Meiningen – Hildburghausen – Sonneberg,AfD,23.0210645984989,HartzIV__Ausländer,14.7
+197,Neuwied,AfD,10.7621089780101,HartzIV__Ausländer,28.5
+198,Ahrweiler,AfD,9.62476998159853,HartzIV__Ausländer,36
+199,Koblenz,AfD,9.15440242745051,HartzIV__Ausländer,32.3
+200,Mosel/Rhein-Hunsrück,AfD,8.99157086976358,HartzIV__Ausländer,29.9
+201,Kreuznach,AfD,11.7186934687912,HartzIV__Ausländer,26
+202,Bitburg,AfD,8.04318272690923,HartzIV__Ausländer,29.8
+203,Trier,AfD,7.95697920350144,HartzIV__Ausländer,31.3
+204,Montabaur,AfD,11.0176249853177,HartzIV__Ausländer,31.3
+205,Mainz,AfD,8.2313233339473,HartzIV__Ausländer,41.6
+206,Worms,AfD,13.1084377590762,HartzIV__Ausländer,34.3
+207,Ludwigshafen/Frankenthal,AfD,15.4508805697841,HartzIV__Ausländer,40.1
+208,Neustadt – Speyer,AfD,12.6645444377527,HartzIV__Ausländer,31
+209,Kaiserslautern,AfD,13.6708786191865,HartzIV__Ausländer,24
+210,Pirmasens,AfD,14.0512681405127,HartzIV__Ausländer,22.6
+211,Südpfalz,AfD,13.6090750641135,HartzIV__Ausländer,33.7
+212,Altötting,AfD,14.5382776449658,HartzIV__Ausländer,32.9
+213,Erding – Ebersberg,AfD,11.9102381186657,HartzIV__Ausländer,39.7
+214,Freising,AfD,13.5632481118761,HartzIV__Ausländer,44.8
+215,Fürstenfeldbruck,AfD,11.5559254537984,HartzIV__Ausländer,46.5
+216,Ingolstadt,AfD,15.1339969372129,HartzIV__Ausländer,36.6
+217,München-Nord,AfD,8.60871675178518,HartzIV__Ausländer,49.2
+218,München-Ost,AfD,8.56772750971529,HartzIV__Ausländer,49.2
+219,München-Süd,AfD,8.59044589739059,HartzIV__Ausländer,49.2
+220,München-West/Mitte,AfD,7.72553804615904,HartzIV__Ausländer,49.2
+221,München-Land,AfD,9.39947647711879,HartzIV__Ausländer,45.8
+222,Rosenheim,AfD,13.8566560262272,HartzIV__Ausländer,35.8
+223,Bad Tölz-Wolfratshausen – Miesbach,AfD,11.6881737560406,HartzIV__Ausländer,39.4
+224,Starnberg – Landsberg am Lech,AfD,9.90020367754271,HartzIV__Ausländer,44.2
+225,Traunstein,AfD,12.0218339516695,HartzIV__Ausländer,32.2
+226,Weilheim,AfD,12.0867026055705,HartzIV__Ausländer,35.1
+227,Deggendorf,AfD,19.1697191697192,HartzIV__Ausländer,24.4
+228,Landshut,AfD,14.6373908416539,HartzIV__Ausländer,44.7
+229,Passau,AfD,16.0586960351073,HartzIV__Ausländer,32
+230,Rottal-Inn,AfD,16.5022995206633,HartzIV__Ausländer,35.4
+231,Straubing,AfD,18.3921314748805,HartzIV__Ausländer,32.1
+232,Amberg,AfD,12.8059547094879,HartzIV__Ausländer,31.9
+233,Regensburg,AfD,12.9655018895797,HartzIV__Ausländer,37.3
+234,Schwandorf,AfD,17.36523604618,HartzIV__Ausländer,33.2
+235,Weiden,AfD,13.4584309450359,HartzIV__Ausländer,24.3
+236,Bamberg,AfD,12.7366394770735,HartzIV__Ausländer,31.7
+237,Bayreuth,AfD,10.7206651807591,HartzIV__Ausländer,24.1
+238,Coburg,AfD,11.6304765958143,HartzIV__Ausländer,23.5
+239,Hof,AfD,13.2012624114603,HartzIV__Ausländer,32.2
+240,Kulmbach,AfD,13.441763559379,HartzIV__Ausländer,22.5
+241,Ansbach,AfD,11.7849919477717,HartzIV__Ausländer,35
+242,Erlangen,AfD,9.46800569993893,HartzIV__Ausländer,38.5
+243,Fürth,AfD,11.6710498978935,HartzIV__Ausländer,37.4
+244,Nürnberg-Nord,AfD,9.98114298298739,HartzIV__Ausländer,44.3
+245,Nürnberg-Süd,AfD,14.261173632213,HartzIV__Ausländer,43.7
+246,Roth,AfD,11.5727871250914,HartzIV__Ausländer,35.6
+247,Aschaffenburg,AfD,11.6015009276179,HartzIV__Ausländer,41.7
+248,Bad Kissingen,AfD,11.5671883368746,HartzIV__Ausländer,29.5
+249,Main-Spessart,AfD,10.8079687610205,HartzIV__Ausländer,38.3
+250,Schweinfurt,AfD,12.2008519426875,HartzIV__Ausländer,38.2
+251,Würzburg,AfD,8.66895361238469,HartzIV__Ausländer,35.1
+252,Augsburg-Stadt,AfD,13.819159920293,HartzIV__Ausländer,42.1
+253,Augsburg-Land,AfD,13.6687592879022,HartzIV__Ausländer,37.5
+254,Donau-Ries,AfD,14.7031179763802,HartzIV__Ausländer,39.2
+255,Neu-Ulm,AfD,15.1171153229108,HartzIV__Ausländer,37.3
+256,Oberallgäu,AfD,10.5668383321642,HartzIV__Ausländer,33.8
+257,Ostallgäu,AfD,13.3483032620071,HartzIV__Ausländer,39.1
+258,Stuttgart I,AfD,7.16053858752047,HartzIV__Ausländer,44.5
+259,Stuttgart II,AfD,10.8081826955872,HartzIV__Ausländer,44.5
+260,Böblingen,AfD,11.7262540021345,HartzIV__Ausländer,46
+261,Esslingen,AfD,10.9331745795505,HartzIV__Ausländer,44.6
+262,Nürtingen,AfD,12.3306664105781,HartzIV__Ausländer,44.6
+263,Göppingen,AfD,14.6802218658506,HartzIV__Ausländer,43.3
+264,Waiblingen,AfD,12.928792709676,HartzIV__Ausländer,43.9
+265,Ludwigsburg,AfD,11.3687961605886,HartzIV__Ausländer,43.7
+266,Neckar-Zaber,AfD,13.0952122462273,HartzIV__Ausländer,42.6
+267,Heilbronn,AfD,16.4162329088508,HartzIV__Ausländer,44
+268,Schwäbisch Hall – Hohenlohe,AfD,14.6353985329785,HartzIV__Ausländer,33.4
+269,Backnang – Schwäbisch Gmünd,AfD,14.3654289599716,HartzIV__Ausländer,37.6
+270,Aalen – Heidenheim,AfD,12.2549194459307,HartzIV__Ausländer,35.2
+271,Karlsruhe-Stadt,AfD,10.4001493559027,HartzIV__Ausländer,30.6
+272,Karlsruhe-Land,AfD,12.4910295665487,HartzIV__Ausländer,37.2
+273,Rastatt,AfD,12.6904370792669,HartzIV__Ausländer,38.4
+274,Heidelberg,AfD,9.47467272481893,HartzIV__Ausländer,32.9
+275,Mannheim,AfD,12.827824917146,HartzIV__Ausländer,39
+276,Odenwald – Tauber,AfD,13.8251020382845,HartzIV__Ausländer,32.2
+277,Rhein-Neckar,AfD,13.5413703023563,HartzIV__Ausländer,35.4
+278,Bruchsal – Schwetzingen,AfD,14.9278950056977,HartzIV__Ausländer,36.3
+279,Pforzheim,AfD,16.3212341634954,HartzIV__Ausländer,45
+280,Calw,AfD,14.9828496042216,HartzIV__Ausländer,34.8
+281,Freiburg,AfD,7.85492262614334,HartzIV__Ausländer,34.8
+282,Lörrach – Müllheim,AfD,10.5053759156701,HartzIV__Ausländer,33.9
+283,Emmendingen – Lahr,AfD,11.4988314317815,HartzIV__Ausländer,36.5
+284,Offenburg,AfD,11.5852507566635,HartzIV__Ausländer,33.4
+285,Rottweil – Tuttlingen,AfD,13.9468703348262,HartzIV__Ausländer,42.3
+286,Schwarzwald-Baar,AfD,12.4048300276417,HartzIV__Ausländer,38.1
+287,Konstanz,AfD,10.2939773746161,HartzIV__Ausländer,36.9
+288,Waldshut,AfD,9.84177964596531,HartzIV__Ausländer,38
+289,Reutlingen,AfD,12.9265823433675,HartzIV__Ausländer,43.8
+290,Tübingen,AfD,10.0279659358488,HartzIV__Ausländer,40.2
+291,Ulm,AfD,11.6183846862524,HartzIV__Ausländer,44.4
+292,Biberach,AfD,12.46238639155,HartzIV__Ausländer,39.2
+293,Bodensee,AfD,10.4190268806921,HartzIV__Ausländer,37
+294,Ravensburg,AfD,10.290430638533,HartzIV__Ausländer,33.7
+295,Zollernalb – Sigmaringen,AfD,13.6597301889258,HartzIV__Ausländer,29.1
+296,Saarbrücken,AfD,9.65612558532913,HartzIV__Ausländer,36.2
+297,Saarlouis,AfD,9.83686682747239,HartzIV__Ausländer,39.3
+298,St. Wendel,AfD,9.10388580491673,HartzIV__Ausländer,37.4
+299,Homburg,AfD,11.6664228033138,HartzIV__Ausländer,38.5

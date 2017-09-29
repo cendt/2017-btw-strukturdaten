@@ -1,0 +1,300 @@
+wkr.nr.,Gebiet,Land,gewinner
+1,Flensburg – Schleswig,Schleswig-Holstein,CDU
+2,Nordfriesland – Dithmarschen Nord,Schleswig-Holstein,CDU
+3,Steinburg – Dithmarschen Süd,Schleswig-Holstein,CDU
+4,Rendsburg-Eckernförde,Schleswig-Holstein,CDU
+6,Plön – Neumünster,Schleswig-Holstein,CDU
+7,Pinneberg,Schleswig-Holstein,CDU
+8,Segeberg – Stormarn-Mitte,Schleswig-Holstein,CDU
+9,Ostholstein – Stormarn-Nord,Schleswig-Holstein,CDU
+10,Herzogtum Lauenburg – Stormarn-Süd,Schleswig-Holstein,CDU
+11,Lübeck,Schleswig-Holstein,CDU
+12,Schwerin – Ludwigslust-Parchim I – Nordwestmecklenburg I,Mecklenburg-Vorpommern,CDU
+13,Ludwigslust-Parchim II – Nordwestmecklenburg II – Landkreis Rostock I,Mecklenburg-Vorpommern,CDU
+14,Rostock – Landkreis Rostock II,Mecklenburg-Vorpommern,CDU
+15,Vorpommern-Rügen – Vorpommern-Greifswald I,Mecklenburg-Vorpommern,CDU
+16,Mecklenburgische Seenplatte I – Vorpommern-Greifswald II,Mecklenburg-Vorpommern,CDU
+17,Mecklenburgische Seenplatte II – Landkreis Rostock III,Mecklenburg-Vorpommern,CDU
+21,Hamburg-Nord,Hamburg,CDU
+25,Unterems,Niedersachsen,CDU
+28,Delmenhorst – Wesermarsch – Oldenburg-Land,Niedersachsen,CDU
+29,Cuxhaven – Stade II,Niedersachsen,CDU
+30,Stade I – Rotenburg II,Niedersachsen,CDU
+31,Mittelems,Niedersachsen,CDU
+32,Cloppenburg – Vechta,Niedersachsen,CDU
+33,Diepholz – Nienburg I,Niedersachsen,CDU
+34,Osterholz – Verden,Niedersachsen,CDU
+36,Harburg,Niedersachsen,CDU
+37,Lüchow-Dannenberg – Lüneburg,Niedersachsen,CDU
+38,Osnabrück-Land,Niedersachsen,CDU
+39,Stadt Osnabrück,Niedersachsen,CDU
+40,Nienburg II – Schaumburg,Niedersachsen,CDU
+43,Hannover-Land I,Niedersachsen,CDU
+44,Celle – Uelzen,Niedersachsen,CDU
+52,Goslar – Northeim – Osterode,Niedersachsen,CDU
+56,Prignitz – Ostprignitz-Ruppin – Havelland I,Brandenburg,CDU
+57,Uckermark – Barnim I,Brandenburg,CDU
+58,Oberhavel – Havelland II,Brandenburg,CDU
+59,Märkisch-Oderland – Barnim II,Brandenburg,CDU
+60,Brandenburg an der Havel – Potsdam-Mittelmark I – Havelland III – Teltow-Fläming I,Brandenburg,CDU
+62,Dahme-Spreewald – Teltow-Fläming III – Oberspreewald-Lausitz I,Brandenburg,CDU
+63,Frankfurt (Oder) – Oder-Spree,Brandenburg,CDU
+64,Cottbus – Spree-Neiße,Brandenburg,CDU
+65,Elbe-Elster – Oberspreewald-Lausitz II,Brandenburg,CDU
+66,Altmark,Sachsen-Anhalt,CDU
+67,Börde – Jerichower Land,Sachsen-Anhalt,CDU
+68,Harz,Sachsen-Anhalt,CDU
+69,Magdeburg,Sachsen-Anhalt,CDU
+70,Dessau – Wittenberg,Sachsen-Anhalt,CDU
+71,Anhalt,Sachsen-Anhalt,CDU
+72,Halle,Sachsen-Anhalt,CDU
+73,Burgenland – Saalekreis,Sachsen-Anhalt,CDU
+74,Mansfeld,Sachsen-Anhalt,CDU
+77,Berlin-Reinickendorf,Berlin,CDU
+79,Berlin-Steglitz-Zehlendorf,Berlin,CDU
+80,Berlin-Charlottenburg-Wilmersdorf,Berlin,CDU
+81,Berlin-Tempelhof-Schöneberg,Berlin,CDU
+87,Aachen I,Nordrhein-Westfalen,CDU
+89,Heinsberg,Nordrhein-Westfalen,CDU
+90,Düren,Nordrhein-Westfalen,CDU
+91,Rhein-Erft-Kreis I,Nordrhein-Westfalen,CDU
+92,Euskirchen – Rhein-Erft-Kreis II,Nordrhein-Westfalen,CDU
+93,Köln I,Nordrhein-Westfalen,CDU
+94,Köln II,Nordrhein-Westfalen,CDU
+97,Rhein-Sieg-Kreis I,Nordrhein-Westfalen,CDU
+98,Rhein-Sieg-Kreis II,Nordrhein-Westfalen,CDU
+99,Oberbergischer Kreis,Nordrhein-Westfalen,CDU
+100,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,CDU
+103,Solingen – Remscheid – Wuppertal II,Nordrhein-Westfalen,CDU
+104,Mettmann I,Nordrhein-Westfalen,CDU
+105,Mettmann II,Nordrhein-Westfalen,CDU
+106,Düsseldorf I,Nordrhein-Westfalen,CDU
+107,Düsseldorf II,Nordrhein-Westfalen,CDU
+108,Neuss I,Nordrhein-Westfalen,CDU
+109,Mönchengladbach,Nordrhein-Westfalen,CDU
+110,Krefeld I – Neuss II,Nordrhein-Westfalen,CDU
+111,Viersen,Nordrhein-Westfalen,CDU
+112,Kleve,Nordrhein-Westfalen,CDU
+113,Wesel I,Nordrhein-Westfalen,CDU
+114,Krefeld II – Wesel II,Nordrhein-Westfalen,CDU
+120,Essen III,Nordrhein-Westfalen,CDU
+124,Steinfurt I – Borken I,Nordrhein-Westfalen,CDU
+126,Borken II,Nordrhein-Westfalen,CDU
+127,Coesfeld – Steinfurt II,Nordrhein-Westfalen,CDU
+128,Steinfurt III,Nordrhein-Westfalen,CDU
+129,Münster,Nordrhein-Westfalen,CDU
+130,Warendorf,Nordrhein-Westfalen,CDU
+131,Gütersloh I,Nordrhein-Westfalen,CDU
+135,Lippe I,Nordrhein-Westfalen,CDU
+136,Höxter – Lippe II,Nordrhein-Westfalen,CDU
+137,Paderborn – Gütersloh III,Nordrhein-Westfalen,CDU
+146,Soest,Nordrhein-Westfalen,CDU
+147,Hochsauerlandkreis,Nordrhein-Westfalen,CDU
+148,Siegen-Wittgenstein,Nordrhein-Westfalen,CDU
+149,Olpe – Märkischer Kreis I,Nordrhein-Westfalen,CDU
+151,Nordsachsen,Sachsen,CDU
+152,Leipzig I,Sachsen,CDU
+154,Leipzig-Land,Sachsen,CDU
+155,Meißen,Sachsen,CDU
+159,Dresden I,Sachsen,CDU
+160,Dresden II – Bautzen II,Sachsen,CDU
+161,Mittelsachsen,Sachsen,CDU
+162,Chemnitz,Sachsen,CDU
+163,Chemnitzer Umland – Erzgebirgskreis II,Sachsen,CDU
+164,Erzgebirgskreis I,Sachsen,CDU
+165,Zwickau,Sachsen,CDU
+166,Vogtlandkreis,Sachsen,CDU
+172,Lahn-Dill,Hessen,CDU
+173,Gießen,Hessen,CDU
+174,Fulda,Hessen,CDU
+175,Main-Kinzig – Wetterau II – Schotten,Hessen,CDU
+176,Hochtaunus,Hessen,CDU
+177,Wetterau I,Hessen,CDU
+178,Rheingau-Taunus – Limburg,Hessen,CDU
+179,Wiesbaden,Hessen,CDU
+180,Hanau,Hessen,CDU
+181,Main-Taunus,Hessen,CDU
+182,Frankfurt am Main I,Hessen,CDU
+183,Frankfurt am Main II,Hessen,CDU
+184,Groß-Gerau,Hessen,CDU
+185,Offenbach,Hessen,CDU
+186,Darmstadt,Hessen,CDU
+187,Odenwald,Hessen,CDU
+188,Bergstraße,Hessen,CDU
+189,Eichsfeld – Nordhausen – Kyffhäuserkreis,Thüringen,CDU
+190,Eisenach – Wartburgkreis – Unstrut-Hainich-Kreis,Thüringen,CDU
+191,Jena – Sömmerda – Weimarer Land I,Thüringen,CDU
+192,Gotha – Ilm-Kreis,Thüringen,CDU
+193,Erfurt – Weimar – Weimarer Land II,Thüringen,CDU
+194,Gera – Greiz – Altenburger Land,Thüringen,CDU
+195,Saalfeld-Rudolstadt – Saale-Holzland-Kreis – Saale-Orla-Kreis,Thüringen,CDU
+196,Suhl – Schmalkalden-Meiningen – Hildburghausen – Sonneberg,Thüringen,CDU
+197,Neuwied,Rheinland-Pfalz,CDU
+198,Ahrweiler,Rheinland-Pfalz,CDU
+199,Koblenz,Rheinland-Pfalz,CDU
+200,Mosel/Rhein-Hunsrück,Rheinland-Pfalz,CDU
+201,Kreuznach,Rheinland-Pfalz,CDU
+202,Bitburg,Rheinland-Pfalz,CDU
+203,Trier,Rheinland-Pfalz,CDU
+204,Montabaur,Rheinland-Pfalz,CDU
+205,Mainz,Rheinland-Pfalz,CDU
+206,Worms,Rheinland-Pfalz,CDU
+207,Ludwigshafen/Frankenthal,Rheinland-Pfalz,CDU
+208,Neustadt – Speyer,Rheinland-Pfalz,CDU
+210,Pirmasens,Rheinland-Pfalz,CDU
+211,Südpfalz,Rheinland-Pfalz,CDU
+258,Stuttgart I,Baden-Württemberg,CDU
+259,Stuttgart II,Baden-Württemberg,CDU
+260,Böblingen,Baden-Württemberg,CDU
+261,Esslingen,Baden-Württemberg,CDU
+262,Nürtingen,Baden-Württemberg,CDU
+263,Göppingen,Baden-Württemberg,CDU
+264,Waiblingen,Baden-Württemberg,CDU
+265,Ludwigsburg,Baden-Württemberg,CDU
+266,Neckar-Zaber,Baden-Württemberg,CDU
+267,Heilbronn,Baden-Württemberg,CDU
+268,Schwäbisch Hall – Hohenlohe,Baden-Württemberg,CDU
+269,Backnang – Schwäbisch Gmünd,Baden-Württemberg,CDU
+270,Aalen – Heidenheim,Baden-Württemberg,CDU
+271,Karlsruhe-Stadt,Baden-Württemberg,CDU
+272,Karlsruhe-Land,Baden-Württemberg,CDU
+273,Rastatt,Baden-Württemberg,CDU
+274,Heidelberg,Baden-Württemberg,CDU
+275,Mannheim,Baden-Württemberg,CDU
+276,Odenwald – Tauber,Baden-Württemberg,CDU
+277,Rhein-Neckar,Baden-Württemberg,CDU
+278,Bruchsal – Schwetzingen,Baden-Württemberg,CDU
+279,Pforzheim,Baden-Württemberg,CDU
+280,Calw,Baden-Württemberg,CDU
+281,Freiburg,Baden-Württemberg,CDU
+282,Lörrach – Müllheim,Baden-Württemberg,CDU
+283,Emmendingen – Lahr,Baden-Württemberg,CDU
+284,Offenburg,Baden-Württemberg,CDU
+285,Rottweil – Tuttlingen,Baden-Württemberg,CDU
+286,Schwarzwald-Baar,Baden-Württemberg,CDU
+287,Konstanz,Baden-Württemberg,CDU
+288,Waldshut,Baden-Württemberg,CDU
+289,Reutlingen,Baden-Württemberg,CDU
+290,Tübingen,Baden-Württemberg,CDU
+291,Ulm,Baden-Württemberg,CDU
+292,Biberach,Baden-Württemberg,CDU
+293,Bodensee,Baden-Württemberg,CDU
+294,Ravensburg,Baden-Württemberg,CDU
+295,Zollernalb – Sigmaringen,Baden-Württemberg,CDU
+297,Saarlouis,Saarland,CDU
+298,St. Wendel,Saarland,CDU
+299,Homburg,Saarland,CDU
+5,Kiel,Schleswig-Holstein,SPD
+18,Hamburg-Mitte,Hamburg,SPD
+19,Hamburg-Altona,Hamburg,SPD
+20,Hamburg-Eimsbüttel,Hamburg,SPD
+22,Hamburg-Wandsbek,Hamburg,SPD
+23,Hamburg-Bergedorf – Harburg,Hamburg,SPD
+24,Aurich – Emden,Niedersachsen,SPD
+26,Friesland – Wilhelmshaven – Wittmund,Niedersachsen,SPD
+27,Oldenburg – Ammerland,Niedersachsen,SPD
+35,Rotenburg I – Heidekreis,Niedersachsen,SPD
+41,Stadt Hannover I,Niedersachsen,SPD
+42,Stadt Hannover II,Niedersachsen,SPD
+45,Gifhorn – Peine,Niedersachsen,SPD
+46,Hameln-Pyrmont – Holzminden,Niedersachsen,SPD
+47,Hannover-Land II,Niedersachsen,SPD
+48,Hildesheim,Niedersachsen,SPD
+49,Salzgitter – Wolfenbüttel,Niedersachsen,SPD
+50,Braunschweig,Niedersachsen,SPD
+51,Helmstedt – Wolfsburg,Niedersachsen,SPD
+53,Göttingen,Niedersachsen,SPD
+54,Bremen I,Bremen,SPD
+55,Bremen II – Bremerhaven,Bremen,SPD
+61,Potsdam – Potsdam-Mittelmark II – Teltow-Fläming II,Brandenburg,SPD
+75,Berlin-Mitte,Berlin,SPD
+78,Berlin-Spandau – Charlottenburg Nord,Berlin,SPD
+82,Berlin-Neukölln,Berlin,SPD
+88,Aachen II,Nordrhein-Westfalen,SPD
+95,Köln III,Nordrhein-Westfalen,SPD
+96,Bonn,Nordrhein-Westfalen,SPD
+101,Leverkusen – Köln IV,Nordrhein-Westfalen,SPD
+102,Wuppertal I,Nordrhein-Westfalen,SPD
+115,Duisburg I,Nordrhein-Westfalen,SPD
+116,Duisburg II,Nordrhein-Westfalen,SPD
+117,Oberhausen – Wesel III,Nordrhein-Westfalen,SPD
+118,Mülheim – Essen I,Nordrhein-Westfalen,SPD
+119,Essen II,Nordrhein-Westfalen,SPD
+121,Recklinghausen I,Nordrhein-Westfalen,SPD
+122,Recklinghausen II,Nordrhein-Westfalen,SPD
+123,Gelsenkirchen,Nordrhein-Westfalen,SPD
+125,Bottrop – Recklinghausen III,Nordrhein-Westfalen,SPD
+132,Bielefeld – Gütersloh II,Nordrhein-Westfalen,SPD
+133,Herford – Minden-Lübbecke II,Nordrhein-Westfalen,SPD
+134,Minden-Lübbecke I,Nordrhein-Westfalen,SPD
+138,Hagen – Ennepe-Ruhr-Kreis I,Nordrhein-Westfalen,SPD
+139,Ennepe-Ruhr-Kreis II,Nordrhein-Westfalen,SPD
+140,Bochum I,Nordrhein-Westfalen,SPD
+141,Herne – Bochum II,Nordrhein-Westfalen,SPD
+142,Dortmund I,Nordrhein-Westfalen,SPD
+143,Dortmund II,Nordrhein-Westfalen,SPD
+144,Unna I,Nordrhein-Westfalen,SPD
+145,Hamm – Unna II,Nordrhein-Westfalen,SPD
+150,Märkischer Kreis II,Nordrhein-Westfalen,SPD
+167,Waldeck,Hessen,SPD
+168,Kassel,Hessen,SPD
+169,Werra-Meißner – Hersfeld-Rotenburg,Hessen,SPD
+170,Schwalm-Eder,Hessen,SPD
+171,Marburg,Hessen,SPD
+209,Kaiserslautern,Rheinland-Pfalz,SPD
+296,Saarbrücken,Saarland,SPD
+76,Berlin-Pankow,Berlin,Linke
+84,Berlin-Treptow-Köpenick,Berlin,Linke
+85,Berlin-Marzahn-Hellersdorf,Berlin,Linke
+86,Berlin-Lichtenberg,Berlin,Linke
+153,Leipzig II,Sachsen,Linke
+83,Berlin-Friedrichshain-Kreuzberg – Prenzlauer Berg Ost,Berlin,Gruene
+212,Altötting,Bayern,CSU
+213,Erding – Ebersberg,Bayern,CSU
+214,Freising,Bayern,CSU
+215,Fürstenfeldbruck,Bayern,CSU
+216,Ingolstadt,Bayern,CSU
+217,München-Nord,Bayern,CSU
+218,München-Ost,Bayern,CSU
+219,München-Süd,Bayern,CSU
+220,München-West/Mitte,Bayern,CSU
+221,München-Land,Bayern,CSU
+222,Rosenheim,Bayern,CSU
+223,Bad Tölz-Wolfratshausen – Miesbach,Bayern,CSU
+224,Starnberg – Landsberg am Lech,Bayern,CSU
+225,Traunstein,Bayern,CSU
+226,Weilheim,Bayern,CSU
+227,Deggendorf,Bayern,CSU
+228,Landshut,Bayern,CSU
+229,Passau,Bayern,CSU
+230,Rottal-Inn,Bayern,CSU
+231,Straubing,Bayern,CSU
+232,Amberg,Bayern,CSU
+233,Regensburg,Bayern,CSU
+234,Schwandorf,Bayern,CSU
+235,Weiden,Bayern,CSU
+236,Bamberg,Bayern,CSU
+237,Bayreuth,Bayern,CSU
+238,Coburg,Bayern,CSU
+239,Hof,Bayern,CSU
+240,Kulmbach,Bayern,CSU
+241,Ansbach,Bayern,CSU
+242,Erlangen,Bayern,CSU
+243,Fürth,Bayern,CSU
+244,Nürnberg-Nord,Bayern,CSU
+245,Nürnberg-Süd,Bayern,CSU
+246,Roth,Bayern,CSU
+247,Aschaffenburg,Bayern,CSU
+248,Bad Kissingen,Bayern,CSU
+249,Main-Spessart,Bayern,CSU
+250,Schweinfurt,Bayern,CSU
+251,Würzburg,Bayern,CSU
+252,Augsburg-Stadt,Bayern,CSU
+253,Augsburg-Land,Bayern,CSU
+254,Donau-Ries,Bayern,CSU
+255,Neu-Ulm,Bayern,CSU
+256,Oberallgäu,Bayern,CSU
+257,Ostallgäu,Bayern,CSU
+156,Bautzen I,Sachsen,AfD
+157,Görlitz,Sachsen,AfD
+158,Sächsische Schweiz-Osterzgebirge,Sachsen,AfD

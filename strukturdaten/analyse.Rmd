@@ -1,0 +1,102 @@
+---
+title: "R Notebook"
+output:
+  html_document: default
+  html_notebook: default
+---
+
+```{r Config, include = F}
+source("sz-config.R")
+source("export.R")
+
+source("strukturdaten/clean_btw13_to_btw17_results.R")
+source("strukturdaten/import_strukturdaten_btw17.R")
+source("strukturdaten/calculate_correlations.R")
+source("strukturdaten/scatter.R")
+```
+
+# Bundestagswahl 2017
+
+### Soziodemografische Analyse auf Wahlkreisebene
+
+Katharina Brunner und Christian Endt, Süddeutsche Zeitung
+
+Quelle: Bundeswahlleiter/Statistisches Bundesamt/Bundesagentur für Arbeit
+Stand: Montag 25.09.2017, vielzufrüh
+
+### To-Do
+
+* Hartz IV Ausländer: Prozent oder je 1000?
+* Achsen und Viertellinien beschriften
+* Weitere Hypothesen eintragen (auch: Wo ist es vielleicht interessant, dass es **KEINE** Korrelation gibt?)
+* Export implementieren (SVG, WWW, MOB)
+* Party-Colors mit jenen in der SZ-Config zusammenlegen
+* Warum gibt es NAs in den sozidemografischen Zahlen?
+
+## Übersicht: Korrelationen 2013
+
+```{r Korrelationen}
+correlations %>% count(strength)
+
+significant_correlations <-
+  correlations %>%
+  filter(strength != "very weak") %>%
+  arrange(desc(abs(corr))) %>% 
+  
+  tbl_df
+
+select(significant_correlations,-strength)
+```
+
+## Print Scatterplots
+
+### some selected ideas
+
+```{r Hypothesen}
+# scatter("spd","Reli_Katholisch.Prozent","SPD und Anteil der Katholiken")
+# scatter("spd","Mit_Migrationshintergrund.Prozent","SPD und Einwohner mit Migrationshintergrund")
+# scatter("afd","Abitur.Prozent","AfD und Abiturientenquote")
+# scatter("afd","Ausländeranteil.Prozent","AfD und Ausländeranteil")
+# scatter("fdp","Haushaltseinkommen.jeEinw","FDP und Einkommen")
+# scatter("fdp","wahlbeteiligung","FDP und Wahlbeteiligung")
+# scatter("spd","wahlbeteiligung")
+# 
+# #for print:
+# fdp.btlg <- scatter("fdp","wahlbeteiligung","Je höher die Wahlbeteiligung, desto mehr Stimmen erhält die FDP.","Wahlbeteiligung in Prozent")
+# fdp.btlg
+# ggsave(plot = fdp.btlg, filename = "fdp_beteiligung.svg", dpi = 144, width = 105, height = 65, unit = "mm")
+```
+
+### Significant correlations (cor >= 0.2)
+
+```{r Forloop Signifikanztest}
+for (i in 1:nrow(significant_correlations)){
+  scatter(
+    as.character(significant_correlations[[i,1]]),
+    as.character(significant_correlations[[i,2]])
+  )
+  )
+}
+```
+
+### HANDLE WITH CARE: All possible combinations
+
+this will make your machine groan...
+
+```{r For-Loop All}
+# for (i in unique(dfdf$indikator)){
+#   indikatorr <- i
+#   for (j in unique(dfdf$partei)){
+#     parteyy <- j
+#     print(
+#     scatter(
+#       as.character(parteyy),
+#       as.character(indikatorr)
+#     
+#     )
+#   )
+#   }
+# }
+```
+
+

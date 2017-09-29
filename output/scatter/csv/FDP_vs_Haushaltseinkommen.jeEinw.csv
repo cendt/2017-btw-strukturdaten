@@ -1,0 +1,300 @@
+Nr,Gebiet,Partei,Prozent,indikator,wert
+1,Flensburg – Schleswig,FDP,11.1199793422381,Haushaltseinkommen.jeEinw,20265
+2,Nordfriesland – Dithmarschen Nord,FDP,13.0711569799022,Haushaltseinkommen.jeEinw,22159
+3,Steinburg – Dithmarschen Süd,FDP,13.2141356255969,Haushaltseinkommen.jeEinw,20896
+4,Rendsburg-Eckernförde,FDP,12.2040340952722,Haushaltseinkommen.jeEinw,22093
+5,Kiel,FDP,11.6399086387034,Haushaltseinkommen.jeEinw,18637
+6,Plön – Neumünster,FDP,12.6277640712874,Haushaltseinkommen.jeEinw,20395
+7,Pinneberg,FDP,13.2718434099543,Haushaltseinkommen.jeEinw,23766
+8,Segeberg – Stormarn-Mitte,FDP,13.5679936645879,Haushaltseinkommen.jeEinw,22791
+9,Ostholstein – Stormarn-Nord,FDP,13.2145432823643,Haushaltseinkommen.jeEinw,21962
+10,Herzogtum Lauenburg – Stormarn-Süd,FDP,13.6281000776159,Haushaltseinkommen.jeEinw,23628
+11,Lübeck,FDP,10.8639882901275,Haushaltseinkommen.jeEinw,19238
+12,Schwerin – Ludwigslust-Parchim I – Nordwestmecklenburg I,FDP,6.3560085450287,Haushaltseinkommen.jeEinw,18008
+13,Ludwigslust-Parchim II – Nordwestmecklenburg II – Landkreis Rostock I,FDP,6.20779005981752,Haushaltseinkommen.jeEinw,18081
+14,Rostock – Landkreis Rostock II,FDP,6.5629120303624,Haushaltseinkommen.jeEinw,16879
+15,Vorpommern-Rügen – Vorpommern-Greifswald I,FDP,6.86334828655226,Haushaltseinkommen.jeEinw,17287
+16,Mecklenburgische Seenplatte I – Vorpommern-Greifswald II,FDP,5.59277035276183,Haushaltseinkommen.jeEinw,16955
+17,Mecklenburgische Seenplatte II – Landkreis Rostock III,FDP,5.77426532001656,Haushaltseinkommen.jeEinw,17802
+18,Hamburg-Mitte,FDP,9.27612710794998,Haushaltseinkommen.jeEinw,23596
+19,Hamburg-Altona,FDP,11.2086079020651,Haushaltseinkommen.jeEinw,23596
+20,Hamburg-Eimsbüttel,FDP,11.2742601891183,Haushaltseinkommen.jeEinw,23596
+21,Hamburg-Nord,FDP,13.8188192984335,Haushaltseinkommen.jeEinw,23596
+22,Hamburg-Wandsbek,FDP,10.2701628923321,Haushaltseinkommen.jeEinw,23596
+23,Hamburg-Bergedorf – Harburg,FDP,8.6342229199372,Haushaltseinkommen.jeEinw,23596
+24,Aurich – Emden,FDP,7.14635166658395,Haushaltseinkommen.jeEinw,18428
+25,Unterems,FDP,7.79009219618983,Haushaltseinkommen.jeEinw,18302
+26,Friesland – Wilhelmshaven – Wittmund,FDP,9.41817785369045,Haushaltseinkommen.jeEinw,18657
+27,Oldenburg – Ammerland,FDP,10.3836993610736,Haushaltseinkommen.jeEinw,19758
+28,Delmenhorst – Wesermarsch – Oldenburg-Land,FDP,10.115035126586,Haushaltseinkommen.jeEinw,20248
+29,Cuxhaven – Stade II,FDP,8.15969754683192,Haushaltseinkommen.jeEinw,20649
+30,Stade I – Rotenburg II,FDP,9.54899465177164,Haushaltseinkommen.jeEinw,21075
+31,Mittelems,FDP,9.05176511376917,Haushaltseinkommen.jeEinw,18813
+32,Cloppenburg – Vechta,FDP,9.41305324300543,Haushaltseinkommen.jeEinw,20024
+33,Diepholz – Nienburg I,FDP,10.5341780231271,Haushaltseinkommen.jeEinw,21380
+34,Osterholz – Verden,FDP,8.87080835364648,Haushaltseinkommen.jeEinw,22019
+35,Rotenburg I – Heidekreis,FDP,8.51011522875247,Haushaltseinkommen.jeEinw,19984
+36,Harburg,FDP,11.7121933630904,Haushaltseinkommen.jeEinw,24050
+37,Lüchow-Dannenberg – Lüneburg,FDP,9.24731336254264,Haushaltseinkommen.jeEinw,19347
+38,Osnabrück-Land,FDP,9.72222222222222,Haushaltseinkommen.jeEinw,21041
+39,Stadt Osnabrück,FDP,9.47512019389958,Haushaltseinkommen.jeEinw,20468
+40,Nienburg II – Schaumburg,FDP,8.53233181824424,Haushaltseinkommen.jeEinw,20359
+41,Stadt Hannover I,FDP,10.2034108480806,Haushaltseinkommen.jeEinw,20136
+42,Stadt Hannover II,FDP,9.95003038692687,Haushaltseinkommen.jeEinw,20136
+43,Hannover-Land I,FDP,10.4614736328504,Haushaltseinkommen.jeEinw,20136
+44,Celle – Uelzen,FDP,10.1454857185454,Haushaltseinkommen.jeEinw,19546
+45,Gifhorn – Peine,FDP,8.35153033828531,Haushaltseinkommen.jeEinw,20407
+46,Hameln-Pyrmont – Holzminden,FDP,9.0378651280202,Haushaltseinkommen.jeEinw,20459
+47,Hannover-Land II,FDP,9.58558365862788,Haushaltseinkommen.jeEinw,20136
+48,Hildesheim,FDP,8.26049496419977,Haushaltseinkommen.jeEinw,19957
+49,Salzgitter – Wolfenbüttel,FDP,7.99627512683835,Haushaltseinkommen.jeEinw,19830
+50,Braunschweig,FDP,10.0165133608101,Haushaltseinkommen.jeEinw,19803
+51,Helmstedt – Wolfsburg,FDP,8.07881773399015,Haushaltseinkommen.jeEinw,21065
+52,Goslar – Northeim – Osterode,FDP,9.1672128516205,Haushaltseinkommen.jeEinw,20180
+53,Göttingen,FDP,9.10776826898658,Haushaltseinkommen.jeEinw,19554
+54,Bremen I,FDP,10.203697428367,Haushaltseinkommen.jeEinw,20582
+55,Bremen II – Bremerhaven,FDP,8.17755407129044,Haushaltseinkommen.jeEinw,19465
+56,Prignitz – Ostprignitz-Ruppin – Havelland I,FDP,5.53509897979866,Haushaltseinkommen.jeEinw,17936
+57,Uckermark – Barnim I,FDP,5.48817157272394,Haushaltseinkommen.jeEinw,18121
+58,Oberhavel – Havelland II,FDP,7.61873983227708,Haushaltseinkommen.jeEinw,18806
+59,Märkisch-Oderland – Barnim II,FDP,6.56377103734539,Haushaltseinkommen.jeEinw,18742
+60,Brandenburg an der Havel – Potsdam-Mittelmark I – Havelland III – Teltow-Fläming I,FDP,6.49685265344305,Haushaltseinkommen.jeEinw,18930
+61,Potsdam – Potsdam-Mittelmark II – Teltow-Fläming II,FDP,9.16514069068682,Haushaltseinkommen.jeEinw,19217
+62,Dahme-Spreewald – Teltow-Fläming III – Oberspreewald-Lausitz I,FDP,7.40955059217998,Haushaltseinkommen.jeEinw,19225
+63,Frankfurt (Oder) – Oder-Spree,FDP,6.69700768913014,Haushaltseinkommen.jeEinw,18268
+64,Cottbus – Spree-Neiße,FDP,7.64225891545602,Haushaltseinkommen.jeEinw,18308
+65,Elbe-Elster – Oberspreewald-Lausitz II,FDP,6.70441788285016,Haushaltseinkommen.jeEinw,17818
+66,Altmark,FDP,7.13336488749727,Haushaltseinkommen.jeEinw,17755
+67,Börde – Jerichower Land,FDP,7.67599689367593,Haushaltseinkommen.jeEinw,19054
+68,Harz,FDP,6.99498339574648,Haushaltseinkommen.jeEinw,17779
+69,Magdeburg,FDP,7.90761900615168,Haushaltseinkommen.jeEinw,16976
+70,Dessau – Wittenberg,FDP,7.3414100899183,Haushaltseinkommen.jeEinw,18156
+71,Anhalt,FDP,7.45543506645226,Haushaltseinkommen.jeEinw,17535
+72,Halle,FDP,9.00405192316649,Haushaltseinkommen.jeEinw,16697
+73,Burgenland – Saalekreis,FDP,7.83984396164057,Haushaltseinkommen.jeEinw,17949
+74,Mansfeld,FDP,8.14416321677409,Haushaltseinkommen.jeEinw,17920
+75,Berlin-Mitte,FDP,8.67219917012448,Haushaltseinkommen.jeEinw,18594
+76,Berlin-Pankow,FDP,6.60053967351362,Haushaltseinkommen.jeEinw,18594
+77,Berlin-Reinickendorf,FDP,11.3243349417773,Haushaltseinkommen.jeEinw,18594
+78,Berlin-Spandau – Charlottenburg Nord,FDP,9.90142203309403,Haushaltseinkommen.jeEinw,18594
+79,Berlin-Steglitz-Zehlendorf,FDP,14.1698887067263,Haushaltseinkommen.jeEinw,18594
+80,Berlin-Charlottenburg-Wilmersdorf,FDP,14.8556269768391,Haushaltseinkommen.jeEinw,18594
+81,Berlin-Tempelhof-Schöneberg,FDP,10.3720330323791,Haushaltseinkommen.jeEinw,18594
+82,Berlin-Neukölln,FDP,7.70328811874157,Haushaltseinkommen.jeEinw,18594
+83,Berlin-Friedrichshain-Kreuzberg – Prenzlauer Berg Ost,FDP,5.90840316573557,Haushaltseinkommen.jeEinw,18594
+84,Berlin-Treptow-Köpenick,FDP,6.48525463991193,Haushaltseinkommen.jeEinw,18594
+85,Berlin-Marzahn-Hellersdorf,FDP,5.32412141041746,Haushaltseinkommen.jeEinw,18594
+86,Berlin-Lichtenberg,FDP,5.25391422736555,Haushaltseinkommen.jeEinw,18594
+87,Aachen I,FDP,14.1604189320666,Haushaltseinkommen.jeEinw,19652
+88,Aachen II,FDP,11.1980699413174,Haushaltseinkommen.jeEinw,19652
+89,Heinsberg,FDP,11.4350810200794,Haushaltseinkommen.jeEinw,18979
+90,Düren,FDP,11.426972877924,Haushaltseinkommen.jeEinw,20228
+91,Rhein-Erft-Kreis I,FDP,14.4291891151733,Haushaltseinkommen.jeEinw,21542
+92,Euskirchen – Rhein-Erft-Kreis II,FDP,14.7197353369245,Haushaltseinkommen.jeEinw,21000
+93,Köln I,FDP,13.0259465776053,Haushaltseinkommen.jeEinw,20799
+94,Köln II,FDP,17.1302732928079,Haushaltseinkommen.jeEinw,20799
+95,Köln III,FDP,11.2691692916809,Haushaltseinkommen.jeEinw,20799
+96,Bonn,FDP,15.6874452448844,Haushaltseinkommen.jeEinw,23005
+97,Rhein-Sieg-Kreis I,FDP,14.9204646810653,Haushaltseinkommen.jeEinw,22669
+98,Rhein-Sieg-Kreis II,FDP,17.406921881948,Haushaltseinkommen.jeEinw,22669
+99,Oberbergischer Kreis,FDP,13.7725516502938,Haushaltseinkommen.jeEinw,22192
+100,Rheinisch-Bergischer Kreis,FDP,16.677941797198,Haushaltseinkommen.jeEinw,24567
+101,Leverkusen – Köln IV,FDP,12.1516005388275,Haushaltseinkommen.jeEinw,20442
+102,Wuppertal I,FDP,12.4098842883972,Haushaltseinkommen.jeEinw,20746
+103,Solingen – Remscheid – Wuppertal II,FDP,14.1240121131546,Haushaltseinkommen.jeEinw,22492
+104,Mettmann I,FDP,16.1819495492099,Haushaltseinkommen.jeEinw,24519
+105,Mettmann II,FDP,15.8233086634041,Haushaltseinkommen.jeEinw,24519
+106,Düsseldorf I,FDP,19.7428887208423,Haushaltseinkommen.jeEinw,24128
+107,Düsseldorf II,FDP,14.926409720371,Haushaltseinkommen.jeEinw,24128
+108,Neuss I,FDP,14.854540759449,Haushaltseinkommen.jeEinw,23689
+109,Mönchengladbach,FDP,13.7164083279831,Haushaltseinkommen.jeEinw,20705
+110,Krefeld I – Neuss II,FDP,17.420660401222,Haushaltseinkommen.jeEinw,22513
+111,Viersen,FDP,16.0316482187703,Haushaltseinkommen.jeEinw,21988
+112,Kleve,FDP,13.5327134020865,Haushaltseinkommen.jeEinw,19649
+113,Wesel I,FDP,12.3881957321097,Haushaltseinkommen.jeEinw,20936
+114,Krefeld II – Wesel II,FDP,13.5304957254629,Haushaltseinkommen.jeEinw,20940
+115,Duisburg I,FDP,10.4421464458582,Haushaltseinkommen.jeEinw,16761
+116,Duisburg II,FDP,8.15895885678392,Haushaltseinkommen.jeEinw,16761
+117,Oberhausen – Wesel III,FDP,9.94276193803241,Haushaltseinkommen.jeEinw,18676
+118,Mülheim – Essen I,FDP,12.9450797684597,Haushaltseinkommen.jeEinw,21940
+119,Essen II,FDP,9.69006088907201,Haushaltseinkommen.jeEinw,20046
+120,Essen III,FDP,15.1355891056302,Haushaltseinkommen.jeEinw,20046
+121,Recklinghausen I,FDP,10.312978093161,Haushaltseinkommen.jeEinw,19382
+122,Recklinghausen II,FDP,10.5959932623732,Haushaltseinkommen.jeEinw,19382
+123,Gelsenkirchen,FDP,9.17622346822963,Haushaltseinkommen.jeEinw,16135
+124,Steinfurt I – Borken I,FDP,12.5929543530637,Haushaltseinkommen.jeEinw,20497
+125,Bottrop – Recklinghausen III,FDP,10.4565263605442,Haushaltseinkommen.jeEinw,19296
+126,Borken II,FDP,13.1229584917194,Haushaltseinkommen.jeEinw,20527
+127,Coesfeld – Steinfurt II,FDP,13.544594611939,Haushaltseinkommen.jeEinw,21996
+128,Steinfurt III,FDP,11.3642518842437,Haushaltseinkommen.jeEinw,20477
+129,Münster,FDP,13.5086944172689,Haushaltseinkommen.jeEinw,22127
+130,Warendorf,FDP,13.0591652841081,Haushaltseinkommen.jeEinw,22079
+131,Gütersloh I,FDP,13.0536876324765,Haushaltseinkommen.jeEinw,23294
+132,Bielefeld – Gütersloh II,FDP,11.5458578679653,Haushaltseinkommen.jeEinw,21228
+133,Herford – Minden-Lübbecke II,FDP,11.4834970753932,Haushaltseinkommen.jeEinw,22131
+134,Minden-Lübbecke I,FDP,11.2682737792982,Haushaltseinkommen.jeEinw,21652
+135,Lippe I,FDP,12.4795157483711,Haushaltseinkommen.jeEinw,22582
+136,Höxter – Lippe II,FDP,12.3521524079392,Haushaltseinkommen.jeEinw,21226
+137,Paderborn – Gütersloh III,FDP,13.4353970209309,Haushaltseinkommen.jeEinw,20240
+138,Hagen – Ennepe-Ruhr-Kreis I,FDP,12.5832577208724,Haushaltseinkommen.jeEinw,21467
+139,Ennepe-Ruhr-Kreis II,FDP,12.6590629214801,Haushaltseinkommen.jeEinw,24236
+140,Bochum I,FDP,11.2133509702441,Haushaltseinkommen.jeEinw,19422
+141,Herne – Bochum II,FDP,9.14284359740198,Haushaltseinkommen.jeEinw,18311
+142,Dortmund I,FDP,11.0977711508298,Haushaltseinkommen.jeEinw,18206
+143,Dortmund II,FDP,10.8154982586226,Haushaltseinkommen.jeEinw,18206
+144,Unna I,FDP,11.4961124741779,Haushaltseinkommen.jeEinw,20283
+145,Hamm – Unna II,FDP,10.406415914863,Haushaltseinkommen.jeEinw,18884
+146,Soest,FDP,13.4599828976866,Haushaltseinkommen.jeEinw,21376
+147,Hochsauerlandkreis,FDP,14.3435810855026,Haushaltseinkommen.jeEinw,22750
+148,Siegen-Wittgenstein,FDP,11.8834024999379,Haushaltseinkommen.jeEinw,23366
+149,Olpe – Märkischer Kreis I,FDP,13.7215112897256,Haushaltseinkommen.jeEinw,25863
+150,Märkischer Kreis II,FDP,13.4022620261152,Haushaltseinkommen.jeEinw,24680
+151,Nordsachsen,FDP,7.88462198428223,Haushaltseinkommen.jeEinw,18348
+152,Leipzig I,FDP,8.48021408429569,Haushaltseinkommen.jeEinw,16542
+153,Leipzig II,FDP,8.54152521893232,Haushaltseinkommen.jeEinw,16542
+154,Leipzig-Land,FDP,8.0675316201566,Haushaltseinkommen.jeEinw,19319
+155,Meißen,FDP,8.71725892697407,Haushaltseinkommen.jeEinw,19013
+156,Bautzen I,FDP,7.62624895330315,Haushaltseinkommen.jeEinw,18623
+157,Görlitz,FDP,7.03258670379213,Haushaltseinkommen.jeEinw,17483
+158,Sächsische Schweiz-Osterzgebirge,FDP,8.28782608132356,Haushaltseinkommen.jeEinw,18735
+159,Dresden I,FDP,10.2729361344909,Haushaltseinkommen.jeEinw,17638
+160,Dresden II – Bautzen II,FDP,9.5513568403768,Haushaltseinkommen.jeEinw,17797
+161,Mittelsachsen,FDP,7.78980031836225,Haushaltseinkommen.jeEinw,18604
+162,Chemnitz,FDP,8.33790304891424,Haushaltseinkommen.jeEinw,18611
+163,Chemnitzer Umland – Erzgebirgskreis II,FDP,7.68473696488977,Haushaltseinkommen.jeEinw,18445
+164,Erzgebirgskreis I,FDP,7.38219831424354,Haushaltseinkommen.jeEinw,18124
+165,Zwickau,FDP,7.56096413716175,Haushaltseinkommen.jeEinw,18656
+166,Vogtlandkreis,FDP,7.19869915004509,Haushaltseinkommen.jeEinw,18566
+167,Waldeck,FDP,9.88986001563277,Haushaltseinkommen.jeEinw,21290
+168,Kassel,FDP,9.0970101877324,Haushaltseinkommen.jeEinw,19633
+169,Werra-Meißner – Hersfeld-Rotenburg,FDP,8.46615749677636,Haushaltseinkommen.jeEinw,19842
+170,Schwalm-Eder,FDP,9.16996378989752,Haushaltseinkommen.jeEinw,20606
+171,Marburg,FDP,8.65865439254461,Haushaltseinkommen.jeEinw,19718
+172,Lahn-Dill,FDP,9.69796132072385,Haushaltseinkommen.jeEinw,21649
+173,Gießen,FDP,10.3011971200954,Haushaltseinkommen.jeEinw,19880
+174,Fulda,FDP,10.7914213306772,Haushaltseinkommen.jeEinw,20727
+175,Main-Kinzig – Wetterau II – Schotten,FDP,10.4012586199291,Haushaltseinkommen.jeEinw,21761
+176,Hochtaunus,FDP,15.0149714056525,Haushaltseinkommen.jeEinw,27206
+177,Wetterau I,FDP,12.7255502113395,Haushaltseinkommen.jeEinw,22008
+178,Rheingau-Taunus – Limburg,FDP,13.2157486554676,Haushaltseinkommen.jeEinw,22673
+179,Wiesbaden,FDP,13.3086394744838,Haushaltseinkommen.jeEinw,22243
+180,Hanau,FDP,11.4759673518742,Haushaltseinkommen.jeEinw,21744
+181,Main-Taunus,FDP,16.725418607579,Haushaltseinkommen.jeEinw,26355
+182,Frankfurt am Main I,FDP,13.9833204007019,Haushaltseinkommen.jeEinw,20555
+183,Frankfurt am Main II,FDP,14.2503293807642,Haushaltseinkommen.jeEinw,20555
+184,Groß-Gerau,FDP,9.63942674188139,Haushaltseinkommen.jeEinw,20066
+185,Offenbach,FDP,12.6304303348564,Haushaltseinkommen.jeEinw,20901
+186,Darmstadt,FDP,10.9698108454223,Haushaltseinkommen.jeEinw,22135
+187,Odenwald,FDP,10.9469144067518,Haushaltseinkommen.jeEinw,22034
+188,Bergstraße,FDP,11.808800623053,Haushaltseinkommen.jeEinw,22341
+189,Eichsfeld – Nordhausen – Kyffhäuserkreis,FDP,7.68362523969242,Haushaltseinkommen.jeEinw,17475
+190,Eisenach – Wartburgkreis – Unstrut-Hainich-Kreis,FDP,7.17615614122327,Haushaltseinkommen.jeEinw,18020
+191,Jena – Sömmerda – Weimarer Land I,FDP,8.67832733343768,Haushaltseinkommen.jeEinw,17558
+192,Gotha – Ilm-Kreis,FDP,7.69009295566097,Haushaltseinkommen.jeEinw,17733
+193,Erfurt – Weimar – Weimarer Land II,FDP,8.57653580177068,Haushaltseinkommen.jeEinw,17262
+194,Gera – Greiz – Altenburger Land,FDP,8.20842460176382,Haushaltseinkommen.jeEinw,18134
+195,Saalfeld-Rudolstadt – Saale-Holzland-Kreis – Saale-Orla-Kreis,FDP,7.7706285795093,Haushaltseinkommen.jeEinw,18365
+196,Suhl – Schmalkalden-Meiningen – Hildburghausen – Sonneberg,FDP,6.73186236287774,Haushaltseinkommen.jeEinw,18845
+197,Neuwied,FDP,10.0914664790431,Haushaltseinkommen.jeEinw,21726
+198,Ahrweiler,FDP,11.5982611942289,Haushaltseinkommen.jeEinw,22014
+199,Koblenz,FDP,10.7952039138629,Haushaltseinkommen.jeEinw,21059
+200,Mosel/Rhein-Hunsrück,FDP,11.1620532074823,Haushaltseinkommen.jeEinw,22334
+201,Kreuznach,FDP,9.87785640892053,Haushaltseinkommen.jeEinw,21362
+202,Bitburg,FDP,10.3062774890044,Haushaltseinkommen.jeEinw,21839
+203,Trier,FDP,9.23465949653392,Haushaltseinkommen.jeEinw,21106
+204,Montabaur,FDP,10.9446769576963,Haushaltseinkommen.jeEinw,22579
+205,Mainz,FDP,11.2545363129048,Haushaltseinkommen.jeEinw,22918
+206,Worms,FDP,10.4626542528763,Haushaltseinkommen.jeEinw,22393
+207,Ludwigshafen/Frankenthal,FDP,10.2320390723453,Haushaltseinkommen.jeEinw,20614
+208,Neustadt – Speyer,FDP,11.0499297370157,Haushaltseinkommen.jeEinw,24273
+209,Kaiserslautern,FDP,9.13610792023799,Haushaltseinkommen.jeEinw,19816
+210,Pirmasens,FDP,8.88075108880751,Haushaltseinkommen.jeEinw,20785
+211,Südpfalz,FDP,10.3045169922712,Haushaltseinkommen.jeEinw,21679
+212,Altötting,FDP,8.9024613014161,Haushaltseinkommen.jeEinw,22185
+213,Erding – Ebersberg,FDP,11.9354521302765,Haushaltseinkommen.jeEinw,24309
+214,Freising,FDP,10.4064988094853,Haushaltseinkommen.jeEinw,22838
+215,Fürstenfeldbruck,FDP,11.5912179601985,Haushaltseinkommen.jeEinw,24151
+216,Ingolstadt,FDP,9.38361408882083,Haushaltseinkommen.jeEinw,21717
+217,München-Nord,FDP,15.1295264945809,Haushaltseinkommen.jeEinw,25838
+218,München-Ost,FDP,14.6930614307137,Haushaltseinkommen.jeEinw,25838
+219,München-Süd,FDP,13.2938681745891,Haushaltseinkommen.jeEinw,25838
+220,München-West/Mitte,FDP,13.6711752641554,Haushaltseinkommen.jeEinw,25838
+221,München-Land,FDP,15.3110072213565,Haushaltseinkommen.jeEinw,29954
+222,Rosenheim,FDP,10.9508454835648,Haushaltseinkommen.jeEinw,23680
+223,Bad Tölz-Wolfratshausen – Miesbach,FDP,12.3990077152416,Haushaltseinkommen.jeEinw,26258
+224,Starnberg – Landsberg am Lech,FDP,14.1553055446814,Haushaltseinkommen.jeEinw,29060
+225,Traunstein,FDP,9.14719743306929,Haushaltseinkommen.jeEinw,22259
+226,Weilheim,FDP,10.4132973944295,Haushaltseinkommen.jeEinw,24017
+227,Deggendorf,FDP,7.55168203444066,Haushaltseinkommen.jeEinw,20088
+228,Landshut,FDP,10.1009942929878,Haushaltseinkommen.jeEinw,22276
+229,Passau,FDP,9.12760107527705,Haushaltseinkommen.jeEinw,20065
+230,Rottal-Inn,FDP,9.06124497991968,Haushaltseinkommen.jeEinw,21229
+231,Straubing,FDP,8.03934262559767,Haushaltseinkommen.jeEinw,20576
+232,Amberg,FDP,7.64195644548551,Haushaltseinkommen.jeEinw,21131
+233,Regensburg,FDP,8.96272949413901,Haushaltseinkommen.jeEinw,21814
+234,Schwandorf,FDP,6.5779194206421,Haushaltseinkommen.jeEinw,20358
+235,Weiden,FDP,6.55641376537626,Haushaltseinkommen.jeEinw,20390
+236,Bamberg,FDP,9.53759226689194,Haushaltseinkommen.jeEinw,21716
+237,Bayreuth,FDP,8.98578903273739,Haushaltseinkommen.jeEinw,21698
+238,Coburg,FDP,8.15852151351705,Haushaltseinkommen.jeEinw,24053
+239,Hof,FDP,7.86145272714264,Haushaltseinkommen.jeEinw,21143
+240,Kulmbach,FDP,7.71706581236792,Haushaltseinkommen.jeEinw,21623
+241,Ansbach,FDP,7.49643478779532,Haushaltseinkommen.jeEinw,21613
+242,Erlangen,FDP,10.1601411413449,Haushaltseinkommen.jeEinw,24270
+243,Fürth,FDP,8.8906117774636,Haushaltseinkommen.jeEinw,22885
+244,Nürnberg-Nord,FDP,10.6067279634422,Haushaltseinkommen.jeEinw,21791
+245,Nürnberg-Süd,FDP,8.55029088854617,Haushaltseinkommen.jeEinw,22126
+246,Roth,FDP,8.68351892492346,Haushaltseinkommen.jeEinw,24299
+247,Aschaffenburg,FDP,10.8838176010267,Haushaltseinkommen.jeEinw,23305
+248,Bad Kissingen,FDP,8.87624114936169,Haushaltseinkommen.jeEinw,20817
+249,Main-Spessart,FDP,8.79590148692926,Haushaltseinkommen.jeEinw,21936
+250,Schweinfurt,FDP,8.90021943978314,Haushaltseinkommen.jeEinw,21354
+251,Würzburg,FDP,10.3418324152566,Haushaltseinkommen.jeEinw,23105
+252,Augsburg-Stadt,FDP,9.96271135166418,Haushaltseinkommen.jeEinw,18877
+253,Augsburg-Land,FDP,10.3943630647297,Haushaltseinkommen.jeEinw,23625
+254,Donau-Ries,FDP,9.15369212537289,Haushaltseinkommen.jeEinw,23203
+255,Neu-Ulm,FDP,10.3019439926533,Haushaltseinkommen.jeEinw,23426
+256,Oberallgäu,FDP,10.798957460035,Haushaltseinkommen.jeEinw,22864
+257,Ostallgäu,FDP,10.4654525949337,Haushaltseinkommen.jeEinw,22927
+258,Stuttgart I,FDP,16.3795366747096,Haushaltseinkommen.jeEinw,23759
+259,Stuttgart II,FDP,13.9002779329913,Haushaltseinkommen.jeEinw,23759
+260,Böblingen,FDP,15.1419218454971,Haushaltseinkommen.jeEinw,23483
+261,Esslingen,FDP,13.7758595029022,Haushaltseinkommen.jeEinw,23606
+262,Nürtingen,FDP,14.9583755979569,Haushaltseinkommen.jeEinw,23600
+263,Göppingen,FDP,12.6432638408686,Haushaltseinkommen.jeEinw,22333
+264,Waiblingen,FDP,16.177667729462,Haushaltseinkommen.jeEinw,23752
+265,Ludwigsburg,FDP,14.678276862948,Haushaltseinkommen.jeEinw,23470
+266,Neckar-Zaber,FDP,14.6895016827706,Haushaltseinkommen.jeEinw,23329
+267,Heilbronn,FDP,13.0285570868934,Haushaltseinkommen.jeEinw,29506
+268,Schwäbisch Hall – Hohenlohe,FDP,12.7405449105683,Haushaltseinkommen.jeEinw,21905
+269,Backnang – Schwäbisch Gmünd,FDP,12.3566191686868,Haushaltseinkommen.jeEinw,22927
+270,Aalen – Heidenheim,FDP,10.5267225491945,Haushaltseinkommen.jeEinw,22109
+271,Karlsruhe-Stadt,FDP,11.9490945298401,Haushaltseinkommen.jeEinw,21417
+272,Karlsruhe-Land,FDP,12.8223375753516,Haushaltseinkommen.jeEinw,22619
+273,Rastatt,FDP,11.4941862337746,Haushaltseinkommen.jeEinw,23075
+274,Heidelberg,FDP,12.6838814161681,Haushaltseinkommen.jeEinw,22796
+275,Mannheim,FDP,11.2457171684615,Haushaltseinkommen.jeEinw,19846
+276,Odenwald – Tauber,FDP,10.8935948490826,Haushaltseinkommen.jeEinw,21164
+277,Rhein-Neckar,FDP,12.2423247032046,Haushaltseinkommen.jeEinw,23240
+278,Bruchsal – Schwetzingen,FDP,11.9061652717199,Haushaltseinkommen.jeEinw,22879
+279,Pforzheim,FDP,13.6344477094272,Haushaltseinkommen.jeEinw,22911
+280,Calw,FDP,14.278364116095,Haushaltseinkommen.jeEinw,22863
+281,Freiburg,FDP,9.31438630109515,Haushaltseinkommen.jeEinw,21003
+282,Lörrach – Müllheim,FDP,11.0700035858411,Haushaltseinkommen.jeEinw,23142
+283,Emmendingen – Lahr,FDP,10.5886099145053,Haushaltseinkommen.jeEinw,21513
+284,Offenburg,FDP,11.0209262212386,Haushaltseinkommen.jeEinw,21662
+285,Rottweil – Tuttlingen,FDP,13.5303369588398,Haushaltseinkommen.jeEinw,23526
+286,Schwarzwald-Baar,FDP,12.2229765772756,Haushaltseinkommen.jeEinw,22805
+287,Konstanz,FDP,13.1688891432496,Haushaltseinkommen.jeEinw,22339
+288,Waldshut,FDP,10.8393523178024,Haushaltseinkommen.jeEinw,22429
+289,Reutlingen,FDP,13.7281662886215,Haushaltseinkommen.jeEinw,23126
+290,Tübingen,FDP,11.8176595731249,Haushaltseinkommen.jeEinw,21953
+291,Ulm,FDP,11.52853129514,Haushaltseinkommen.jeEinw,22957
+292,Biberach,FDP,10.9946880373373,Haushaltseinkommen.jeEinw,21938
+293,Bodensee,FDP,13.2064089925993,Haushaltseinkommen.jeEinw,23541
+294,Ravensburg,FDP,11.3568394516006,Haushaltseinkommen.jeEinw,22091
+295,Zollernalb – Sigmaringen,FDP,13.3576811930935,Haushaltseinkommen.jeEinw,22823
+296,Saarbrücken,FDP,8.08149569211516,Haushaltseinkommen.jeEinw,18923
+297,Saarlouis,FDP,7.65139012314333,Haushaltseinkommen.jeEinw,18991
+298,St. Wendel,FDP,6.89712349506164,Haushaltseinkommen.jeEinw,21924
+299,Homburg,FDP,7.72977153487594,Haushaltseinkommen.jeEinw,20506

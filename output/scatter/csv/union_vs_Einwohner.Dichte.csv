@@ -1,0 +1,599 @@
+Nr,Gebiet,Partei,Prozent,indikator,wert
+1,Flensburg – Schleswig,union,34.2185262564849,Einwohner.Dichte,132.9
+2,Nordfriesland – Dithmarschen Nord,union,38.3364113706319,Einwohner.Dichte,83.6
+3,Steinburg – Dithmarschen Süd,union,36.1925501432665,Einwohner.Dichte,110.4
+4,Rendsburg-Eckernförde,union,36.2095886553869,Einwohner.Dichte,114.9
+5,Kiel,union,26.6432714269542,Einwohner.Dichte,1873.8
+6,Plön – Neumünster,union,33.5427616960633,Einwohner.Dichte,168.8
+7,Pinneberg,union,34.2664134097397,Einwohner.Dichte,462.9
+8,Segeberg – Stormarn-Mitte,union,34.5774915727556,Einwohner.Dichte,234.9
+9,Ostholstein – Stormarn-Nord,union,35.6173464556031,Einwohner.Dichte,143
+10,Herzogtum Lauenburg – Stormarn-Süd,union,34.3973829380479,Einwohner.Dichte,230.5
+11,Lübeck,union,29.4765224760217,Einwohner.Dichte,579.2
+12,Schwerin – Ludwigslust-Parchim I – Nordwestmecklenburg I,union,32.8687617429799,Einwohner.Dichte,74.7
+13,Ludwigslust-Parchim II – Nordwestmecklenburg II – Landkreis Rostock I,union,33.6583785869835,Einwohner.Dichte,63.4
+14,Rostock – Landkreis Rostock II,union,30.4566682685791,Einwohner.Dichte,273.5
+15,Vorpommern-Rügen – Vorpommern-Greifswald I,union,32.9213731475232,Einwohner.Dichte,84.3
+16,Mecklenburgische Seenplatte I – Vorpommern-Greifswald II,union,33.4545595483408,Einwohner.Dichte,55.2
+17,Mecklenburgische Seenplatte II – Landkreis Rostock III,union,35.8247296054802,Einwohner.Dichte,40.9
+18,Hamburg-Mitte,union,23.4874383388781,Einwohner.Dichte,2974.2
+19,Hamburg-Altona,union,24.917284733519,Einwohner.Dichte,3302.5
+20,Hamburg-Eimsbüttel,union,26.9329190865084,Einwohner.Dichte,5096.1
+21,Hamburg-Nord,union,31.3771469479096,Einwohner.Dichte,2435.9
+22,Hamburg-Wandsbek,union,28.8876814134474,Einwohner.Dichte,3987.9
+23,Hamburg-Bergedorf – Harburg,union,27.4426871829469,Einwohner.Dichte,1044.9
+24,Aurich – Emden,union,28.0344874040146,Einwohner.Dichte,171.8
+25,Unterems,union,42.3959577715158,Einwohner.Dichte,122
+26,Friesland – Wilhelmshaven – Wittmund,union,32.7702874586619,Einwohner.Dichte,168.5
+27,Oldenburg – Ammerland,union,30.582590972588,Einwohner.Dichte,343.1
+28,Delmenhorst – Wesermarsch – Oldenburg-Land,union,33.4833963202976,Einwohner.Dichte,151.1
+29,Cuxhaven – Stade II,union,38.4902925040507,Einwohner.Dichte,91.2
+30,Stade I – Rotenburg II,union,38.900942369707,Einwohner.Dichte,128
+31,Mittelems,union,49.3812455613526,Einwohner.Dichte,131
+32,Cloppenburg – Vechta,union,53.1027141441924,Einwohner.Dichte,135.6
+33,Diepholz – Nienburg I,union,37.9085100459691,Einwohner.Dichte,98.4
+34,Osterholz – Verden,union,34.9410369589565,Einwohner.Dichte,172.5
+35,Rotenburg I – Heidekreis,union,37.6860670753468,Einwohner.Dichte,78.9
+36,Harburg,union,35.9416379664052,Einwohner.Dichte,199.3
+37,Lüchow-Dannenberg – Lüneburg,union,31.2991479827028,Einwohner.Dichte,90.7
+38,Osnabrück-Land,union,40.4409023117077,Einwohner.Dichte,138.6
+39,Stadt Osnabrück,union,35.7012304146855,Einwohner.Dichte,783.6
+40,Nienburg II – Schaumburg,union,34.2570341787622,Einwohner.Dichte,156.3
+41,Stadt Hannover I,union,27.191914362763,Einwohner.Dichte,2281
+42,Stadt Hannover II,union,24.4466202984671,Einwohner.Dichte,3009.3
+43,Hannover-Land I,union,34.833690957379,Einwohner.Dichte,267.8
+44,Celle – Uelzen,union,36.5584117084322,Einwohner.Dichte,90.4
+45,Gifhorn – Peine,union,33.7115923870891,Einwohner.Dichte,154.4
+46,Hameln-Pyrmont – Holzminden,union,32.0360620266859,Einwohner.Dichte,132
+47,Hannover-Land II,union,31.5421635206673,Einwohner.Dichte,323.9
+48,Hildesheim,union,32.6040583499213,Einwohner.Dichte,229.7
+49,Salzgitter – Wolfenbüttel,union,29.5350330743048,Einwohner.Dichte,214.6
+50,Braunschweig,union,29.0171138466578,Einwohner.Dichte,1308
+51,Helmstedt – Wolfsburg,union,34.583486508345,Einwohner.Dichte,208.2
+52,Goslar – Northeim – Osterode,union,32.1250384558794,Einwohner.Dichte,120.3
+53,Göttingen,union,30.2249626440346,Einwohner.Dichte,226.9
+54,Bremen I,union,25.9917273133132,Einwohner.Dichte,2284.9
+55,Bremen II – Bremerhaven,union,23.8325127206397,Einwohner.Dichte,1200.9
+56,Prignitz – Ostprignitz-Ruppin – Havelland I,union,29.7395446253632,Einwohner.Dichte,36.9
+57,Uckermark – Barnim I,union,28.2546724045018,Einwohner.Dichte,51.7
+58,Oberhavel – Havelland II,union,28.4641466233574,Einwohner.Dichte,134.1
+59,Märkisch-Oderland – Barnim II,union,25.1112250861771,Einwohner.Dichte,109.3
+60,Brandenburg an der Havel – Potsdam-Mittelmark I – Havelland III – Teltow-Fläming I,union,28.18817485611,Einwohner.Dichte,69.9
+61,Potsdam – Potsdam-Mittelmark II – Teltow-Fläming II,union,24.7662032857917,Einwohner.Dichte,461.2
+62,Dahme-Spreewald – Teltow-Fläming III – Oberspreewald-Lausitz I,union,27.0347736736791,Einwohner.Dichte,74.7
+63,Frankfurt (Oder) – Oder-Spree,union,24.5573858406951,Einwohner.Dichte,100
+64,Cottbus – Spree-Neiße,union,24.1226822121559,Einwohner.Dichte,119.2
+65,Elbe-Elster – Oberspreewald-Lausitz II,union,27.711648946708,Einwohner.Dichte,67.3
+66,Altmark,union,32.7869001674798,Einwohner.Dichte,42.7
+67,Börde – Jerichower Land,union,32.0160718506263,Einwohner.Dichte,67.2
+68,Harz,union,33.6169010103865,Einwohner.Dichte,110
+69,Magdeburg,union,27.7491307403791,Einwohner.Dichte,496.7
+70,Dessau – Wittenberg,union,31.8379826738777,Einwohner.Dichte,97.2
+71,Anhalt,union,30.6621861213046,Einwohner.Dichte,119.1
+72,Halle,union,26.5018396662652,Einwohner.Dichte,653.1
+73,Burgenland – Saalekreis,union,29.9321202176487,Einwohner.Dichte,135.4
+74,Mansfeld,union,28.8232180791288,Einwohner.Dichte,107
+75,Berlin-Mitte,union,18.6762146968277,Einwohner.Dichte,8972
+76,Berlin-Pankow,union,19.8450718581184,Einwohner.Dichte,3244.8
+77,Berlin-Reinickendorf,union,31.0496393972412,Einwohner.Dichte,2820.6
+78,Berlin-Spandau – Charlottenburg Nord,union,28.0908937837714,Einwohner.Dichte,2636.3
+79,Berlin-Steglitz-Zehlendorf,union,29.8108182209863,Einwohner.Dichte,2791.9
+80,Berlin-Charlottenburg-Wilmersdorf,union,25.5841240689726,Einwohner.Dichte,4860.2
+81,Berlin-Tempelhof-Schöneberg,union,24.9702675086685,Einwohner.Dichte,6286.8
+82,Berlin-Neukölln,union,22.3272494851218,Einwohner.Dichte,7088.6
+83,Berlin-Friedrichshain-Kreuzberg – Prenzlauer Berg Ost,union,13.9117783985102,Einwohner.Dichte,12655.6
+84,Berlin-Treptow-Köpenick,union,20.2855726581561,Einwohner.Dichte,1496.7
+85,Berlin-Marzahn-Hellersdorf,union,20.9021062779352,Einwohner.Dichte,4143.3
+86,Berlin-Lichtenberg,union,18.5561606535058,Einwohner.Dichte,5239.7
+87,Aachen I,union,27.7707033709151,Einwohner.Dichte,1528.7
+88,Aachen II,union,30.6863013618802,Einwohner.Dichte,564.1
+89,Heinsberg,union,39.4666799156795,Einwohner.Dichte,402.1
+90,Düren,union,34.9289977087441,Einwohner.Dichte,279.2
+91,Rhein-Erft-Kreis I,union,33.5313541781872,Einwohner.Dichte,639.9
+92,Euskirchen – Rhein-Erft-Kreis II,union,35.7176998802357,Einwohner.Dichte,225.3
+93,Köln I,union,26.3894799864388,Einwohner.Dichte,2271.2
+94,Köln II,union,28.4988684683222,Einwohner.Dichte,3120.4
+95,Köln III,union,24.4116289801569,Einwohner.Dichte,2476.6
+96,Bonn,union,29.7611142421892,Einwohner.Dichte,2260.1
+97,Rhein-Sieg-Kreis I,union,34.1090785722494,Einwohner.Dichte,473.5
+98,Rhein-Sieg-Kreis II,union,35.4727681175322,Einwohner.Dichte,575.4
+99,Oberbergischer Kreis,union,36.4799752310798,Einwohner.Dichte,297.6
+100,Rheinisch-Bergischer Kreis,union,35.5825773213759,Einwohner.Dichte,646.5
+101,Leverkusen – Köln IV,union,28.0971190951863,Einwohner.Dichte,2374.7
+102,Wuppertal I,union,26.4729837976831,Einwohner.Dichte,2359.2
+103,Solingen – Remscheid – Wuppertal II,union,31.5865278085531,Einwohner.Dichte,1535.7
+104,Mettmann I,union,34.0074765180787,Einwohner.Dichte,1452.2
+105,Mettmann II,union,32.6277894296987,Einwohner.Dichte,968.5
+106,Düsseldorf I,union,32.0237333488453,Einwohner.Dichte,2499.6
+107,Düsseldorf II,union,28.4862430373353,Einwohner.Dichte,3282.6
+108,Neuss I,union,35.8795261159013,Einwohner.Dichte,850.6
+109,Mönchengladbach,union,35.7592711486135,Einwohner.Dichte,1525.2
+110,Krefeld I – Neuss II,union,35.6137995446851,Einwohner.Dichte,890.2
+111,Viersen,union,38.0627383499209,Einwohner.Dichte,528.5
+112,Kleve,union,41.5691935127913,Einwohner.Dichte,251.7
+113,Wesel I,union,33.7043904585311,Einwohner.Dichte,298.1
+114,Krefeld II – Wesel II,union,30.8967465184424,Einwohner.Dichte,1379.8
+115,Duisburg I,union,25.7028448182175,Einwohner.Dichte,2049.1
+116,Duisburg II,union,22.4285489949749,Einwohner.Dichte,2173.4
+117,Oberhausen – Wesel III,union,26.2952462849004,Einwohner.Dichte,2231.6
+118,Mülheim – Essen I,union,28.135676973034,Einwohner.Dichte,2180
+119,Essen II,union,23.445497413359,Einwohner.Dichte,3636.8
+120,Essen III,union,30.0677781495843,Einwohner.Dichte,2144.1
+121,Recklinghausen I,union,28.5700335275544,Einwohner.Dichte,1318.5
+122,Recklinghausen II,union,29.4477296348063,Einwohner.Dichte,640.3
+123,Gelsenkirchen,union,22.4035708840818,Einwohner.Dichte,2481.1
+124,Steinfurt I – Borken I,union,43.9037572442534,Einwohner.Dichte,278.3
+125,Bottrop – Recklinghausen III,union,29.8774978741497,Einwohner.Dichte,870.8
+126,Borken II,union,47.0420813356001,Einwohner.Dichte,261.3
+127,Coesfeld – Steinfurt II,union,44.0465647581277,Einwohner.Dichte,194
+128,Steinfurt III,union,37.7932054932062,Einwohner.Dichte,232.6
+129,Münster,union,32.7552834495745,Einwohner.Dichte,1022.3
+130,Warendorf,union,40.3086240818064,Einwohner.Dichte,210.3
+131,Gütersloh I,union,38.3806297170216,Einwohner.Dichte,371.9
+132,Bielefeld – Gütersloh II,union,27.620894568344,Einwohner.Dichte,1170.8
+133,Herford – Minden-Lübbecke II,union,31.7294394453724,Einwohner.Dichte,584.4
+134,Minden-Lübbecke I,union,32.8453644065532,Einwohner.Dichte,242.8
+135,Lippe I,union,31.5312419141112,Einwohner.Dichte,291.4
+136,Höxter – Lippe II,union,37.2588582054623,Einwohner.Dichte,162
+137,Paderborn – Gütersloh III,union,40.68166780529,Einwohner.Dichte,252.2
+138,Hagen – Ennepe-Ruhr-Kreis I,union,28.8805995228014,Einwohner.Dichte,887.3
+139,Ennepe-Ruhr-Kreis II,union,27.3295021403859,Einwohner.Dichte,924.5
+140,Bochum I,union,25.4151309283779,Einwohner.Dichte,2673.9
+141,Herne – Bochum II,union,23.4501177325811,Einwohner.Dichte,2605.9
+142,Dortmund I,union,24.5070131613769,Einwohner.Dichte,2246.6
+143,Dortmund II,union,24.4509043927649,Einwohner.Dichte,1958.6
+144,Unna I,union,27.2066639479613,Einwohner.Dichte,730.3
+145,Hamm – Unna II,union,30.3371183774005,Einwohner.Dichte,761.9
+146,Soest,union,36.2632600707204,Einwohner.Dichte,228.1
+147,Hochsauerlandkreis,union,41.6525972751188,Einwohner.Dichte,134.6
+148,Siegen-Wittgenstein,union,33.9492060336473,Einwohner.Dichte,247.9
+149,Olpe – Märkischer Kreis I,union,40.5808788535773,Einwohner.Dichte,241.5
+150,Märkischer Kreis II,union,34.0240071563794,Einwohner.Dichte,444.6
+151,Nordsachsen,union,29.445073612684,Einwohner.Dichte,97.4
+152,Leipzig I,union,23.5248879246203,Einwohner.Dichte,1621.1
+153,Leipzig II,union,21.9358105386713,Einwohner.Dichte,2228.1
+154,Leipzig-Land,union,30.078673961052,Einwohner.Dichte,156.5
+155,Meißen,union,26.1106951411022,Einwohner.Dichte,168.6
+156,Bautzen I,union,27.0674230166275,Einwohner.Dichte,116.5
+157,Görlitz,union,26.672434992486,Einwohner.Dichte,123.1
+158,Sächsische Schweiz-Osterzgebirge,union,25.6369395806207,Einwohner.Dichte,149.6
+159,Dresden I,union,24.3273245410564,Einwohner.Dichte,3612.5
+160,Dresden II – Bautzen II,union,23.1132788868724,Einwohner.Dichte,709.6
+161,Mittelsachsen,union,27.6652763505209,Einwohner.Dichte,147.4
+162,Chemnitz,union,24.8608521605615,Einwohner.Dichte,1124.8
+163,Chemnitzer Umland – Erzgebirgskreis II,union,30.5785605972238,Einwohner.Dichte,242.8
+164,Erzgebirgskreis I,union,30.9590026957466,Einwohner.Dichte,171.4
+165,Zwickau,union,30.3097092402078,Einwohner.Dichte,332.6
+166,Vogtlandkreis,union,30.2440513807329,Einwohner.Dichte,164.5
+167,Waldeck,union,30.0085269665317,Einwohner.Dichte,108.5
+168,Kassel,union,25.2323226216028,Einwohner.Dichte,836.8
+169,Werra-Meißner – Hersfeld-Rotenburg,union,29.3973127427268,Einwohner.Dichte,104.6
+170,Schwalm-Eder,union,29.2169390579781,Einwohner.Dichte,104.9
+171,Marburg,union,30.1007216729174,Einwohner.Dichte,194.2
+172,Lahn-Dill,union,33.4598645243627,Einwohner.Dichte,238.8
+173,Gießen,union,30.1367528649938,Einwohner.Dichte,213.3
+174,Fulda,union,38.9532611299535,Einwohner.Dichte,127.2
+175,Main-Kinzig – Wetterau II – Schotten,union,31.720604019938,Einwohner.Dichte,150.8
+176,Hochtaunus,union,33.4944574680691,Einwohner.Dichte,308
+177,Wetterau I,union,32.0295875236846,Einwohner.Dichte,318.7
+178,Rheingau-Taunus – Limburg,union,34.5802669836442,Einwohner.Dichte,251
+179,Wiesbaden,union,28.9525848971973,Einwohner.Dichte,1354.5
+180,Hanau,union,29.5684703748489,Einwohner.Dichte,734.1
+181,Main-Taunus,union,34.5618783834823,Einwohner.Dichte,1027.9
+182,Frankfurt am Main I,union,26.029542324658,Einwohner.Dichte,4289
+183,Frankfurt am Main II,union,26.784365393061,Einwohner.Dichte,2252.5
+184,Groß-Gerau,union,30.454337551456,Einwohner.Dichte,587.2
+185,Offenbach,union,30.5673525819471,Einwohner.Dichte,1471.2
+186,Darmstadt,union,27.4379106921672,Einwohner.Dichte,760.7
+187,Odenwald,union,32.7238605309657,Einwohner.Dichte,286.3
+188,Bergstraße,union,33.1568016614746,Einwohner.Dichte,371
+189,Eichsfeld – Nordhausen – Kyffhäuserkreis,union,33.7762699690244,Einwohner.Dichte,97.9
+190,Eisenach – Wartburgkreis – Unstrut-Hainich-Kreis,union,30.0497265042268,Einwohner.Dichte,114.3
+191,Jena – Sömmerda – Weimarer Land I,union,27.449522616998,Einwohner.Dichte,156.2
+192,Gotha – Ilm-Kreis,union,27.8167758918534,Einwohner.Dichte,138.5
+193,Erfurt – Weimar – Weimarer Land II,union,25.3787217651413,Einwohner.Dichte,634.2
+194,Gera – Greiz – Altenburger Land,union,27.346124293267,Einwohner.Dichte,184.7
+195,Saalfeld-Rudolstadt – Saale-Holzland-Kreis – Saale-Orla-Kreis,union,28.144665205402,Einwohner.Dichte,92.7
+196,Suhl – Schmalkalden-Meiningen – Hildburghausen – Sonneberg,union,30.3046896855488,Einwohner.Dichte,105.3
+197,Neuwied,union,38.188092605622,Einwohner.Dichte,244.2
+198,Ahrweiler,union,40.6279169000187,Einwohner.Dichte,184.3
+199,Koblenz,union,37.8393551750411,Einwohner.Dichte,404.9
+200,Mosel/Rhein-Hunsrück,union,41.5876981069984,Einwohner.Dichte,96
+201,Kreuznach,union,34.1372523480803,Einwohner.Dichte,144.7
+202,Bitburg,union,44.4550179928029,Einwohner.Dichte,69.4
+203,Trier,union,37.2842455014311,Einwohner.Dichte,215.7
+204,Montabaur,union,37.4594303871809,Einwohner.Dichte,180.7
+205,Mainz,union,32.7127275623634,Einwohner.Dichte,735
+206,Worms,union,32.6368966319343,Einwohner.Dichte,304.6
+207,Ludwigshafen/Frankenthal,union,30.8867140232854,Einwohner.Dichte,999.8
+208,Neustadt – Speyer,union,35.2020419283604,Einwohner.Dichte,329.7
+209,Kaiserslautern,union,29.1078318753498,Einwohner.Dichte,175
+210,Pirmasens,union,35.7656313576563,Einwohner.Dichte,161.2
+211,Südpfalz,union,34.8055469158045,Einwohner.Dichte,238.7
+212,Altötting,union,NA,Einwohner.Dichte,160.4
+213,Erding – Ebersberg,union,NA,Einwohner.Dichte,191
+214,Freising,union,NA,Einwohner.Dichte,180.8
+215,Fürstenfeldbruck,union,NA,Einwohner.Dichte,325.9
+216,Ingolstadt,union,NA,Einwohner.Dichte,177.3
+217,München-Nord,union,NA,Einwohner.Dichte,4193.7
+218,München-Ost,union,NA,Einwohner.Dichte,4732.2
+219,München-Süd,union,NA,Einwohner.Dichte,6379
+220,München-West/Mitte,union,NA,Einwohner.Dichte,4080.6
+221,München-Land,union,NA,Einwohner.Dichte,511.9
+222,Rosenheim,union,NA,Einwohner.Dichte,215.3
+223,Bad Tölz-Wolfratshausen – Miesbach,union,NA,Einwohner.Dichte,112.9
+224,Starnberg – Landsberg am Lech,union,NA,Einwohner.Dichte,221.2
+225,Traunstein,union,NA,Einwohner.Dichte,117.1
+226,Weilheim,union,NA,Einwohner.Dichte,111.3
+227,Deggendorf,union,NA,Einwohner.Dichte,107.3
+228,Landshut,union,NA,Einwohner.Dichte,142.3
+229,Passau,union,NA,Einwohner.Dichte,149.8
+230,Rottal-Inn,union,NA,Einwohner.Dichte,96.6
+231,Straubing,union,NA,Einwohner.Dichte,99.1
+232,Amberg,union,NA,Einwohner.Dichte,104.1
+233,Regensburg,union,NA,Einwohner.Dichte,227.4
+234,Schwandorf,union,NA,Einwohner.Dichte,90.9
+235,Weiden,union,NA,Einwohner.Dichte,81.5
+236,Bamberg,union,NA,Einwohner.Dichte,233.6
+237,Bayreuth,union,NA,Einwohner.Dichte,124.1
+238,Coburg,union,NA,Einwohner.Dichte,152.1
+239,Hof,union,NA,Einwohner.Dichte,137.1
+240,Kulmbach,union,NA,Einwohner.Dichte,121.5
+241,Ansbach,union,NA,Einwohner.Dichte,103.8
+242,Erlangen,union,NA,Einwohner.Dichte,377.9
+243,Fürth,union,NA,Einwohner.Dichte,205.8
+244,Nürnberg-Nord,union,NA,Einwohner.Dichte,3328
+245,Nürnberg-Süd,union,NA,Einwohner.Dichte,1873.8
+246,Roth,union,NA,Einwohner.Dichte,172.7
+247,Aschaffenburg,union,NA,Einwohner.Dichte,318.6
+248,Bad Kissingen,union,NA,Einwohner.Dichte,85.8
+249,Main-Spessart,union,NA,Einwohner.Dichte,125
+250,Schweinfurt,union,NA,Einwohner.Dichte,164
+251,Würzburg,union,NA,Einwohner.Dichte,270.2
+252,Augsburg-Stadt,union,NA,Einwohner.Dichte,1900.9
+253,Augsburg-Land,union,NA,Einwohner.Dichte,207.2
+254,Donau-Ries,union,NA,Einwohner.Dichte,107.1
+255,Neu-Ulm,union,NA,Einwohner.Dichte,194.7
+256,Oberallgäu,union,NA,Einwohner.Dichte,156.7
+257,Ostallgäu,union,NA,Einwohner.Dichte,141.4
+258,Stuttgart I,union,28.9065723180017,Einwohner.Dichte,2674.7
+259,Stuttgart II,union,29.0784670870736,Einwohner.Dichte,3413.5
+260,Böblingen,union,35.4081150972827,Einwohner.Dichte,636.9
+261,Esslingen,union,33.2988539961304,Einwohner.Dichte,1178.2
+262,Nürtingen,union,33.6752516370664,Einwohner.Dichte,630.5
+263,Göppingen,union,33.3129809177713,Einwohner.Dichte,393.5
+264,Waiblingen,union,32.9981005359202,Einwohner.Dichte,618.2
+265,Ludwigsburg,union,33.3356323821019,Einwohner.Dichte,898.4
+266,Neckar-Zaber,union,32.9540766474867,Einwohner.Dichte,501.3
+267,Heilbronn,union,32.0566122150566,Einwohner.Dichte,388.7
+268,Schwäbisch Hall – Hohenlohe,union,34.2767277040464,Einwohner.Dichte,133.5
+269,Backnang – Schwäbisch Gmünd,union,35.1696919529356,Einwohner.Dichte,288
+270,Aalen – Heidenheim,union,38.1760894120445,Einwohner.Dichte,184.7
+271,Karlsruhe-Stadt,union,27.8573651129504,Einwohner.Dichte,1774.2
+272,Karlsruhe-Land,union,35.4236436704622,Einwohner.Dichte,391.3
+273,Rastatt,union,37.8735465584436,Einwohner.Dichte,320.4
+274,Heidelberg,union,29.8815736200459,Einwohner.Dichte,1037.8
+275,Mannheim,union,27.1459701095144,Einwohner.Dichte,2109.4
+276,Odenwald – Tauber,union,39.8259456374756,Einwohner.Dichte,113.2
+277,Rhein-Neckar,union,33.4919690660321,Einwohner.Dichte,371
+278,Bruchsal – Schwetzingen,union,34.8062137346589,Einwohner.Dichte,526.6
+279,Pforzheim,union,32.7327905968496,Einwohner.Dichte,473.9
+280,Calw,union,37.1569920844327,Einwohner.Dichte,162.8
+281,Freiburg,union,28.0874341291681,Einwohner.Dichte,692.9
+282,Lörrach – Müllheim,union,34.4400111559499,Einwohner.Dichte,275.9
+283,Emmendingen – Lahr,union,35.9174011523465,Einwohner.Dichte,240.1
+284,Offenburg,union,37.1204478146256,Einwohner.Dichte,248.7
+285,Rottweil – Tuttlingen,union,38.0504905097036,Einwohner.Dichte,182.3
+286,Schwarzwald-Baar,union,37.8352165268416,Einwohner.Dichte,181.8
+287,Konstanz,union,33.2074247887216,Einwohner.Dichte,342.7
+288,Waldshut,union,39.270173465159,Einwohner.Dichte,132.1
+289,Reutlingen,union,34.5219330283342,Einwohner.Dichte,258.2
+290,Tübingen,union,30.8243953865675,Einwohner.Dichte,343.4
+291,Ulm,union,36.9553349029242,Einwohner.Dichte,213
+292,Biberach,union,43.111336281012,Einwohner.Dichte,127.4
+293,Bodensee,union,37.0930010151986,Einwohner.Dichte,271.1
+294,Ravensburg,union,38.8610698622095,Einwohner.Dichte,193.7
+295,Zollernalb – Sigmaringen,union,37.9608788464052,Einwohner.Dichte,150.4
+296,Saarbrücken,union,28.4636700565904,Einwohner.Dichte,829.3
+297,Saarlouis,union,33.6098768566713,Einwohner.Dichte,297.8
+298,St. Wendel,union,36.5272871458438,Einwohner.Dichte,270.3
+299,Homburg,union,31.0305665294064,Einwohner.Dichte,442.9
+1,Flensburg – Schleswig,union,NA,Einwohner.Dichte,132.9
+2,Nordfriesland – Dithmarschen Nord,union,NA,Einwohner.Dichte,83.6
+3,Steinburg – Dithmarschen Süd,union,NA,Einwohner.Dichte,110.4
+4,Rendsburg-Eckernförde,union,NA,Einwohner.Dichte,114.9
+5,Kiel,union,NA,Einwohner.Dichte,1873.8
+6,Plön – Neumünster,union,NA,Einwohner.Dichte,168.8
+7,Pinneberg,union,NA,Einwohner.Dichte,462.9
+8,Segeberg – Stormarn-Mitte,union,NA,Einwohner.Dichte,234.9
+9,Ostholstein – Stormarn-Nord,union,NA,Einwohner.Dichte,143
+10,Herzogtum Lauenburg – Stormarn-Süd,union,NA,Einwohner.Dichte,230.5
+11,Lübeck,union,NA,Einwohner.Dichte,579.2
+12,Schwerin – Ludwigslust-Parchim I – Nordwestmecklenburg I,union,NA,Einwohner.Dichte,74.7
+13,Ludwigslust-Parchim II – Nordwestmecklenburg II – Landkreis Rostock I,union,NA,Einwohner.Dichte,63.4
+14,Rostock – Landkreis Rostock II,union,NA,Einwohner.Dichte,273.5
+15,Vorpommern-Rügen – Vorpommern-Greifswald I,union,NA,Einwohner.Dichte,84.3
+16,Mecklenburgische Seenplatte I – Vorpommern-Greifswald II,union,NA,Einwohner.Dichte,55.2
+17,Mecklenburgische Seenplatte II – Landkreis Rostock III,union,NA,Einwohner.Dichte,40.9
+18,Hamburg-Mitte,union,NA,Einwohner.Dichte,2974.2
+19,Hamburg-Altona,union,NA,Einwohner.Dichte,3302.5
+20,Hamburg-Eimsbüttel,union,NA,Einwohner.Dichte,5096.1
+21,Hamburg-Nord,union,NA,Einwohner.Dichte,2435.9
+22,Hamburg-Wandsbek,union,NA,Einwohner.Dichte,3987.9
+23,Hamburg-Bergedorf – Harburg,union,NA,Einwohner.Dichte,1044.9
+24,Aurich – Emden,union,NA,Einwohner.Dichte,171.8
+25,Unterems,union,NA,Einwohner.Dichte,122
+26,Friesland – Wilhelmshaven – Wittmund,union,NA,Einwohner.Dichte,168.5
+27,Oldenburg – Ammerland,union,NA,Einwohner.Dichte,343.1
+28,Delmenhorst – Wesermarsch – Oldenburg-Land,union,NA,Einwohner.Dichte,151.1
+29,Cuxhaven – Stade II,union,NA,Einwohner.Dichte,91.2
+30,Stade I – Rotenburg II,union,NA,Einwohner.Dichte,128
+31,Mittelems,union,NA,Einwohner.Dichte,131
+32,Cloppenburg – Vechta,union,NA,Einwohner.Dichte,135.6
+33,Diepholz – Nienburg I,union,NA,Einwohner.Dichte,98.4
+34,Osterholz – Verden,union,NA,Einwohner.Dichte,172.5
+35,Rotenburg I – Heidekreis,union,NA,Einwohner.Dichte,78.9
+36,Harburg,union,NA,Einwohner.Dichte,199.3
+37,Lüchow-Dannenberg – Lüneburg,union,NA,Einwohner.Dichte,90.7
+38,Osnabrück-Land,union,NA,Einwohner.Dichte,138.6
+39,Stadt Osnabrück,union,NA,Einwohner.Dichte,783.6
+40,Nienburg II – Schaumburg,union,NA,Einwohner.Dichte,156.3
+41,Stadt Hannover I,union,NA,Einwohner.Dichte,2281
+42,Stadt Hannover II,union,NA,Einwohner.Dichte,3009.3
+43,Hannover-Land I,union,NA,Einwohner.Dichte,267.8
+44,Celle – Uelzen,union,NA,Einwohner.Dichte,90.4
+45,Gifhorn – Peine,union,NA,Einwohner.Dichte,154.4
+46,Hameln-Pyrmont – Holzminden,union,NA,Einwohner.Dichte,132
+47,Hannover-Land II,union,NA,Einwohner.Dichte,323.9
+48,Hildesheim,union,NA,Einwohner.Dichte,229.7
+49,Salzgitter – Wolfenbüttel,union,NA,Einwohner.Dichte,214.6
+50,Braunschweig,union,NA,Einwohner.Dichte,1308
+51,Helmstedt – Wolfsburg,union,NA,Einwohner.Dichte,208.2
+52,Goslar – Northeim – Osterode,union,NA,Einwohner.Dichte,120.3
+53,Göttingen,union,NA,Einwohner.Dichte,226.9
+54,Bremen I,union,NA,Einwohner.Dichte,2284.9
+55,Bremen II – Bremerhaven,union,NA,Einwohner.Dichte,1200.9
+56,Prignitz – Ostprignitz-Ruppin – Havelland I,union,NA,Einwohner.Dichte,36.9
+57,Uckermark – Barnim I,union,NA,Einwohner.Dichte,51.7
+58,Oberhavel – Havelland II,union,NA,Einwohner.Dichte,134.1
+59,Märkisch-Oderland – Barnim II,union,NA,Einwohner.Dichte,109.3
+60,Brandenburg an der Havel – Potsdam-Mittelmark I – Havelland III – Teltow-Fläming I,union,NA,Einwohner.Dichte,69.9
+61,Potsdam – Potsdam-Mittelmark II – Teltow-Fläming II,union,NA,Einwohner.Dichte,461.2
+62,Dahme-Spreewald – Teltow-Fläming III – Oberspreewald-Lausitz I,union,NA,Einwohner.Dichte,74.7
+63,Frankfurt (Oder) – Oder-Spree,union,NA,Einwohner.Dichte,100
+64,Cottbus – Spree-Neiße,union,NA,Einwohner.Dichte,119.2
+65,Elbe-Elster – Oberspreewald-Lausitz II,union,NA,Einwohner.Dichte,67.3
+66,Altmark,union,NA,Einwohner.Dichte,42.7
+67,Börde – Jerichower Land,union,NA,Einwohner.Dichte,67.2
+68,Harz,union,NA,Einwohner.Dichte,110
+69,Magdeburg,union,NA,Einwohner.Dichte,496.7
+70,Dessau – Wittenberg,union,NA,Einwohner.Dichte,97.2
+71,Anhalt,union,NA,Einwohner.Dichte,119.1
+72,Halle,union,NA,Einwohner.Dichte,653.1
+73,Burgenland – Saalekreis,union,NA,Einwohner.Dichte,135.4
+74,Mansfeld,union,NA,Einwohner.Dichte,107
+75,Berlin-Mitte,union,NA,Einwohner.Dichte,8972
+76,Berlin-Pankow,union,NA,Einwohner.Dichte,3244.8
+77,Berlin-Reinickendorf,union,NA,Einwohner.Dichte,2820.6
+78,Berlin-Spandau – Charlottenburg Nord,union,NA,Einwohner.Dichte,2636.3
+79,Berlin-Steglitz-Zehlendorf,union,NA,Einwohner.Dichte,2791.9
+80,Berlin-Charlottenburg-Wilmersdorf,union,NA,Einwohner.Dichte,4860.2
+81,Berlin-Tempelhof-Schöneberg,union,NA,Einwohner.Dichte,6286.8
+82,Berlin-Neukölln,union,NA,Einwohner.Dichte,7088.6
+83,Berlin-Friedrichshain-Kreuzberg – Prenzlauer Berg Ost,union,NA,Einwohner.Dichte,12655.6
+84,Berlin-Treptow-Köpenick,union,NA,Einwohner.Dichte,1496.7
+85,Berlin-Marzahn-Hellersdorf,union,NA,Einwohner.Dichte,4143.3
+86,Berlin-Lichtenberg,union,NA,Einwohner.Dichte,5239.7
+87,Aachen I,union,NA,Einwohner.Dichte,1528.7
+88,Aachen II,union,NA,Einwohner.Dichte,564.1
+89,Heinsberg,union,NA,Einwohner.Dichte,402.1
+90,Düren,union,NA,Einwohner.Dichte,279.2
+91,Rhein-Erft-Kreis I,union,NA,Einwohner.Dichte,639.9
+92,Euskirchen – Rhein-Erft-Kreis II,union,NA,Einwohner.Dichte,225.3
+93,Köln I,union,NA,Einwohner.Dichte,2271.2
+94,Köln II,union,NA,Einwohner.Dichte,3120.4
+95,Köln III,union,NA,Einwohner.Dichte,2476.6
+96,Bonn,union,NA,Einwohner.Dichte,2260.1
+97,Rhein-Sieg-Kreis I,union,NA,Einwohner.Dichte,473.5
+98,Rhein-Sieg-Kreis II,union,NA,Einwohner.Dichte,575.4
+99,Oberbergischer Kreis,union,NA,Einwohner.Dichte,297.6
+100,Rheinisch-Bergischer Kreis,union,NA,Einwohner.Dichte,646.5
+101,Leverkusen – Köln IV,union,NA,Einwohner.Dichte,2374.7
+102,Wuppertal I,union,NA,Einwohner.Dichte,2359.2
+103,Solingen – Remscheid – Wuppertal II,union,NA,Einwohner.Dichte,1535.7
+104,Mettmann I,union,NA,Einwohner.Dichte,1452.2
+105,Mettmann II,union,NA,Einwohner.Dichte,968.5
+106,Düsseldorf I,union,NA,Einwohner.Dichte,2499.6
+107,Düsseldorf II,union,NA,Einwohner.Dichte,3282.6
+108,Neuss I,union,NA,Einwohner.Dichte,850.6
+109,Mönchengladbach,union,NA,Einwohner.Dichte,1525.2
+110,Krefeld I – Neuss II,union,NA,Einwohner.Dichte,890.2
+111,Viersen,union,NA,Einwohner.Dichte,528.5
+112,Kleve,union,NA,Einwohner.Dichte,251.7
+113,Wesel I,union,NA,Einwohner.Dichte,298.1
+114,Krefeld II – Wesel II,union,NA,Einwohner.Dichte,1379.8
+115,Duisburg I,union,NA,Einwohner.Dichte,2049.1
+116,Duisburg II,union,NA,Einwohner.Dichte,2173.4
+117,Oberhausen – Wesel III,union,NA,Einwohner.Dichte,2231.6
+118,Mülheim – Essen I,union,NA,Einwohner.Dichte,2180
+119,Essen II,union,NA,Einwohner.Dichte,3636.8
+120,Essen III,union,NA,Einwohner.Dichte,2144.1
+121,Recklinghausen I,union,NA,Einwohner.Dichte,1318.5
+122,Recklinghausen II,union,NA,Einwohner.Dichte,640.3
+123,Gelsenkirchen,union,NA,Einwohner.Dichte,2481.1
+124,Steinfurt I – Borken I,union,NA,Einwohner.Dichte,278.3
+125,Bottrop – Recklinghausen III,union,NA,Einwohner.Dichte,870.8
+126,Borken II,union,NA,Einwohner.Dichte,261.3
+127,Coesfeld – Steinfurt II,union,NA,Einwohner.Dichte,194
+128,Steinfurt III,union,NA,Einwohner.Dichte,232.6
+129,Münster,union,NA,Einwohner.Dichte,1022.3
+130,Warendorf,union,NA,Einwohner.Dichte,210.3
+131,Gütersloh I,union,NA,Einwohner.Dichte,371.9
+132,Bielefeld – Gütersloh II,union,NA,Einwohner.Dichte,1170.8
+133,Herford – Minden-Lübbecke II,union,NA,Einwohner.Dichte,584.4
+134,Minden-Lübbecke I,union,NA,Einwohner.Dichte,242.8
+135,Lippe I,union,NA,Einwohner.Dichte,291.4
+136,Höxter – Lippe II,union,NA,Einwohner.Dichte,162
+137,Paderborn – Gütersloh III,union,NA,Einwohner.Dichte,252.2
+138,Hagen – Ennepe-Ruhr-Kreis I,union,NA,Einwohner.Dichte,887.3
+139,Ennepe-Ruhr-Kreis II,union,NA,Einwohner.Dichte,924.5
+140,Bochum I,union,NA,Einwohner.Dichte,2673.9
+141,Herne – Bochum II,union,NA,Einwohner.Dichte,2605.9
+142,Dortmund I,union,NA,Einwohner.Dichte,2246.6
+143,Dortmund II,union,NA,Einwohner.Dichte,1958.6
+144,Unna I,union,NA,Einwohner.Dichte,730.3
+145,Hamm – Unna II,union,NA,Einwohner.Dichte,761.9
+146,Soest,union,NA,Einwohner.Dichte,228.1
+147,Hochsauerlandkreis,union,NA,Einwohner.Dichte,134.6
+148,Siegen-Wittgenstein,union,NA,Einwohner.Dichte,247.9
+149,Olpe – Märkischer Kreis I,union,NA,Einwohner.Dichte,241.5
+150,Märkischer Kreis II,union,NA,Einwohner.Dichte,444.6
+151,Nordsachsen,union,NA,Einwohner.Dichte,97.4
+152,Leipzig I,union,NA,Einwohner.Dichte,1621.1
+153,Leipzig II,union,NA,Einwohner.Dichte,2228.1
+154,Leipzig-Land,union,NA,Einwohner.Dichte,156.5
+155,Meißen,union,NA,Einwohner.Dichte,168.6
+156,Bautzen I,union,NA,Einwohner.Dichte,116.5
+157,Görlitz,union,NA,Einwohner.Dichte,123.1
+158,Sächsische Schweiz-Osterzgebirge,union,NA,Einwohner.Dichte,149.6
+159,Dresden I,union,NA,Einwohner.Dichte,3612.5
+160,Dresden II – Bautzen II,union,NA,Einwohner.Dichte,709.6
+161,Mittelsachsen,union,NA,Einwohner.Dichte,147.4
+162,Chemnitz,union,NA,Einwohner.Dichte,1124.8
+163,Chemnitzer Umland – Erzgebirgskreis II,union,NA,Einwohner.Dichte,242.8
+164,Erzgebirgskreis I,union,NA,Einwohner.Dichte,171.4
+165,Zwickau,union,NA,Einwohner.Dichte,332.6
+166,Vogtlandkreis,union,NA,Einwohner.Dichte,164.5
+167,Waldeck,union,NA,Einwohner.Dichte,108.5
+168,Kassel,union,NA,Einwohner.Dichte,836.8
+169,Werra-Meißner – Hersfeld-Rotenburg,union,NA,Einwohner.Dichte,104.6
+170,Schwalm-Eder,union,NA,Einwohner.Dichte,104.9
+171,Marburg,union,NA,Einwohner.Dichte,194.2
+172,Lahn-Dill,union,NA,Einwohner.Dichte,238.8
+173,Gießen,union,NA,Einwohner.Dichte,213.3
+174,Fulda,union,NA,Einwohner.Dichte,127.2
+175,Main-Kinzig – Wetterau II – Schotten,union,NA,Einwohner.Dichte,150.8
+176,Hochtaunus,union,NA,Einwohner.Dichte,308
+177,Wetterau I,union,NA,Einwohner.Dichte,318.7
+178,Rheingau-Taunus – Limburg,union,NA,Einwohner.Dichte,251
+179,Wiesbaden,union,NA,Einwohner.Dichte,1354.5
+180,Hanau,union,NA,Einwohner.Dichte,734.1
+181,Main-Taunus,union,NA,Einwohner.Dichte,1027.9
+182,Frankfurt am Main I,union,NA,Einwohner.Dichte,4289
+183,Frankfurt am Main II,union,NA,Einwohner.Dichte,2252.5
+184,Groß-Gerau,union,NA,Einwohner.Dichte,587.2
+185,Offenbach,union,NA,Einwohner.Dichte,1471.2
+186,Darmstadt,union,NA,Einwohner.Dichte,760.7
+187,Odenwald,union,NA,Einwohner.Dichte,286.3
+188,Bergstraße,union,NA,Einwohner.Dichte,371
+189,Eichsfeld – Nordhausen – Kyffhäuserkreis,union,NA,Einwohner.Dichte,97.9
+190,Eisenach – Wartburgkreis – Unstrut-Hainich-Kreis,union,NA,Einwohner.Dichte,114.3
+191,Jena – Sömmerda – Weimarer Land I,union,NA,Einwohner.Dichte,156.2
+192,Gotha – Ilm-Kreis,union,NA,Einwohner.Dichte,138.5
+193,Erfurt – Weimar – Weimarer Land II,union,NA,Einwohner.Dichte,634.2
+194,Gera – Greiz – Altenburger Land,union,NA,Einwohner.Dichte,184.7
+195,Saalfeld-Rudolstadt – Saale-Holzland-Kreis – Saale-Orla-Kreis,union,NA,Einwohner.Dichte,92.7
+196,Suhl – Schmalkalden-Meiningen – Hildburghausen – Sonneberg,union,NA,Einwohner.Dichte,105.3
+197,Neuwied,union,NA,Einwohner.Dichte,244.2
+198,Ahrweiler,union,NA,Einwohner.Dichte,184.3
+199,Koblenz,union,NA,Einwohner.Dichte,404.9
+200,Mosel/Rhein-Hunsrück,union,NA,Einwohner.Dichte,96
+201,Kreuznach,union,NA,Einwohner.Dichte,144.7
+202,Bitburg,union,NA,Einwohner.Dichte,69.4
+203,Trier,union,NA,Einwohner.Dichte,215.7
+204,Montabaur,union,NA,Einwohner.Dichte,180.7
+205,Mainz,union,NA,Einwohner.Dichte,735
+206,Worms,union,NA,Einwohner.Dichte,304.6
+207,Ludwigshafen/Frankenthal,union,NA,Einwohner.Dichte,999.8
+208,Neustadt – Speyer,union,NA,Einwohner.Dichte,329.7
+209,Kaiserslautern,union,NA,Einwohner.Dichte,175
+210,Pirmasens,union,NA,Einwohner.Dichte,161.2
+211,Südpfalz,union,NA,Einwohner.Dichte,238.7
+212,Altötting,union,44.0151220325791,Einwohner.Dichte,160.4
+213,Erding – Ebersberg,union,39.0669585752239,Einwohner.Dichte,191
+214,Freising,union,39.6748440479654,Einwohner.Dichte,180.8
+215,Fürstenfeldbruck,union,39.835758156783,Einwohner.Dichte,325.9
+216,Ingolstadt,union,41.6943775978998,Einwohner.Dichte,177.3
+217,München-Nord,union,28.8280220922977,Einwohner.Dichte,4193.7
+218,München-Ost,union,31.4576424236886,Einwohner.Dichte,4732.2
+219,München-Süd,union,29.848618719444,Einwohner.Dichte,6379
+220,München-West/Mitte,union,29.7878968820582,Einwohner.Dichte,4080.6
+221,München-Land,union,37.2745235839928,Einwohner.Dichte,511.9
+222,Rosenheim,union,40.538456561125,Einwohner.Dichte,215.3
+223,Bad Tölz-Wolfratshausen – Miesbach,union,41.5629243572529,Einwohner.Dichte,112.9
+224,Starnberg – Landsberg am Lech,union,38.3021576203201,Einwohner.Dichte,221.2
+225,Traunstein,union,44.6286222801564,Einwohner.Dichte,117.1
+226,Weilheim,union,42.8706199460916,Einwohner.Dichte,111.3
+227,Deggendorf,union,40.5734495389668,Einwohner.Dichte,107.3
+228,Landshut,union,39.3971642304924,Einwohner.Dichte,142.3
+229,Passau,union,40.542693247352,Einwohner.Dichte,149.8
+230,Rottal-Inn,union,42.733838580127,Einwohner.Dichte,96.6
+231,Straubing,union,41.8939683480621,Einwohner.Dichte,99.1
+232,Amberg,union,42.6454938378031,Einwohner.Dichte,104.1
+233,Regensburg,union,37.801713016599,Einwohner.Dichte,227.4
+234,Schwandorf,union,41.4348780397068,Einwohner.Dichte,90.9
+235,Weiden,union,43.0581649773077,Einwohner.Dichte,81.5
+236,Bamberg,union,38.8739630793945,Einwohner.Dichte,233.6
+237,Bayreuth,union,41.9405320813771,Einwohner.Dichte,124.1
+238,Coburg,union,39.6189197816319,Einwohner.Dichte,152.1
+239,Hof,union,38.772249207018,Einwohner.Dichte,137.1
+240,Kulmbach,union,43.3929998282441,Einwohner.Dichte,121.5
+241,Ansbach,union,40.3576599194235,Einwohner.Dichte,103.8
+242,Erlangen,union,35.5649046617358,Einwohner.Dichte,377.9
+243,Fürth,union,35.2016539730317,Einwohner.Dichte,205.8
+244,Nürnberg-Nord,union,27.6014424929802,Einwohner.Dichte,3328
+245,Nürnberg-Süd,union,31.2128754447312,Einwohner.Dichte,1873.8
+246,Roth,union,37.7896989894064,Einwohner.Dichte,172.7
+247,Aschaffenburg,union,38.3482821632329,Einwohner.Dichte,318.6
+248,Bad Kissingen,union,44.609571343649,Einwohner.Dichte,85.8
+249,Main-Spessart,union,41.8334305811143,Einwohner.Dichte,125
+250,Schweinfurt,union,41.0959080934555,Einwohner.Dichte,164
+251,Würzburg,union,37.1535222262537,Einwohner.Dichte,270.2
+252,Augsburg-Stadt,union,31.8446372084153,Einwohner.Dichte,1900.9
+253,Augsburg-Land,union,41.3626300306311,Einwohner.Dichte,207.2
+254,Donau-Ries,union,43.3438219388937,Einwohner.Dichte,107.1
+255,Neu-Ulm,union,39.885595423817,Einwohner.Dichte,194.7
+256,Oberallgäu,union,41.5493238888794,Einwohner.Dichte,156.7
+257,Ostallgäu,union,42.0342976141019,Einwohner.Dichte,141.4
+258,Stuttgart I,union,NA,Einwohner.Dichte,2674.7
+259,Stuttgart II,union,NA,Einwohner.Dichte,3413.5
+260,Böblingen,union,NA,Einwohner.Dichte,636.9
+261,Esslingen,union,NA,Einwohner.Dichte,1178.2
+262,Nürtingen,union,NA,Einwohner.Dichte,630.5
+263,Göppingen,union,NA,Einwohner.Dichte,393.5
+264,Waiblingen,union,NA,Einwohner.Dichte,618.2
+265,Ludwigsburg,union,NA,Einwohner.Dichte,898.4
+266,Neckar-Zaber,union,NA,Einwohner.Dichte,501.3
+267,Heilbronn,union,NA,Einwohner.Dichte,388.7
+268,Schwäbisch Hall – Hohenlohe,union,NA,Einwohner.Dichte,133.5
+269,Backnang – Schwäbisch Gmünd,union,NA,Einwohner.Dichte,288
+270,Aalen – Heidenheim,union,NA,Einwohner.Dichte,184.7
+271,Karlsruhe-Stadt,union,NA,Einwohner.Dichte,1774.2
+272,Karlsruhe-Land,union,NA,Einwohner.Dichte,391.3
+273,Rastatt,union,NA,Einwohner.Dichte,320.4
+274,Heidelberg,union,NA,Einwohner.Dichte,1037.8
+275,Mannheim,union,NA,Einwohner.Dichte,2109.4
+276,Odenwald – Tauber,union,NA,Einwohner.Dichte,113.2
+277,Rhein-Neckar,union,NA,Einwohner.Dichte,371
+278,Bruchsal – Schwetzingen,union,NA,Einwohner.Dichte,526.6
+279,Pforzheim,union,NA,Einwohner.Dichte,473.9
+280,Calw,union,NA,Einwohner.Dichte,162.8
+281,Freiburg,union,NA,Einwohner.Dichte,692.9
+282,Lörrach – Müllheim,union,NA,Einwohner.Dichte,275.9
+283,Emmendingen – Lahr,union,NA,Einwohner.Dichte,240.1
+284,Offenburg,union,NA,Einwohner.Dichte,248.7
+285,Rottweil – Tuttlingen,union,NA,Einwohner.Dichte,182.3
+286,Schwarzwald-Baar,union,NA,Einwohner.Dichte,181.8
+287,Konstanz,union,NA,Einwohner.Dichte,342.7
+288,Waldshut,union,NA,Einwohner.Dichte,132.1
+289,Reutlingen,union,NA,Einwohner.Dichte,258.2
+290,Tübingen,union,NA,Einwohner.Dichte,343.4
+291,Ulm,union,NA,Einwohner.Dichte,213
+292,Biberach,union,NA,Einwohner.Dichte,127.4
+293,Bodensee,union,NA,Einwohner.Dichte,271.1
+294,Ravensburg,union,NA,Einwohner.Dichte,193.7
+295,Zollernalb – Sigmaringen,union,NA,Einwohner.Dichte,150.4
+296,Saarbrücken,union,NA,Einwohner.Dichte,829.3
+297,Saarlouis,union,NA,Einwohner.Dichte,297.8
+298,St. Wendel,union,NA,Einwohner.Dichte,270.3
+299,Homburg,union,NA,Einwohner.Dichte,442.9
